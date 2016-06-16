@@ -1,0 +1,443 @@
+Abĩrika	非洲
+Japan	日本
+Amerika ya Kuthini	南美洲
+Ngeretha	英格兰
+Macartsa	匈牙利
+United States	美国
+Binirandi	芬兰
+Cuindeni	瑞典
+Ndenimaki	丹麦
+Rithuĩnia	立陶宛
+Itari	意大利
+Ngiriki	希腊
+Takĩ	土耳其
+Wikipedia	维基百科
+Netharandi	荷兰
+Los Angeles	洛杉矶
+Kenya	肯尼亚
+Ethiopia	埃塞俄比亚
+Ghana	加纳
+Baranja	法国
+Esperanto	世界语
+China	中华人民共和国
+Wiktionary	维基词典
+Brazil	巴西
+Racia	俄罗斯
+Wikimedia	维基媒体基金会
+Jimmy Wales	吉米·威爾斯
+Njĩrĩmani	德国
+Azerbaijan	阿塞拜疆
+Canimarino	圣马力诺
+Intel	英特尔
+Indonesia	印度尼西亚
+Abĩrika ya Kuthini	南非
+Algeria	阿尔及利亚
+Mai	水
+Terebiceni	电视
+Singapore	新加坡
+Wikibooks	維基教科書
+Bahrain	巴林
+Armenia	亞美尼亞
+İstanbul	伊斯坦堡
+Australia	澳大利亚
+Physics	物理学
+Argentina	阿根廷
+Peru	秘鲁
+Bayorojĩ	生物学
+Mount Everest	珠穆朗瑪峰
+Napoleon	拿破仑一世
+Hydrogen	氢
+Helium	氦
+Lithium	锂
+Beryllium	铍
+Carbon	碳
+Nitrogen	氮
+Oxygen	氧
+Chad	乍得
+Sodium	钠
+Magnesium	镁
+Aluminium	铝
+Silicon	硅
+Phosphorous	磷
+Iron	铁
+Potasium	钾
+Calcium	钙
+Titanium	钛
+Ecuador	厄瓜多尔
+Copper	铜
+Mĩmera	植物
+Zinc	锌
+Fungi	真菌
+Jamaica	牙买加
+Haiti	海地
+Iraq	伊拉克
+Panama	巴拿马
+Yemen	也门
+Virus	病毒
+Laos	老挝
+Malaysia	马来西亚
+Burma	缅甸
+Pakistan	巴基斯坦
+Sri Lanka	斯里蘭卡
+Syria	叙利亚
+Thailand	泰国
+United Arab Emirates	阿拉伯联合酋长国
+Platinum	铂
+Vietnam	越南
+South Korea	大韩民国
+Afghanistan	阿富汗
+Gold	金
+Bangladesh	孟加拉国
+Angola	安哥拉
+Bhutan	不丹
+Brunei	文莱
+Tanzania	坦桑尼亚
+Isaac Newton	艾萨克·牛顿
+Zimbabwe	辛巴威
+Sũdana ya Kuthini	南蘇丹
+Benin	贝宁
+Botswana	波札那
+Burkina Faso	布吉納法索
+Burundi	蒲隆地
+Republic of the Congo	刚果共和国
+Democratic Republic of the Congo	刚果民主共和国
+Djibouti	吉布提
+Gabon	加蓬
+Gambia	冈比亚
+Côte d'Ivoire	科特迪瓦
+Cameroon	喀麦隆
+Lesotho	莱索托
+Madagascar	马达加斯加
+Malawi	马拉维
+Namibia	纳米比亚
+Nigeria	奈及利亞
+Uganda	乌干达
+Rwanda	卢旺达
+Somalia	索马里
+Julius Caesar	尤利烏斯·凱撒
+Sũdana	苏丹共和国
+Usain Bolt	尤塞恩·博尔特
+Piemonte	皮埃蒙特
+Valle d'Aosta	瓦莱达奥斯塔
+Emilia-Romagna	艾米利亚-罗马涅
+Chicago	芝加哥
+Uetersen	于特森
+Augustus	奥古斯都
+Campania	坎帕尼亚
+Puglia	普利亚
+Biblia	聖經
+Kanitha wa Jesũ wa ma	真耶稣教会
+Dong Hoi	同海市
+Concepción	康塞普西翁 (智利)
+Microsoft	微软
+Kemu	化學
+Ankara	安卡拉
+Nairobi	奈洛比
+Osasco	奥萨斯库
+Curitiba	庫里奇巴
+Monzón	蒙宗
+Almazán	艾爾瑪善鎮
+Bill Gates	比尔·盖茨
+Main Page	Wikipedia:首页
+Cipiyu	中央处理器
+Penza	奔萨
+Frank Lloyd Wright	弗蘭克·勞埃德·賴特
+Category:Candidates for speedy deletion	Category:快速删除候选
+Niels Bohr	尼尔斯·玻尔
+Bengi ya Thĩ	世界银行
+Ndemookirathĩ	民主
+Kĩheo ya Nobero	诺贝尔奖
+Mount Kilimajaro	乞力马扎罗山
+Mammal	哺乳动物
+WHO	世界卫生组织
+Thayathi cia ndũire	自然科学
+Tsunami	海啸
+Logic	逻辑
+Algorithm	算法
+Thomas Edison	爱迪生
+Michael Faraday	麥可·法拉第
+Henry Ford	亨利·福特
+Cancún	坎昆
+Atomu	原子
+Erwin Schrodinger	埃尔温·薛定谔
+Ronald Reagan	罗纳德·里根
+Metha Njokereri	元素周期表
+Bacteria	细菌
+Robot	机器人
+Macini	机械
+Injiniarini	工程学
+Gatheti	報紙
+Microsoft obici	Microsoft Office
+Bobbio	博比奥
+AIDS	艾滋病
+Thiori ya Seti	集合论
+Abacus	算盘
+Piacenza	皮亚琴察
+Taranto	塔兰托
+ISO	國際標準化組織
+Province ya Piacenza	皮亚琴察省
+Province ya Taranto	塔蘭托省
+Template:Link FA	Template:Link FA
+Wikipedia:Community Portal	Wikipedia:互助客栈
+GPS	全球定位系统
+Friedrich Schiller	弗里德里希·席勒
+Moshchena	穆夏那
+Paltoga	帕托加
+Kihuruta	鱗翅目
+Paradigm	范式
+Linus Torvalds	林纳斯·托瓦兹
+Thayathi cia social	社会科学
+İzmir	伊兹密尔
+Siligo	西利戈
+Markup languages	置标语言
+IBM	IBM
+John Michael Talbot	约翰·約瑟夫·塔波特
+Mawatho matano ma Newton	牛顿运动定律
+Radio Studio 54 Network	第54演播室電台聯播網
+Neural networks	生物神经网络
+Montehermoso	蒙特埃尔莫索
+Ford	福特汽车
+Template:Commonscat	Template:Commons category
+Toyota	丰田汽车
+Cartesian Coordinates	笛卡儿坐标系
+Agazzano	阿加扎诺
+Alseno	阿尔塞诺
+Besenzone	贝森佐内
+Bettola	贝托拉
+Borgonovo Val Tidone	博尔戈诺沃瓦尔蒂多内
+Cadeo	卡德奥
+Calendasco	卡伦达斯科
+Caminata	卡米纳塔
+Caorso	考尔索
+Carpaneto Piacentino	卡尔帕内托皮亚琴蒂诺
+Castel San Giovanni	卡斯泰尔圣焦万尼
+Castell'Arquato	卡斯泰拉尔夸托
+Castelvetro Piacentino	卡斯泰尔韦特罗皮亚琴蒂诺
+Cerignale	切里尼亚莱
+Coli	科利
+Corte Brugnatella	科尔泰布鲁尼亚泰拉
+Cortemaggiore	科尔泰马焦雷
+Farini	法里尼
+Ferriere	费列雷
+Fiorenzuola d'Arda	菲奥伦佐拉达尔达
+Gazzola	加佐拉
+Gossolengo	戈索伦戈
+Gragnano Trebbiense	格拉尼亚诺特雷别恩塞
+Gropparello	格罗帕雷洛
+Lugagnano Val d'Arda	卢加尼亚诺瓦尔达尔达
+Monticelli d'Ongina	蒙蒂切利东吉纳
+Morfasso	莫尔法索
+Nibbiano	尼比亚诺
+Ottone	奥托内
+Pecorara	佩科拉拉
+Pianello Val Tidone	皮亚内洛瓦尔蒂多内
+Piozzano	皮奥扎诺
+Podenzano	波登扎诺
+Ponte dell'Olio	蓬泰德洛廖
+Pontenure	蓬泰努雷
+Rivergaro	里韦尔加罗
+Rottofreno	罗托夫雷诺
+San Giorgio Piacentino	圣焦尔焦皮亚琴蒂诺
+San Pietro in Cerro	圣皮耶特罗因切罗
+Sarmato	萨尔马托
+Travo	特拉沃
+Vernasca	韦尔纳斯卡
+Vigolzone	维戈尔佐内
+Villanova sull'Arda	维拉诺瓦苏拉尔达
+Zerba	泽尔巴
+Ziano Piacentino	齐亚诺皮亚琴蒂诺
+RFID	射频识别
+Cybernetics	控制论
+Bioinformatics	生物信息学
+Euclidean Geometry	欧几里得几何
+Macini ya Turing	图灵机
+Silicon Valley	硅谷
+Maywood	梅坞市
+Kĩrĩnyaga	肯尼亚山
+Boolean Logic	逻辑代数
+Jomo Kenyatta	乔莫·肯雅塔
+Thomas Kuhn	托马斯·库恩
+Fujitsu	富士通
+Ũramati ũũgĩ	知识管理
+Tectonics	地质构造
+Banovci (Nijemci)	巴諾夫齊
+Microscope	顯微鏡
+Tigranes II	提格兰二世
+Cyberspace	信息空间
+Palestine	巴勒斯坦国
+Anggun	安谷
+Fuzzy Logic	模糊逻辑
+Ũtuĩria na ũthondeki	研究開發
+Ngũgĩ wa Thiong'o	恩古吉·瓦·提昂戈
+Gatagati mkoa, Kenya	中部省 (肯尼亚)
+Bengi ya Gũkũria Abĩrika	非洲開發銀行
+Hithitorĩ ya Kemu	化学史
+Dévanos	德瓦诺斯
+Caribbean	加勒比地区
+Genrich Altshuller	根里奇·阿奇舒勒
+Alentisque	阿伦蒂斯克
+Adradas	阿德拉达斯
+Arenillas	阿雷尼利亚斯
+Barcones	巴尔科内斯
+Pozalmuro	波萨尔穆罗
+Duruelo de la Sierra	杜鲁埃洛德拉谢拉
+Pinilla del Campo	皮尼利亚德尔坎波
+Ucero	乌塞罗
+Portillo de Soria	波尔蒂略德索里亚
+Herrera de Soria	埃雷拉德索里亚
+Deza	德萨
+Barca	巴尔卡
+Hinojosa del Campo	伊诺霍萨德尔坎波
+Category:German	Category:德国
+Category:Italy	Category:意大利
+Category:USA	Category:美国
+Category:Urusi	Category:俄罗斯
+Category:Spain	Category:西班牙
+Category:Turkey	Category:土耳其
+Ngima	乌咖哩
+Category:South Korea	Category:大韓民國
+Category:Thayathi cia ndũire	Category:自然科学
+Category:Kemu	Category:化学
+Category:Sport	Category:体育
+Category:Thayathi	Category:科学
+Nyamű	肯尼亚野生生物服务署
+Wikipedia:Administrators	Wikipedia:管理员
+Category:Medicine	Category:医学
+Category:Politics	Category:政治
+Egypt	埃及
+Template:Bot	Template:Bot
+Canada	加拿大
+Category:Rũraya	Category:欧洲
+Template:Documentation	Template:Documentation
+Sung Jae-ki	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Wikipedia:Statistics	Wikipedia:统计
+Template:Navbox	Template:Navbox
+Category:Abĩrika	Category:非洲
+Template:Babel	Template:Babel
+Template:Commons	Template:Commons
+Template:User af-1	Template:User af-1
+Template:User ar-1	Template:User ar-1
+Template:User az	Template:User az
+Template:User bar-1	Template:User bar-1
+Template:User eo-1	Template:User eo-1
+Template:User da-2	Template:User da-2
+Template:User ca-4	Template:User ca-4
+Template:User be-2	Template:User be-2
+Template:User da-1	Template:User da-1
+Template:User cs-1	Template:User cs-1
+Template:User bg-1	Template:User bg-1
+Template:User eo-3	Template:User eo-3
+Template:User de	Template:User de
+Template:User de-1	Template:User de-1
+Template:User eu	Template:User eu
+Template:User et-1	Template:User et-1
+Template:User el	Template:User el
+Template:User es	Template:User es
+Template:User de-3	Template:User de-3
+Template:User en-3	Template:User en-3
+Template:User el-1	Template:User el-1
+Template:User en-1	Template:User en-1
+Template:User en-2	Template:User en-2
+Template:User eo-2	Template:User eo-2
+Template:User en-4	Template:User en-4
+Template:User fi	Template:User fi
+Template:User en-0	Template:User en-0
+Template:User en	Template:User en
+Template:User de-2	Template:User de-2
+Template:User es-1	Template:User es-1
+Template:User fa	Template:User fa
+Template:User fi-1	Template:User fi-1
+Template:User fr-1	Template:User fr-1
+Template:User ia-2	Template:User ia-2
+Template:User hi-1	Template:User hi-1
+Template:User hr	Template:User hr
+Template:User he-1	Template:User he-1
+Template:User hu	Template:User hu
+Template:User id-3	Template:User id-3
+Template:User io-3	Template:User io-3
+Template:User it-3	Template:User it-3
+Template:User ja-4	Template:User ja-4
+Template:User sk	Template:User sk
+Template:User tr-2	Template:User tr-2
+Template:User fr-2	Template:User fr-2
+Template:User ja	Template:User ja
+Template:User ja-1	Template:User ja-1
+Template:User it-1	Template:User it-1
+Template:User hr-1	Template:User hr-1
+Template:User fr	Template:User fr
+Template:User gsw-1	Template:User gsw-1
+Category:Amerika ya Kuthini	Category:南美洲
+Category:Football	Category:足球
+Template:Mod	Template:Mod
+Template:User uk	Template:User uk
+Template:User es-2	Template:User es-2
+Template:Welcome	Template:Welcome
+Template:Bururi wa Abĩrika	Template:Africa
+Template:Documentation/docname	Template:Documentation/docname
+Template:User zh	Template:User zh
+Template:Legend	Template:Legend
+Template:User ru-4	Template:User ru-4
+Template:Pp-template	Template:Pp-template
+Template:User nl-1	Template:User nl-1
+Template:User nl-2	Template:User nl-2
+Category:America	Category:美洲
+Template:Mikoa cia Italy	Template:Italy
+Template:User pt-1	Template:User pt-1
+Template:ICD10	Template:ICD10
+Template:User oc-4	Template:User oc-4
+Template:User pl	Template:User pl
+Template:User nl	Template:User nl
+Template:User no-2	Template:User no-2
+Template:Emergency-bot-shutoff	Template:Emergency-bot-shutoff
+Template:User pl-1	Template:User pl-1
+Template:User lt	Template:User lt
+Template:User nds-1	Template:User nds-1
+Template:User ar	Template:User ar
+Template:User ksh	Template:User ksh
+Template:User no	Template:User no
+Template:User sv-2	Template:User sv-2
+Template:User lb-1	Template:User lb-1
+Template:User la-1	Template:User la-1
+Category:Template documentation	Category:模板說明文件
+Category:User be-2	Category:Be-2 使用者
+Template:User pdc-1	Template:User pdc-1
+Category:User sk-N	Category:Sk 母語使用者
+Template:User la-3	Template:User la-3
+Template:User sv-1	Template:User sv-1
+Template:User sw-1	Template:User sw-1
+Template:User ka-1	Template:User ka-1
+Category:Thayathi cia social	Category:社会科学
+Template:User ru-2	Template:User ru-2
+Template:User es-3	Template:User es-3
+Template:User ko-3	Template:User ko-3
+Template:ICD9	Template:ICD9
+Category:Kenya	Category:肯亞
+Template:User ca-3	Template:User ca-3
+Template:User cs-3	Template:User cs-3
+Template:User la-2	Template:User la-2
+Template:User li-1	Template:User li-1
+Template:User mk-1	Template:User mk-1
+Template:User nn-2	Template:User nn-2
+Template:User no-1	Template:User no-1
+Template:User pt	Template:User pt
+Template:User ru-1	Template:User ru-1
+Template:User sk-1	Template:User sk-1
+Template:User sk-2	Template:User sk-2
+Template:User sr-1	Template:User sr-1
+Template:User sxu-1	Template:User sxu-1
+Template:User uk-4	Template:User uk-4
+Template:User vo-1	Template:User vo-1
+Template:User zh-1	Template:User zh-1
+Template:User zh-2	Template:User zh-2
+Template:User pfl-1	Template:User pfl-1
+Object oriented Design	面向对象设计
+Category:Mirimu	Category:疾病
+Template:User sl-1	Template:User sl-1
+Trojany	特洛疆尼
+Template:User tokipona-1	Template:User tokipona-1
+Template:User eur-1	Template:User eur-1
+Template:User vls-1	Template:User vls-1
+Template:User sh-2	Template:User sh-2
+Special:RecentChanges	Special:最近更改

@@ -1,0 +1,1649 @@
+Africa	非洲
+Japan	日本
+South America	南美洲
+Norway	挪威
+Scotland	蘇格蘭
+Wales	威爾士
+Ireland	爱尔兰共和国
+Hungary	匈牙利
+Spain	西班牙
+United States of America	美国
+Belgium	比利时
+Luxembourg	卢森堡
+Rudunhumwe	宇宙
+Rinopasi	地球
+Finland	芬兰
+Sweden	瑞典
+Denmark	丹麦
+Poland	波兰
+Lithuania	立陶宛
+Italy	意大利
+Switzerland	瑞士
+Austria	奥地利
+Greece	希腊
+Turkey	土耳其
+Doro	啤酒
+Portugal	葡萄牙
+Europe	欧洲
+Asia	亚洲
+North America	北美洲
+Netherlands	荷兰
+Mboro	阴茎
+Washington, DC	华盛顿哥伦比亚特区
+Bern	伯尔尼
+Uruguay	乌拉圭
+London	伦敦
+Cairo	开罗
+Alexandria	亚历山大港
+Paris	巴黎
+Mexico	墨西哥
+Gungwa reAtlantic	大西洋
+Gungwa rePacific	太平洋
+Muvhuro	星期一
+Kenya	肯尼亚
+Ethiopia	埃塞俄比亚
+Ghana	加纳
+Gunyana	9月
+Chipiri	星期二
+Chitatu	星期三
+China (Musi)	星期四
+Chishanu (musi)	星期五
+Mugovera	星期六
+Svondo (musi)	星期日
+Shumba	狮
+France	法国
+Imbwa	犬
+United Kingdom	英国
+Katsi	猫
+China (nyika)	中华人民共和国
+Hove	鱼
+Brazil	巴西
+Russian Federation	俄罗斯
+Skweya	正方形
+Germany	德国
+Belarus	白俄罗斯
+Iceland	冰岛
+Mwari	神 (一神教)
+Estonia	爱沙尼亚
+Ndege	固定翼飛機
+Hondo	战争
+Motsi	1
+Piri	2
+Tatu	3
+China	4
+Shanu	5
+Chipasina	0
+Ruramamakonyo	矩形
+Rurama (pimanyika)	直角
+Latvia	拉脫維亞
+Ukraine	乌克兰
+Czechia	捷克
+Slovakia	斯洛伐克
+Slovenia	斯洛文尼亚
+Vilnius	维尔纽斯
+Moldova	摩尔多瓦
+Romania	羅馬尼亞
+Bulgaria	保加利亚
+Rome	罗马
+Macedonia	馬其頓共和國
+Albania	阿尔巴尼亚
+Croatia	克罗地亚
+Bosnia and Herzegovina	波斯尼亚和黑塞哥维那
+Azerbaijan	阿塞拜疆
+Andorra	安道尔
+Cyprus	賽普勒斯
+Georgia	格鲁吉亚
+Kazakhstan	哈萨克斯坦
+Malta	马耳他
+Monaco	摩纳哥
+Montenegro	蒙特內哥羅
+Vatican City	梵蒂冈
+San Marino	圣马力诺
+Brussels	布鲁塞尔-首都大区
+Cuba	古巴
+Belize	伯利兹
+Barbados	巴巴多斯
+Indonesia	印度尼西亚
+South Africa	南非
+Algeria	阿尔及利亚
+Uzbekistan	乌兹别克斯坦
+Tashkent	塔什干
+Warsaw	华沙
+Mvura	水
+Dehwe	皮革
+Chile	智利
+Nhoroondo	历史
+Mutauro	語言
+Zvechadenga	天文學
+Singapore	新加坡
+Liechtenstein	列支敦斯登
+Hondo yePasirose yeChiposhi	第一次世界大战
+Hondo yePasirose yeChipiri	第二次世界大战
+Skopje	斯科普里
+Masvomhu	数学
+Bahrain	巴林
+Armenia	亞美尼亞
+Serbia	塞尔维亚
+Mwedzi (mutumbi)	月球
+Australia	澳大利亚
+Fundoyetsimba	物理学
+Argentina	阿根廷
+Peru	秘鲁
+Ketaupenyu	生物学
+North Korea	朝鲜民主主义人民共和国
+Cambodia	柬埔寨
+Ketamhuka	动物学
+Islam	伊斯兰教
+Ljubljana	卢布尔雅那
+Rugare	和平
+Mukadzi	女性
+Sofia	索菲亞
+Husimbe	懶惰
+Nyemwerera	微笑
+Milan	米蘭
+Dhodhi	糞便
+Mukosho	肛门
+Ruva	花
+Guta	城市
+Nyenyedzi	恒星
+Zuva	太阳
+Dandira reMushana	太阳系
+Bhuku	图书
+Musi	日
+East Timor	东帝汶
+Husiku	晚上
+Gore	年
+Mwaka wechizana	世纪
+Oslo	奥斯陆
+Lisbon	里斯本
+Nyeredzi	行星
+Mimhanzi	音乐
+Moscow	莫斯科
+Chad	乍得
+Maodzanyemba	北
+New Zealand	新西兰
+Chamhembe	南
+India	印度
+Tuvalu	圖瓦盧
+Tonga	東加
+Madokero	西
+Samoa	萨摩亚
+Mabvazuva	東
+Solomon Islands	所罗门群岛
+Vanuatu	瓦努阿图
+Papua New Guinea	巴布亚新几内亚
+Palau	帛琉
+Nauru	諾魯
+Federated States of Micronesia	密克罗尼西亚联邦
+Marshall Islands	馬紹爾群島
+Kiribati	基里巴斯
+Mongolia	蒙古国
+Fiji	斐濟
+Venezuela	委內瑞拉
+Bhiza	马
+Amsterdam	阿姆斯特丹
+Zvombo	武器
+Mhuka	动物
+Suriname	蘇利南
+Paraguay	巴拉圭
+Guyana	圭亚那
+Ecuador	厄瓜多尔
+Colombia	哥伦比亚
+Bolivia	玻利維亞
+Trinidad and Tobago	千里達及托巴哥
+Madzinde	植物
+Saint Vincent and the Grenadines	圣文森特和格林纳丁斯
+Zeng'e	锌
+Saint Lucia	圣卢西亚
+Saint Kitts and Nevis	聖克里斯多福與尼維斯
+Jamaica	牙买加
+Grenada	格林纳达
+Guatemala	危地马拉
+The Bahamas	巴哈马
+Huku	鸡
+Antigua and Barbuda	安提瓜和巴布达
+Honduras	洪都拉斯
+Dominica	多米尼克
+Dominican Republic	多明尼加
+Nguruve	家豬
+Haiti	海地
+El Salvador	萨尔瓦多
+Iran	伊朗
+Iraq	伊拉克
+Costa Rica	哥斯达黎加
+Israel	以色列
+Panama	巴拿马
+Yemen	也门
+Jordan	约旦
+Nicaragua	尼加拉瓜
+Florida	佛罗里达州
+Kyrgyzstan	吉尔吉斯斯坦
+Kuwait	科威特
+Laos	老挝
+Lebanon	黎巴嫩
+Maldives	马尔代夫
+America (dzose)	美洲
+Malaysia	马来西亚
+Burma	缅甸
+Nepal	尼泊尔
+Oman	阿曼
+Pakistan	巴基斯坦
+Qatar	卡塔尔
+Saudi Arabia	沙特阿拉伯
+Sri Lanka	斯里蘭卡
+Syria	叙利亚
+Tajikistan	塔吉克斯坦
+Taiwan	中華民國
+Thailand	泰国
+Chitima	鐵路列車
+Turkmenistan	土库曼斯坦
+United Arab Emirates	阿拉伯联合酋长国
+Vietnam	越南
+South Korea	大韩民国
+Afghanistan	阿富汗
+Muronga Suez Canal	苏伊士运河
+Bangladesh	孟加拉国
+Mali	马里共和国
+Angola	安哥拉
+Bhutan	不丹
+Brunei	文莱
+Tanzania	坦桑尼亚
+Philippines	菲律宾
+Central African Republic	中非共和國
+Isaac Newton	艾萨克·牛顿
+Togo	多哥
+Tunisia	突尼西亞
+Zambia (nyika)	赞比亚
+Zimbabwe	辛巴威
+Beijing	北京市
+South Sudan	南蘇丹
+Benin	贝宁
+Botswana	波札那
+Burkina Faso	布吉納法索
+Burundi	蒲隆地
+Comoros	葛摩
+Republic of the Congo	刚果共和国
+Democratic Republic of the Congo	刚果民主共和国
+Djibouti	吉布提
+Equatorial Guinea	赤道几内亚
+Eritrea	厄立特里亚
+New Delhi	新德里
+Tbilisi	第比利斯
+Mucheche	嬰兒
+Gabon	加蓬
+Gambia	冈比亚
+Guinea	几内亚
+Guinea-Bissau	幾內亞比索
+Côte d'Ivoire	科特迪瓦
+Cameroon	喀麦隆
+Cape Verde	佛得角
+Lesotho	莱索托
+Liberia	利比里亚
+Libya	利比亚
+Madagascar	马达加斯加
+Malawi	马拉维
+Mauritania	毛里塔尼亚
+Mauritius	毛里求斯
+Morocco	摩洛哥
+Mozambique	莫桑比克
+Namibia	纳米比亚
+Niger	尼日尔
+Nigeria	奈及利亞
+Uganda	乌干达
+Rwanda	卢旺达
+Sao Tome and Principe	圣多美和普林西比
+Senegal	塞内加尔
+Seychelles	塞舌尔
+Sierra Leone	塞拉利昂
+Somalia	索马里
+Julius Caesar	尤利烏斯·凱撒
+Sudan	苏丹共和国
+Swaziland	斯威士兰
+Mubatanidzwa weNyika Pasirose	联合国
+Ketanyika	地质学
+Taranyika	地理学
+Moyo	心臟
+Huropi	脑
+Prague	布拉格
+Jerusalem	耶路撒冷
+Kosovo	科索沃
+Chicago	芝加哥
+Chirimo	春季
+Tsazahusiku	晝夜平分點
+Montevideo	蒙得维的亚
+Dhaka	达卡
+Buwe	蜘蛛
+Islamabad	伊斯兰堡
+Muchero	果实
+Shoko	猴
+Mari	貨幣
+Zagreb	萨格勒布
+Manila	马尼拉
+Buenos Aires	布宜諾斯艾利斯
+Mexico City	墨西哥城
+Tokyo	東京都
+La Paz	拉巴斯
+Dziva rokushambira	游泳池
+Abu Dhabi	阿布扎比
+Astana	阿斯塔納
+Athens	雅典
+Baghdad	巴格达
+Caracas	卡拉卡斯
+Guatemala City	瓜地馬拉市
+Havana	哈瓦那
+Vienna	維也納
+Copenhagen	哥本哈根
+Stockholm	斯德哥尔摩
+Helsinki	赫尔辛基
+Dublin	都柏林
+Reykjavík	雷克雅維克
+Tallinn	塔林
+Riga	里加
+Bratislava	布拉迪斯拉发
+Budapest	布达佩斯
+Vaduz	瓦都茲
+Bhaibheri	聖經
+City of San Marino	聖馬力諾 (城市)
+Phnom Penh	金边
+Guta reHo Chi Minh	胡志明市
+Hanoi	河內市
+True Jesus Church	真耶稣教会
+Chirungu	英语
+Bangkok	曼谷
+Andorra la Vella	安道尔城
+Kuala Lumpur	吉隆坡
+Taipei	臺北市
+Dong Hoi	同海市
+Kyiv	基輔
+Ottawa	渥太華
+Juba	朱巴
+Yerevan	葉里溫
+Dar es Salaam	达累斯萨拉姆
+Khartoum	喀土穆
+Kudya	食物
+Nyoka	蛇
+Nhanzvi	口交
+Minsk	明斯克
+Chemishonga	化學
+Mogadishu	摩加迪休
+Nassau	拿骚 (巴哈马)
+Sana'a	萨那
+Nhabvu	足球
+Rutsvamhumburu	納粹大屠殺
+Madrid	马德里
+Bogotá	波哥大
+Brasília	巴西利亚
+Lima	利馬
+Santiago	圣地亚哥-德智利
+Quito	基多
+Asunción	亞松森
+Mbudzi	家山羊
+Paramaribo	帕拉马里博
+Mukomana	男孩
+Musikana	女孩
+Kathmandu	加德滿都
+Belmopan	貝爾墨邦
+San José	聖荷西 (哥斯大黎加)
+San Salvador	聖薩爾瓦多
+Canberra	堪培拉
+Moto	火
+Tegucigalpa	德古斯加巴
+Managua	馬納瓜
+Panama City	巴拿馬城
+Rwizi Nile	尼罗河
+Rabat	拉巴特
+Algiers	阿爾及爾
+Tunis	突尼斯市
+Tripoli	的黎波里
+Djibouti (city)	吉布地市
+Tehran	德黑兰
+Addis Ababa	亚的斯亚贝巴
+Jakarta	雅加达
+Ankara	安卡拉
+Asmara	阿斯馬拉
+N'Djamena	恩賈梅納
+Nouakchott	努瓦克肖特
+Riyadh	利雅德
+Bamako	巴馬科
+Belgrade	贝尔格莱德
+Dakar	達喀爾
+Banjul	班竹
+Conakry	科納克里
+Bissau	比绍
+Monrovia	蒙羅維亞
+Praia	培亞
+Accra	阿克拉
+Damascus	大马士革
+Yamoussoukro	亚穆苏克罗
+French Guiana	法屬圭亞那
+Ouagadougou	瓦加杜古
+Freetown	弗里敦
+Abuja	阿布贾
+Lomé	洛美
+Porto-Novo	波多诺伏
+Amman	安曼
+Yaoundé	雅温得
+Malabo	馬拉博
+Beirut	贝鲁特
+Libreville	利伯维尔
+Muscat	马斯喀特
+Bangui	班基
+Kinshasa	金夏沙
+Brazzaville	布拉柴维尔
+Bujumbura	布琼布拉
+Nicosia	尼科西亚
+Kigali	吉佳利
+Doha	多哈
+Dodoma	多多马
+Nairobi	奈洛比
+Lilongwe	利隆圭
+Lusaka	路沙卡
+Manama	麦纳麦
+Kudzikatidzwa kwezuva	日食
+Maputo	马普托
+Kampala	坎帕拉
+Luanda	罗安达
+Moroni	莫洛尼
+Mbabane	墨巴本
+Maseru	马塞卢
+Muravanembiri	二进制
+Chikoro	学校
+Antananarivo	塔那那利佛
+Gaborone	嘉柏隆里
+Harare	哈拉雷
+Pretoria	比勒陀利亞
+Port Louis	路易港
+São Tomé	圣多美
+Windhoek	温得和克
+Victoria (Seychelles)	维多利亚 (塞舌尔)
+Imba	住宅
+Rwizi	河流
+Boterekwa	轨道 (力学)
+Dong Hoi Airport	同海機場
+Mukaha weChadenga	外层空间
+Chiringakure	望远镜
+Curitiba	庫里奇巴
+Sango	森林
+Category:Masvomhu	Category:数学
+Mbiru	柱
+Gungwa Mediterranean	地中海
+Chitendero chechiKristu	基督教
+Mupunga	稻
+Ziwumbe	洲
+Shiri	鸟
+Mwedzi (Mwaka)	月
+Peji Rekutanga	Wikipedia:首页
+Cape Town	開普敦
+Durban	德班
+Bhazi	公共汽車
+Kabul	喀布尔
+Gumbeze	被子
+Kusvira	性交
+Mbutu	阴道
+Category:Candidates for speedy deletion	Category:快速删除候选
+Shambira	游泳
+Category:Zvechadenga	Category:天文学
+Mbayo	唯物主义
+Matongerwo eNyika	政治
+Kupatsanura zvipenyu	分类学
+Baradzira	政治宣传
+Kilimanjaro	乞力马扎罗山
+Kutsvoda	親吻
+Rudzi rwaIsrael	犹太人
+Nzeve	耳
+Mhuno	鼻
+Ziso	眼
+Humhutu	蚊
+Hwayi	綿羊
+Nghamera	骆驼
+Dzinoyamwisa	哺乳动物
+Nzou	象
+Nyuchi	蜂族
+Amai (vakakubereka)	母親
+Sinowo	雪
+Baba	父親
+Vabereki	親本
+Vana	儿童
+Ngongoni	角马
+Chingwa	麵包
+Sangano reHutano Pasirose	世界卫生组织
+Chimbuzi	馬桶
+Sera (rezvinorarama)	细胞
+Ropa	血液
+Mapapu	肺
+Casablanca	卡萨布兰卡
+Kundengenyeka kwenyika	地震
+Muchegwa	礦物
+Chokwadi	真理
+Mashandiro eZvinhu Zvisingararami	自然科学
+Dombo	岩石
+Chikwatamabwe	火山
+Pimagonyonhatu	三角学
+Pimanyika	几何学
+Mhepo	風
+Gute romweya	大气层
+Muchenga Pfuma	经济学
+Hushangazhi	产业
+Misambo paBonde	性交体位
+Bonyora	自慰
+Chita	社会
+Mhuri	家庭
+Murume	男性
+Rusaruraganda	种族主义
+Muranda	奴隶制度
+Mukaka	乳
+Gomo	山
+Gwenga	荒漠
+Lagos	拉哥斯
+Seoul	首爾
+Ruzivo	知识
+Zamu	乳房
+Chiedza	光
+Chinamato	宗教
+Genesisi	創世記
+Eksodo	出埃及記
+Baku	巴库
+Thimphu	廷布
+Bandar Seri Begawan	斯里巴加湾市
+Dili	帝力
+Vientiane	永珍
+Malé	馬累
+Bishkek	比什凯克
+Dushanbe	杜尚别
+Chitaka	肝臟
+Itsvo	腎
+Jende	睾丸
+Tsuro	兔
+Gungwa	洋
+Tsindi	松鼠
+Kufema	呼吸
+Muzongoza	脊髓
+Chibereko	子宫
+Rurimi	舌
+Dzira (nhengo)	神经
+Makandiro	卵巢
+Mutsipa	頸
+Matumbu	腸臟
+Tsatsadzi	腺
+Muronga wechikafu	消化系统
+Huronyo	精液
+Nouméa	努美阿
+Ronald Reagan	罗纳德·里根
+Cardiff	加的夫
+Robert Gabriel Mugabe	羅伯·穆加貝
+Georgetown	乔治敦 (圭亚那)
+Bununu	裸体
+Dzinokambaira	爬行动物
+Muti	树
+Dzehugaro huviri	两栖动物
+Huchi	蜂蜜
+Nyama	肉类食物
+Mbatatisi	马铃薯
+Shuga	食糖
+Muriwo	蔬菜
+Pepanhau	報紙
+Runhare	电话
+Tsika	文化
+Sarajevo	塞拉耶佛
+Mhetapawa	对数
+Huwandu	算术
+Zviringani	坐標系
+Munyu	食盐
+Enzane	方程
+Munangatire	函数
+Gonyo	角
+Chidenhi	激素
+Rufangu	加速度
+Simba	能量
+Manikidzo	力
+Ngoma	鼓
+Chinyenze	笛
+Gunganidzo	引力
+Huremu	质量
+Simbi	金属
+Misandu yeSebhe	物质状态
+Gasi	气体
+Mutuvi	液体
+Godo	固体
+Kurima	农业
+Donje	棉花
+Zvipfeko	服装
+Kurima neMombe	犁
+Muchacha	速度
+Hujoto	温度
+Kukorora Simbi	冶金学
+Nguva	时间
+Nharaunda	面积
+Dudzirazivo raPythagoras	勾股定理
+Nhamba	数
+Chibage	玉米
+Kudzana	舞蹈
+Rufuvha (magetsi)	电流
+Hwiriro	頻率
+Sikarudzi	繁殖
+Nhumbu	妊娠
+Gorosi	小麦
+Mapfunde	高粱屬
+Hutano	健康
+Kufuta	肥胖症
+Zambuko	橋
+Dhamu	水坝
+Kupimirana	對稱
+Nhamba mhumburu	整数
+Mburungwa	球面
+Danhiko	楼梯
+Munondo	劍
+Zvombo zveShomwe	核武器
+Majuro	馬久羅
+Dehenya	颅骨
+Ranjisi	橙
+Ruomba	鮮奶油
+Bhodhi	胸罩
+Penzura	铅笔
+Tafura	桌子
+Template:Location map Zimbabwe	Template:Location map Zimbabwe
+Twiza	长颈鹿
+Muromo	唇
+Tsoka	脚
+Dzvinyu	蜥蜴
+Pahuro	咽喉
+Template:Link FA	Template:Link FA
+Pasirose	世界
+Wikipedia:Community Portal	Wikipedia:互助客栈
+Guam	關島
+American Samoa	美屬薩摩亞
+Northern Mariana Islands	北马里亚纳群岛
+Chipatara	醫院
+Kereke	教堂
+Zai	卵
+Denderedzwa	圆
+Mutsendo	平面
+Chizinganhare	移动电话
+Mhou (shiri)	鸵鸟
+Dudzirazivo	理論
+Pyongyang	平壤
+Pfumbamwe	9
+Tirana	地拉那
+Mbongoro	驴
+Gonyonhatu	三角形
+Cecil John Rhodes	塞西尔·罗兹
+Chișinău	基希讷乌
+Gumbapamwe reZviringani ZveTaranyika	经纬度
+Shangu	鞋
+Nomwe	7
+Nhuta	金毛鼹科
+Sere	8
+Vhiki	星期
+Nyanza	湖泊
+Ulaanbaatar	乌兰巴托
+Edinburgh	爱丁堡
+Ashgabat	阿什哈巴德
+Chitsuwa	島嶼
+Tanhatu	6
+Madomasi	番茄
+Muenzanisi	赤道
+Podgorica	波德戈里察
+Duramahwi	詞典
+Musoro	头
+Wellington	惠灵顿
+Valletta	瓦莱塔
+Gumi	10
+Dindingwe	猎豹
+Mwaka yepaNyika	季节
+Zizi	貓頭鷹
+Nguva dzezuva	小时
+Dzemuzongoza	脊椎动物
+Nowy Dwór Królewski	克鲁莱夫斯基新庄园
+Pristina	普里什蒂纳
+Nyundo	槌
+Pichilemu	披市勒亩
+Bete	蟑螂
+Pawa	功率
+Shuramurove	白鹳
+Mukweso	电阻
+Haka	穿山甲
+Mukwava	顶点
+Cook Islands	库克群岛
+Chipo (huwandu)	近似
+Vhudzi	頭髮
+Pimamuganhu	周长
+Jira	纺织品
+Chedza	未遂犯
+Huduma	密度
+Mbiti	歐亞水獺
+Twana	獰貓
+Alofi	阿洛菲
+Jamestown	詹姆斯敦 (圣赫勒拿)
+French Polynesia	法屬玻里尼西亞
+Hagåtña	阿加尼亚
+Mata-Utu	马塔乌图
+Yaren	亞倫區
+Tambo	繩
+Hanzvadzi	兄弟姊妹
+Wedzaniso	加法
+Tsiva	拳击
+Banga	小刀
+Mbizi	斑馬
+ChiBantu	班图语支
+Muradanuro	冪
+Mheni	闪电
+New Caledonia	新喀里多尼亞
+Hugari hwevanhu	人口
+Shizha	葉
+Niue	紐埃
+Rumbariro	纬度
+Mapopoma	瀑布
+Funafuti	富纳富提
+Humburumbira	圆柱体
+Port-au-Prince	太子港
+Chitendero	信念
+Sipo	肥皂
+Mugwagwa	道路
+Mvuu	河马
+Mirairo gumi yaMwari	十誡
+Johannesburg	约翰内斯堡
+Jecha	沙
+Kingston	京斯敦
+Mbada	豹
+Chipembere	犀牛
+Santo Domingo	聖多明哥
+Kuwait City	科威特市
+Arab	阿拉伯人
+Colombo	可倫坡
+Bako	洞穴
+Wallis and Futuna	瓦利斯和富圖納
+Mhakatwa	物质
+Huni	柴火
+Kukotsira	睡眠
+Kubhabhatidza	洗禮
+Igwa	艇
+Mushenjere	竹
+Ivhu (Dhaga)	土壤
+Bridgetown	布里奇敦
+Hurefu	长度
+Apia	阿皮亚
+Saint John's	聖約翰 (安提瓜和巴布達)
+Roseau	羅索
+Chiroto	夢
+Hunhungo	经度
+Port Moresby	莫尔兹比港
+Kupirimuka kwemishonga	化学反应
+Chipfambi	性交易
+Gonhi	門 (建築部件)
+Gonyoina	四邊形
+Tokelau	托克劳
+Nzimbe	甘蔗
+Gumi nembiri	12
+Chiso	臉
+Shambadza	廣告
+Mutsetse	直线
+Gumi neimwe	11
+Gumi nenhatu	13
+Masaisai	波
+Gurapakati	直径
+Mudzidzisi	教师
+Mweya Mutsvene	聖靈
+Nzungu	花生
+Naypyidaw	奈比多
+Zana	100
+Mabvi	膝
+Bvungapfunga	霧
+Gonyozhinji	多边形
+Chivhuramabwe	冰雹
+Musika (Kunotengeswa)	市场
+Rwavhi	變色龍
+Bloemfontein	布隆方丹
+Mawuto ehondo	陆军
+Port Vila	维拉港
+Firiji	冰箱
+Mbambaira	番薯
+Mitemo yeruhambo yaNewton	牛顿运动定律
+Gumi neina	14
+Nwiwa	西瓜
+Gumi neshanu	15
+Gumi nesere	18
+Suva	蘇瓦
+Nukuʻalofa	努库阿洛法
+Port of Spain	西班牙港
+Mbeva	小鼠属
+Mumhu	体积
+Puresha	压强
+Chiremba	医生
+Mupata	谷地
+Kuverengwa kweVanhu	人口普查
+Gumi nepfumbamwe	19
+Mudhebhe	褲
+Mwaka wechikumi	年代
+Zvidhinha	磚
+Denderende	椭圆
+Gumi nenomwe	17
+Gumi nenhanhatu	16
+Kuunga huwandu	乘法
+Makumi maviri	20
+Gweta	律師
+Kubvisa	減法
+Mbeu	種子
+Gakanje	螃蟹
+Honiara	霍尼亚拉
+Mutundo	尿
+Huma	前额
+Mapisarema	詩篇
+Dova	露水
+Gonyoina tsazamativi	菱形
+Mburungwagama rekuchamhembe	南半球
+Runhanhira	动量
+Basseterre	巴斯特尔 (圣基茨和尼维斯)
+Kingstown	金斯敦 (圣文森特和格林纳丁斯)
+St. George's, Grenada	圣乔治 (格林纳达)
+Castries	卡斯特里
+Rudzi	族群
+Fanza	沸腾
+Chisumamunyati	假说
+Zvakazarurwa	启示录
+Bere	鬣狗科
+Magaro	臀
+Mubhedha	床
+Basa	功
+Gwenzi	灌木
+Munyakwe	黏土
+Makumi mana	40
+Charaka	圆锥
+Mutsimba	摔跤
+Nzunza	藪貓
+Palikir	帕利基尔
+Ndebvu	鬍鬚
+Makumi matatu	30
+Muchovha	载具
+Muduso	金融
+Shangwa	干旱
+Rwizi Zambezi	赞比西河
+Garwe	鱷科
+Tsivatsaona	保險
+Gonyeti	载货汽车
+Victoria Falls	莫西奧圖尼亞瀑布
+Gunguwo	乌鸦
+Nzvari	雌性
+Ruwoko	臂
+Tsime	井
+Cotonou	科托努
+Sokisi	短襪
+Ngarikuni	火雞
+Guvhu	肚脐
+Hono	雄性
+Injini	发动机
+Kudzikatidzwa kwemwedzi	月食
+Cayenne	開雲
+Madziya	熱量
+Pfumo	槍
+Chigayo	研磨
+Mugodhi	采矿业
+Poyindi	点
+Gonyoina sambamba	平行四边形
+Museve	箭
+Annaba	安纳巴
+Hweru	土豚
+Dandare remagetsi	電場
+Simba reNhekairo	动能
+Gonyoina sambambiri	梯形
+Uta	弓
+Kamba	陸龜
+Mandundu	山脉
+Chindori	戒指
+Saint-Denis	圣但尼 (留尼汪)
+Mugomo	水桶
+Chiyero chekupimisa	计量单位
+Bhoni	電燈泡
+Chitupa	身分證
+Template:Commons category	Template:Commons category
+Chitunha	屍體
+Kennedy Space Center	肯尼迪航天中心
+Penti	女式內褲
+Kuramwa Basa	罷工
+Muchato	婚礼
+Gwaro	文献
+Muzasedimbu	比例
+Quilicura	基利库拉
+Pago Pago	帕果帕果
+Saipan	塞班岛
+Chirwere cheEbola	埃博拉出血热
+Datya	无尾目
+Sambamba	平行
+Musenerera	渗透
+Choya	陰毛
+Ndiro (yokudyira)	碟
+Morgan Tsvangirai	摩根·茨万吉拉伊
+Nhare	要塞
+Dandira (zvakarongeka)	系統
+Swakopmund	斯瓦科普蒙德
+Chivi (kutadza)	罪 (宗教)
+Pakati	中心
+Marudzi aShem	閃米特人
+Chanduru	胆囊
+Kugetsenura	电解
+Dimbu	分數
+Rutsaudzo rwechiedza	折射
+Doworume	精子
+Duvurwi	高原
+Misodzi	淚
+Mushonga	化学物质
+Makumi matanhatu	60
+Mukonikoni	蜻蜓
+Bhodhoro	瓶子
+Jerenyenje	獴科
+Derere	秋葵
+Fes	非斯
+Nhevedzwa dzeMvura	水循环
+Mupurwa	巨蜥
+Muravanegumi	十进制
+Chikara (mhuka)	肉食動物
+Kurwadziwa	疼痛
+Nyanga	角 (动物)
+Mhesvi	催化剂
+Rudzindi	摩擦力
+Dunhu	地区
+Zita	名称
+Gonyonhanhatu	六边形
+Denga (Remba)	屋顶
+Chidembo	臭鼬科
+Dzingiswa	割禮
+Huchenjeri	智力
+Mazita eMhuri	姓氏
+Dare	鐘 (敲擊器)
+Lobamba	洛班巴
+Marrakesh	马拉喀什
+Mhopo	疣
+Chitofu (mugodhi)	矿石
+Nyauka	熔化
+Kayiti	鷂形
+Dendera	自转
+Gwamba	凝固
+Marin County	马林县 (加利福尼亚州)
+Kuperekera magetsi	电阻率
+Chinepfu (ruhambo)	慣性
+Tsika yekurava nhamba	记数系统
+Gora	禿鷲
+Huyu	蜂巢
+Zuvaragodza	至點
+Mhanda (Kurwa)	暴力
+Chisipiti	泉
+Chindunduma	舉事
+Port Elizabeth	伊莉莎白港
+Nhambwe	距离
+Tangier	丹吉尔
+Kurutsa	呕吐
+Gavakava	芦荟
+Bhomba	炸弹
+Makunakuna	近親性交
+Tsanga (ziso)	白内障
+Mafuta	脂肪
+Zvidya	大腿
+Papeetē	帕皮提
+Jekanyika	大地测量学
+Badza	锄头
+South Tarawa	南塔拉瓦
+Chidzayo	楔子
+2 Johane	約翰二書
+Muprofita Isaya	以賽亞書
+3 Johane	約翰三書
+Judi	猶大書
+Nhoo	盾
+Muprofita Jeremia	耶利米書
+Menduru	獎章
+Sandhuru	涼鞋
+Kuverereka	升华
+Oran	瓦赫蘭
+Zano	想法
+Mhara	高角羚
+Mamoudzou	马穆楚
+Sasauka	蒸发
+Mhondi	謀殺
+Africa Zasi kweSahara	撒哈拉以南非洲
+Gumbo	腿
+Bvurunuro	衍射
+Bhande (chipfeko)	腰帶
+Chikero	計重秤
+Pombi	泵
+Kun'ura	腐蚀
+Nhoro	扭角林羚
+Tsono (kusona)	針
+Gwaya	欧鳊
+Munyungu	溶剂
+Kisangani	基桑加尼
+Dovi	花生酱
+Rumanda	圍欄
+Mufundisi	牧师
+Chisuvi chemvura	分水岭
+Dota	灰分
+Kamba dzenhapwa	集中营
+Gomo reNyangani	伊尼揚加尼山
+Kamba dzekuuraya	滅絕營
+Poto	锅
+Chidzudzani	全等 (幾何)
+Simba reChakunga	势能
+Gonyonhatu tsazakose	正三角形
+Zenda	訂婚
+Garoua	加鲁阿
+Ramallah	拉姆安拉
+Gonyonhatu yakarurama	直角三角形
+Nhokwe	紙莎草
+Gonje	剑麻
+Chiwundudzi	黴菌
+Gudo	狒狒屬
+Mapatya	雙胞胎
+Mureza weZimbabwe	津巴布韋國旗
+Mumvuri	影
+Nyati	非洲水牛
+Mhene	平原
+Ruchichinuko	對流
+Keetmanshoop	基特曼斯胡普
+Muchacha pima negonya	角速度
+Munyonga	曲线
+Hudonongodzwa	表 (消歧義)
+Ketamabwe	岩石学
+Tsanga	芦竹属
+Nhanga (Muchero)	南瓜
+Francistown	弗朗西斯敦
+Nhunzi	家蠅
+Kubundira	凝結
+Betafo	贝塔富
+Ambuya	祖父母
+Mhete	耳環
+Caselle Landi	卡塞莱兰迪
+Hargeisa	哈尔格萨
+Hwata	蛇鷲
+Nelspruit	内尔斯普雷特
+Matoro	湿地
+Avarua	阿瓦鲁阿
+Agadir	阿加迪尔
+Maun	馬翁
+Zvombo zvinechefu	生物武器
+Nhovo	床垫
+Sunflower	向日葵
+Bwato	獨木舟
+Tsaona	意外事故
+Hanga	珠雞
+Rukuvhute	脐带
+Gupuko	重量摩爾濃度
+Fosi yeRutondapakati	向心力
+Nhoozhinji	多面体
+Hunzwi	感官
+Bantu	班圖人
+Guva	坟墓
+Mhumhi	非洲野犬
+Taramunyongo	半径
+Bara	彈丸
+Chitsitsinho	踵
+Mukondo	权威
+Ruwa	农村
+Toamasina	图阿马西纳
+Rutsuwa rwemagetsi	絕緣體
+Rukwarapakati	離心力
+Ruzha	噪音
+Shaya	顎
+Zhumwi	棱柱
+Mutemo waPareto	帕雷托法则
+Maungira	回聲
+Kano	卡諾市
+Njiri	疣豬
+Magonga (taranyika)	两极
+Ibadan	伊巴丹
+Shato	蟒科
+Rhekeni	投石機
+Gwati (muti)	树皮
+Tlemcen	特莱姆森
+Nyamukuta	接生員
+Gwee	嬰猴科
+Chirambo (misandu)	相變
+Pietermaritzburg	彼得马里茨堡
+Donhwe	水滴
+Mukoti	護理人員
+Bota	餬
+Constantine, Algeria	君士坦丁 (阿尔及利亚)
+Chifufuro	賄賂
+Lumumbashi	盧本巴希
+Chikuwo	众数 (数学)
+Idi	事實
+Choto	壁爐
+Rovambira	黑曼巴蛇
+Munda	旱田
+Manyene	黑背胡狼
+Chikwereti	借贷
+Abomey	阿波美
+Guramakonyo	對角線
+Harar	哈勒尔
+Nhambwe yasudurukwa	位移
+Bhutsu	靴
+Kumhura	诽谤
+Mbonga	修女
+Mhute	薄霧
+Madamvura	親水性
+Basa (remari)	職業
+Cherechedza	观察
+Gambamutengo	補貼
+Bulawayo	布拉瓦约
+Mweya (wemunhu)	精神
+Dire Dawa	德雷达瓦
+Mbabvu	肋骨
+Chapupu	證人
+Kuvaviwa	癢
+Chikupo	机弦
+Nhamba ndemera	负数
+Rifa	继承
+Hupfumi	财富
+Rokwe	连衣裙
+Rufu	葬礼
+Ziguinchor	济金绍尔
+Bandiko	扇形
+Chitofu (Kubika)	烘箱
+Goma	戈马
+Mutwi	垂直
+Kananga	卡南加
+Dendera pa Mineti	每分鐘轉速
+Tafura yekuunga huwandu	乘法表
+Vanga	疤痕
+Rudzindi rwemweya	阻力
+Ruremekedzo	名譽
+Huswa	草地
+Shepi	形狀
+Masvingo eZimbabwe	大津巴布韦
+Njiva	鸽属
+East London	東倫敦 (南非)
+Mbandaka	姆班达卡
+Matadi	马塔迪
+Hudyu	鼠蹊部
+Dzinza	氏族
+Zera (chizvarwa)	世代
+Kukohwa (kuunganidza)	收割
+Furo	泡沫
+Mhofu	伊蘭羚羊
+Bilda	卜利达
+Port Harcourt	哈科特港
+Hungwe	吼海雕
+Hunyoro	潮濕
+Mahajanga	马哈赞加
+Gondar	貢德爾
+Antsiranana	安齊拉納納
+Palestine	巴勒斯坦国
+Chikare (bonde)	男上位
+Matyamvura	疏水性
+Walvis Bay	鲸湾港
+Bukavu	布卡武
+Hukama	人際關係
+Boma	博馬 (剛果民主共和國)
+Gwanza (chivakwa)	Gap
+Mombasa	蒙巴萨
+Hwendedzo	媒介
+Chinangwa	AIM
+Chipakati	中位數
+Kushumira	交配
+Zvinoshandiswa kuchengetedza	存取控制
+Saga	萨迦
+Runda	腱
+Hupombwe	通奸
+Boka (masvomhu)	集合
+Varungu	白人
+Makumi mapfumbamwe	90
+Ngwarati	黑马羚
+Mhakure	埃及眼鏡蛇
+Kumimina	过滤
+Mupfunga	蒸氣
+Rukweza	杂谷
+Mutupo	圖騰
+Kindu	金杜
+Saint-Louis, Senegal	圣路易 (塞内加尔)
+Mhembwe	麂羚
+Kirsty Coventry	柯丝蒂·考文垂
+Chiremera	尊严
+Mawere	斜率
+Massawa	马萨瓦
+Makumi mashanu nena	54
+Rwizi Save	薩韋河
+Hwembwa (bonde)	後背體位
+Nungu	旧大陆豪猪
+Mukunda	女兒
+Musami	海市蜃楼
+Hozhwa	蜗牛
+Kuronga	企劃
+Buea	布埃亞
+Ian Smith	伊恩·史密斯
+Rwizi Mazowe	馬佐埃河
+Abel Tendekai Muzorewa	埃布尔·穆佐雷瓦
+Mbuji-Mayi	姆布吉马伊
+Benin City	贝宁城
+Kugunzva	体感
+Mek'ele	默克萊
+Mhiri kweMakungwa	海外
+Muchovha Mota	运输方式
+Makumi masere nesere	88
+Adama	阿達瑪
+Mukova	阈
+Kugera	剃毛
+Kuchepa	标准化
+Chiva	鼓腹咝蝰
+George, Western Cape	喬治 (西開普省)
+Bonga-musakwani	加蓬咝蝰
+Kunyenga	求偶
+Chibeto	筛分
+Kadoma	卡多馬
+Jimma	吉馬
+Dziva	池
+Agordat	阿科達特
+Gweru	圭洛
+Mutare	穆塔雷
+Laghouat	艾格瓦特
+Kutsinhanisa	交换
+Kududza	規格化
+Makumi mapfumbamwe nepfumbamwe	99
+Mashonaland West	西馬紹納蘭省
+Bhuku raMormoni	摩爾門經
+Kutapira	甜味
+Bahir Dar	巴赫達爾
+Manicaland	馬尼卡蘭省
+Mahusekwa	東馬紹納蘭省
+Salé	塞拉 (摩洛哥)
+Nyota	口渴
+Chenza (kutodza)	图像
+Chiso (Chiumbwa)	曲面
+Hutong'o	韌性
+Chipika	衣领
+Edinburgh of the Seven Seas	七海爱丁堡
+Nyemba	豇豆
+Maguta emuZimbabwe	辛巴威城市列表
+Chinyamudzura	猛雕
+Ngerulmud	恩吉鲁穆德
+Butembo	布滕博
+Tôlanaro	陶拉納魯
+Fianarantsoa	菲亞納蘭楚阿
+Bamenda	巴门达
+Keren, Eritrea	克伦
+Mongo	骨髓
+Ishwa	白蟻
+Waya	電纜
+Yunivhesiti yeZimbabwe	津巴布韦大学
+Antsirabe	安齐拉贝
+Okahandja	奧卡漢賈
+Thiès	捷斯
+Mudzi wenhamba	方根
+Queenstown, Eastern Cape	昆士敦 (東開普省)
+Gungano renhenderedzi	同心 (幾何)
+Kusamhura	计算
+Chengu	狷羚
+Ngururu	山羚
+Dhumukwa	水羚
+Tsumeb	楚梅布
+Atafu	阿塔富環礁
+Bunia	布尼亞
+Mushandi	僱傭
+Touba, Senegal	圖巴 (塞內加爾)
+Kuwurutsa	扇車
+Muganhu	边界 (消歧义)
+Homwe	銀行帳戶
+Kuyaruka	成年禮
+Kunatsa	精炼
+Makumi mashanu neshanu	55
+Parakou	帕拉庫
+Georgetown (Ascension Island)	乔治敦 (阿森松岛)
+Nyamuragira	尼亞穆拉吉拉火山
+Makumi masere	80
+Makumi maviri nembiri	22
+Makumi manomwe	70
+Makumi mashanu	50
+Makumi matatu nenhatu	33
+Makumi mana nena	44
+Makumi matanhatu nenhanhatu	66
+Makumi manomwe nenomwe	77
+Mazana maviri	200
+Zana negumi	110
+Ambhuya	岳母
+Bandundu (city)	班顿杜
+Mutowo	方法
+Randfontein	蘭德方坦
+Ngaoundéré	恩冈代雷
+Dessie	德西 (埃塞俄比亞)
+Jijiga	吉吉加
+Awasa	阿瓦薩
+Rondo (hurongwa)	世袭
+Roora	聘礼
+Chinhoyi	奇諾伊
+Kusiya basa	辭職
+Bangassou	班加蘇
+Beitbridge	貝特橋
+SADC	南部非洲发展共同体
+Toliara	圖利亞拉
+Chishanu (mhoresa)	握手
+Banda	擔架床
+Calabar	卡拉巴尔
+Zvinyanye	极值
+Mucheko	截面 (幾何)
+Rukodzi	鹰
+Musarirwa	余数
+Kaolack	考拉克
+Bhachi	夾克
+Ouidah	威達
+Ndiro (midziyo)	餐具
+Serowe	塞罗韦
+Kudzinda	磁阻
+Chimukuyu	比尔通
+Bindura guta	賓杜拉
+Morondava	穆龙达瓦
+Rukanda runosarura zvinobvinina	半透膜
+Djougou	朱古
+Hukoshi	价值
+Gongo	陰蒂
+Ladysmith, KwaZulu-Natal	雷地史密斯 (夸祖魯-納塔爾省)
+Boka	社會群體
+Mujawo	竞速
+Bossangoa	博桑戈阿
+Chivhuni	脆斷
+Kudzimurira	管控
+Maunga huwandu	积
+Uvira	烏維拉
+Kurega basa	退休
+Duwo	梁 (渔具)
+Mukuwasha	姻親
+Tiburon	蒂伯龙 (加利福尼亚州)
+Grootfontein	赫魯特方丹
+Chubhu dzinotakura ropa	血管
+Otjiwarongo	奧奇瓦龍戈
+Germiston	傑米斯頓
+Natitingou	納蒂廷古
+Klerksdorp	克萊克斯多普
+Rufisque	呂菲斯克
+M'Bour	姆布爾
+Marondera	馬龍德拉
+Dekemhare	德克姆哈雷
+Mthatha	烏姆塔塔
+Worcester, Western Cape	伍斯特 (西開普省)
+Newcastle, KwaZulu-Natal	纽卡斯尔 (南非)
+Dumbu	胃
+Bimha	苇羚属
+Tonderai	人名
+Mukova (pokupinda)	口岸
+Bindu	庭園
+Coloureds	有色人
+Muteremuko	坡度
+MDC	争取民主变革运动
+Zimbabwean presidential election, 2008	2008年津巴布韋總統選舉
+Gwara (Humaneja)	政策
+Zhumwi regonyonhatu	三角柱
+Ketamukadzi	婦科學
+Govaniso	除法
+Nhamba svinu	有理数
+Dowokadzi	卵细胞
+Hwabvu	阴唇
+Makonyo Mhirikano	補角
+Miko	责任
+Mhemberero	假日
+Category:Vietnam	Category:越南
+Category:Madzinde	Category:植物
+Category:Fundoyetsimba	Category:物理学
+Category:Chezvipenyu	Category:生物学
+Category:Chemishonga	Category:化学
+Category:Taranyika	Category:地理
+Category:Chinamato	Category:宗教
+Nyanga, Manicaland	尼揚加
+Richards Bay	理查茲灣
+Mhitsa dzehondo	超级大国
+Giyani	吉亞尼
+Nzwisa	样品
+Katahwi	处女膜
+El Oued	瓦德
+Tsika yezvinzvimbo zvenhamba	进位制
+Kudhoma	學習技巧
+Zanu-PF	辛巴威非洲民族聯盟—愛國陣線
+Middelburg, Mpumalanga	米德爾堡 (普馬蘭加省)
+Dare reMabhuyo	辛巴威議會
+Huhombe	量 (数学)
+Gondo	鵰
+Kudoma	設計規格
+Rwizi Pungwe	蓬圭河
+Belon'i Tsiribihina	貝盧-齊里比希納
+Chamhembe kwakadziva kuMadokero	西南
+Rudyi	利手
+Yuka Ueno	上野優花
+Chigaro (chokugara)	座位
+Tsanga (Dzinde)	蘆葦 (植物)
+Category:Tsika	Category:文化
+Category:Ziwumbe	Category:大洲
+Tsanga (mbeu)	粮食
+Zviperengo zvehuwandu	數系
+Nyungudika	溶解
+Hukukutu	硬度
+Ganda	人種
+Gonyo rasudurukwa	角移
+Dumba	棱锥
+Rheshiyo	比率
+Dzihwa	黏液
+Category:Wikipedia bots	Category:維基百科機器人
+Hutapiri	浓度
+Chipangidzo	象徵
+Spidhi	速率
+Dhadha	鸭
+Akiso	軸對稱
+Template:Tl	Template:Tl
+Category:Muviri	Category:解剖学
+Category:Hurapi	Category:医学
+Category:Dzidzo	Category:教育
+Mutsindo	撞擊
+Egypt	埃及
+Template:Bot	Template:Bot
+Canada	加拿大
+Nzenda	維度
+Denga (raMwari)	天國
+Category:Europe	Category:欧洲
+Template:Documentation	Template:Documentation
+Nhengo dzesikarudzi	生殖器
+Category:User languages	Category:用户语言
+Sung Jae-ki	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Kugocha	烤
+Category:Wikipedia	Category:维基百科
+Wikipedia:General disclaimer	Wikipedia:免责声明
+Wikipedia:Statistics	Wikipedia:统计
+Template:Navbox	Template:Navbox
+Template:!-	Template:!-
+Template:Nowrap	Template:Nowrap
+Template:Bots	Template:Bots
+Category:Africa	Category:非洲
+Category:Zviperengo Zvehuwandu	Category:数
+Category:Bhaibheri	Category:圣经
+Template:Babel	Template:Babel
+Template:User af-1	Template:User af-1
+Template:User ar-1	Template:User ar-1
+Template:User ast-1	Template:User ast-1
+Template:User az	Template:User az
+Template:User bar-1	Template:User bar-1
+Template:User eo-1	Template:User eo-1
+Template:User da-2	Template:User da-2
+Template:User da	Template:User da
+Template:User ca-1	Template:User ca-1
+Template:User ca-4	Template:User ca-4
+Template:User be-2	Template:User be-2
+Template:User da-1	Template:User da-1
+Template:User cs-1	Template:User cs-1
+Template:User bg-1	Template:User bg-1
+Template:User eo-3	Template:User eo-3
+Template:User de	Template:User de
+Template:User de-1	Template:User de-1
+Template:User el	Template:User el
+Template:User es	Template:User es
+Template:User de-3	Template:User de-3
+Template:User en-3	Template:User en-3
+Template:User el-1	Template:User el-1
+Template:User en-1	Template:User en-1
+Template:User en-2	Template:User en-2
+Template:User eo-2	Template:User eo-2
+Template:User en-4	Template:User en-4
+Template:User en-0	Template:User en-0
+Template:User es-4	Template:User es-4
+Template:User en	Template:User en
+Template:User de-2	Template:User de-2
+Template:User es-1	Template:User es-1
+Template:User sk	Template:User sk
+Template:User tr	Template:User tr
+Template:Location map/Info	Template:Location map/Info
+Category:User uk	Category:Uk 使用者
+Category:User uk-N	Category:Uk 母語使用者
+Template:Mod	Template:Mod
+Template:User uk	Template:User uk
+Template:User es-2	Template:User es-2
+Template:Category handler	Template:Category handler
+Template:Africa	Template:Africa
+Template:Rnd	Template:Rnd
+Template:Max	Template:Max
+Template:Navbox with columns	Template:Navbox with columns
+Template:Hatnote	Template:Dablink
+Template:Location map	Template:Location map
+Category:User en-4	Category:En-4 使用者
+Category:User en	Category:En 使用者
+Category:User en-2	Category:En-2 使用者
+Template:Infobox	Template:Infobox
+Template:Ombox	Template:Ombox
+Template:GeoTemplate	Template:GeoTemplate
+Category:Kurima	Category:农业
+Template:Infobox settlement	Template:Infobox Settlement
+Template:About	Template:About
+Template:Both	Template:Both
+Wikipedia:Nospam	Wikipedia:被保护的标题
+Template:Geobox coor	Template:Geobox coor
+Template:Precision	Template:Precision
+Template:User lt	Template:User lt
+Template:Kujekesa	Template:Disambig
+Template:Order of magnitude	Template:Order of magnitude
+Template:Convert	Template:Convert
+Template:Citation/make link	Template:Citation/make link
+Category:Gonyazhinji	Category:多邊形
+Template:Europe	Template:Europe
+Category:User az	Category:Az 使用者
+Category:User be	Category:Be 使用者
+Category:User sk	Category:Sk 使用者
+Category:User eo	Category:Eo 使用者
+Category:User lt	Category:Lt 使用者
+Category:User cs-1	Category:Cs-1 使用者
+Category:User da-1	Category:Da-1 使用者
+Category:User ar-1	Category:Ar-1 使用者
+Category:User be-2	Category:Be-2 使用者
+Category:User da-2	Category:Da-2 使用者
+Category:User lt-N	Category:Lt 母語使用者
+Category:User af	Category:Af 使用者
+Category:User af-1	Category:Af-1 使用者
+Category:User als	Category:Als 使用者
+Category:User ar	Category:Ar 使用者
+Category:User ast	Category:Ast 使用者
+Category:User ast-1	Category:Ast-1 使用者
+Category:User az-N	Category:Az 母語使用者
+Category:User bar	Category:Bar 使用者
+Category:User bar-1	Category:Bar-1 使用者
+Category:User bg	Category:Bg 使用者
+Category:User bg-1	Category:Bg-1 使用者
+Category:User ca	Category:Ca 使用者
+Category:User ca-1	Category:Ca-1 使用者
+Category:User ca-4	Category:Ca-4 使用者
+Category:User cs	Category:Cs 使用者
+Category:User da	Category:Da 使用者
+Category:User sk-N	Category:Sk 母語使用者
+Category:User de	Category:De 使用者
+Category:User de-2	Category:De-2 使用者
+Category:User de-3	Category:De-3 使用者
+Category:User el	Category:El 使用者
+Category:User el-1	Category:El-1 使用者
+Category:User el-N	Category:El 母語使用者
+Category:User en-3	Category:En-3 使用者
+Category:User en-N	Category:En 母语使用者
+Category:User eo-1	Category:Eo-1 使用者
+Category:User eo-2	Category:Eo-2 使用者
+Category:User eo-3	Category:Eo-3 使用者
+Category:User es	Category:Es 使用者
+Category:User es-1	Category:Es-1 使用者
+Category:User es-2	Category:Es-2 使用者
+Category:User es-4	Category:Es-4 使用者
+Category:User es-N	Category:Es 母语使用者
+Category:Pimanzvimbo	Category:几何学
+Template:Weather box	Template:Infobox weather
+Hukwidza	平均海拔
+Chamhembe kwakadziva kumabvazuva	東南
+Template:Sup	Template:Sup
+Template:Talk other	Template:Talk other
+Simudzo	浮力
+Ruchiva	性欲
+Category:Hushangazhi	Category:工业
+Template:Infobox settlement/lengthdisp	Template:Infobox settlement/lengthdisp
+Category:User tr	Category:Tr 使用者
+Category:User tr-N	Category:Tr 母語使用者
+Template:•	Template:•
+Template:Yesno	Template:Yesno
+Template:Side box	Template:Side box
+Template:Citation/core	Template:Citation/core
+Category:Rwizi	Category:河流
+Category:Zimbabwe	Category:津巴布韦
+Chiziviso	布告
+Category:Musangano	Category:政党
+Category:Gonyanhatu	Category:三角形
+Category:Mhuka	Category:动物
+Category:Dzemuzongoza	Category:脊椎動物亞門
+Category:Zvombo	Category:武器
+Category:Zvipfeko	Category:服裝
+Category:Mhuri	Category:家庭
+Category:Chitendero	Category:信仰
+Category:Nyoka	Category:蛇亚目
+Category:North America	Category:北美洲
+Template:Masvomhu	Template:数学主要领域
+Template:Fundoyetsimba	Template:Physics-footer
+Tendai Biti	腾达伊·比提
+Category:Chadenga	Category:太空
+Category:Nzwimbo	Category:地方
+Module:BaseConvert	模块:BaseConvert
+Template:Coord/display/inline,title	Template:Coord/display/inline,title
+Template:Sister	Template:Sister
+Category:Huwandu	Category:算术
+Category:Jekanyika	Category:大地测量学
+Kuhamba	运动 (消歧义)
+Category:Marudzi aShem	Category:闪米特人
+Pfugama	跪
+Igo	黄蜂
+Category:User en-1	Category:En-1 使用者
+Category:User de-1	Category:De-1 使用者
+Category:User da-N	Category:Da 母語使用者
+KwaDukuza	斯坦格
+Mutauro wePasirose	世界語言
+Template:Location map~	Template:Location map~
+Template:Location map+	Template:Location map+
+Ivhu (ndima yenyika)	陆地
+Template:Location map many	Template:Location map many
+Module:Citation/CS1/Whitelist	模块:Citation/CS1/Whitelist
+Template:Infobox settlement/link	Template:Infobox settlement/link
+Template:Infobox settlement/metric	Template:Infobox settlement/metric
+Template:Infobox settlement/pref	Template:Infobox settlement/pref
+Module:StringReplace	模块:StringReplace
+Template:Infobox settlement/columns	Template:Infobox settlement/columns
+Module:Convert	模块:Convert
+Module:Documentation	模块:Documentation
+Template:Module rating	Template:Module rating
+Module:Convert/data	模块:Convert/data
+Module:Convert/text	模块:Convert/text
+Module:Yesno	模块:Yesno
+Module:Message box	模块:Message box
+Module:Category handler	模块:Category handler
+Module:Message box/configuration	模块:Message box/configuration
+Module:Unsubst	模块:Unsubst
+Module:Arguments	模块:Arguments
+Special:RecentChanges	Special:最近更改
+Module:Citation/CS1	模块:Citation/CS1
+Module:Citation/CS1/Configuration	模块:Citation/CS1/Configuration
+Module:TableTools	模块:TableTools
+Module:Documentation/config	模块:Documentation/config
+Module:Namespace detect	模块:Namespace detect
+Module:HtmlBuilder	模块:HtmlBuilder
+Module:Coordinates	模块:Coordinates
+Module:Math	模块:Math
+Module:InfoboxImage	模块:InfoboxImage
+Module:Navbar	模块:Navbar
+Module:Navbox	模块:Navbox
+Module:Infobox	模块:Infobox
+Module:Location map	模块:Location map
+Module:Namespace detect/data	模块:Namespace detect/data
+Module:Namespace detect/config	模块:Namespace detect/config
+Module:Citation/CS1/Date validation	模块:Citation/CS1/Date validation
+Module:No globals	模块:No globals
+Module:Hatnote	模块:Hatnote

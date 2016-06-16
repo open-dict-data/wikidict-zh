@@ -1,0 +1,816 @@
+IAfrika	非洲
+IJapani	日本
+IMelika Eningizimu	南美洲
+INoki	挪威
+INgilandi	英格兰
+IsiKotilandi	蘇格蘭
+IWelisi	威爾士
+I-Ayilendi	爱尔兰共和国
+ISpeyini	西班牙
+IMelika	美国
+IFinlandi	芬兰
+ISwidi	瑞典
+IDenimaki	丹麦
+IPolandi	波兰
+ILithuwaniya	立陶宛
+ITaliya	意大利
+I-Ostriya	奥地利
+IGreki	希腊
+ITheki	土耳其
+IPhothugali	葡萄牙
+IYurobhu	欧洲
+I-Eshiya	亚洲
+IMelika Enyakatho	北美洲
+I-Antatika	南极洲
+Wikipedia	维基百科
+Netherlands	荷兰
+New York (idolobha)	纽约
+IBerlini	柏林
+Ikhompiyutha	電子計算機
+Barack Obama	贝拉克·奥巴马
+ILondon	伦敦
+Ihhabhula	苹果
+IParisi	巴黎
+IMekisiko	墨西哥
+California	加利福尼亚州
+IKenya	肯尼亚
+I-Ithiopia	埃塞俄比亚
+IGana	加纳
+Ibhubesi	狮
+IFulansi	法国
+Isi-Esperanto	世界语
+Inja	犬
+Umbuso Ohlangeneyo	英国
+Ikati	猫
+IShayina	中华人民共和国
+IsiFulentshi	法语
+IBrazili	巴西
+IRashiya	俄罗斯
+Ulwandle	海
+IJalimani	德国
+IBelarusi	白俄罗斯
+IsiJalimani	德语
+I-Ayisilandi	冰岛
+UNkulunkulu	神 (一神教)
+I-Estoniya	爱沙尼亚
+David Cameron	戴维·卡梅伦
+USatureni	土星
+George W. Bush	乔治·沃克·布什
+ILatviya	拉脫維亞
+ITsheki	捷克
+ISlovaki	斯洛伐克
+IVilnyusi	维尔纽斯
+IBulgariya	保加利亚
+Azerbaijan	阿塞拜疆
+IMalta	马耳他
+Indolobha yaseVathikhani	梵蒂冈
+USanti Marino	圣马力诺
+Belize	伯利兹
+Volkswagen	大众汽车
+Wolfgang Amadeus Mozart	沃尔夫冈·阿马德乌斯·莫扎特
+IRiphabliki yaseNingizimu Afrika	南非
+IAljiriya	阿尔及利亚
+IWarshawa	华沙
+Amanzi	水
+Isi-Icelandic	冰岛语
+ITshile	智利
+Apple	蘋果公司
+UVenusi	金星
+U-Uranu	天王星
+UNepetuni	海王星
+UPluto	冥王星
+Facebook	Facebook
+Ubuntu (uhlelo)	Ubuntu
+Imathemathiki	数学
+U2	U2樂團
+ILatin	拉丁语
+ISerbiya	塞尔维亚
+Inyanga	月球
+I-Ostreliya	澳大利亚
+Peru	秘鲁
+Mount Everest	珠穆朗瑪峰
+Ilanga	太阳
+I-Osheaniya	大洋洲
+Uhlelo Lemihlaba YeLanga	太阳系
+Wikimedia Commons	维基共享资源
+Football Club Internazionale Milano	国际米兰足球俱乐部
+Umculo	音乐
+IMoskwa	莫斯科
+IsiTaliya	意大利语
+ITshedi	乍得
+INyuzilandi	新西兰
+INdiya	印度
+Ubuciko bomlomo	童話
+IFiji	斐濟
+Venezuela	委內瑞拉
+I-Amsterdami	阿姆斯特丹
+Isilwane	动物
+IKolombiya	哥伦比亚
+UbuBudha	佛教
+Umthofu	铜
+Leonardo da Vinci	列奥纳多·达·芬奇
+Massachusetts	麻薩諸塞州
+Guatemala	危地马拉
+Connecticut	康乃狄克州
+Hawaii	夏威夷州
+Honduras	洪都拉斯
+El Salvador	萨尔瓦多
+I-Irani	伊朗
+I-Iraki	伊拉克
+Costa Rica	哥斯达黎加
+Isreyili	以色列
+Panama	巴拿马
+IYemen	也门
+IsiPholisi	波兰语
+Nicaragua	尼加拉瓜
+Florida	佛罗里达州
+Arizona	亞利桑那州
+Utah	犹他州
+IPakistani	巴基斯坦
+Sri Lanka	斯里蘭卡
+Joseph Stalin	斯大林
+I-YouTube	YouTube
+IViyetnami	越南
+I-Afganistani	阿富汗
+Igolide	金
+Bangladesh	孟加拉国
+IMali	马里共和国
+I-Angola	安哥拉
+ITanzania	坦桑尼亚
+Central African Republic	中非共和國
+ITogo	多哥
+ITunisia	突尼西亞
+IZambiya	赞比亚
+IZimbabwe	辛巴威
+ISudan yaseNingizimu	南蘇丹
+IBenini	贝宁
+IButswana	波札那
+IBukhina Faso	布吉納法索
+IBurundi	蒲隆地
+IsiKhomorosi	葛摩
+IKongo	刚果共和国
+IRiphabliki Labantu weKongo	刚果民主共和国
+IJibuthi	吉布提
+IGini Enkabazwe	赤道几内亚
+I-Eritrea	厄立特里亚
+IGaboni	加蓬
+IGambia	冈比亚
+IGini	几内亚
+IGini Bisawu	幾內亞比索
+Ugu Emhlophe	科特迪瓦
+IKamerooni	喀麦隆
+IKhepi Vedhi	佛得角
+OSotho	莱索托
+ILiberia	利比里亚
+ILibiya	利比亚
+IMadagasika	马达加斯加
+IMalawi	马拉维
+IMoritaniya	毛里塔尼亚
+IMorishisi	毛里求斯
+IMorokho	摩洛哥
+IMozambiki	莫桑比克
+INamibhiya	纳米比亚
+INayighe	尼日尔
+INigeria	奈及利亞
+IYuganda	乌干达
+IRuwanda	卢旺达
+ISawu Tome noPhrinitshipeyi	圣多美和普林西比
+ISenegal	塞内加尔
+IsiSeyisheli	塞舌尔
+ISiera Liyoni	塞拉利昂
+ISomalia	索马里
+ISudan	苏丹共和国
+ISwazilandi	斯威士兰
+Amazwe Ohlangeneyo	联合国
+IPraha	布拉格
+Isiliva	銀
+Bill Clinton	比尔·克林顿
+Usain Bolt	尤塞恩·博尔特
+John Lennon	约翰·列侬
+Wyoming	怀俄明州
+Idaho	爱达荷州
+Washington (isifunda eMelika)	华盛顿州
+Nevada	内华达州
+Colorado	科羅拉多州
+Chicago	芝加哥
+Ama-Beatles	披頭四樂隊
+IsiSpeyini	西班牙语
+Virginia	弗吉尼亚州
+New York Isifunda	纽约州
+Maryland	马里兰州
+Vladimir Lenin	列宁
+Pennsylvania	宾夕法尼亚州
+I-Uetersen	于特森
+New Jersey	新泽西州
+Indiana	印第安纳州
+Texas	德克萨斯州
+ITokyo	東京都
+I-Athene	雅典
+IRiga	里加
+IBhayibheli	聖經
+IHochiminh	胡志明市
+True Jesus Church	真耶稣教会
+IsiNgisi	英语
+IDonghoi	同海市
+Concepción, ITshile	康塞普西翁 (智利)
+IKiyevi	基輔
+2000	2000年
+2001	2001年
+2012	2012年
+2009	2009年
+2013	2013年
+2014	2014年
+1991	1991年
+1993	1993年
+3 uJanuwali	1月3日
+Kurów	库鲁夫
+8 uFebruwari	2月8日
+1985	1985年
+1981	1981年
+1969	1969年
+Paul McCartney	保罗·麦卡特尼
+S.S. Lazio	拉齐奥足球俱乐部
+Ringo Starr	林格·斯塔
+George Harrison	乔治·哈里森
+1968	1968年
+25 uJuni	6月25日
+14 uJulayi	7月14日
+29 uJulayi	7月29日
+Ibhola	足球
+29 uAgasti	8月29日
+Michael Jackson	迈克尔·杰克逊
+17 uSepthemba	9月17日
+5 uNovemba	11月5日
+Algiers	阿爾及爾
+Amazon.com	亞馬遜公司
+IGaborone	嘉柏隆里
+IHarara	哈拉雷
+IPitoli	比勒陀利亞
+Wikipedia:Sandbox	Wikipedia:沙盒
+Ilaptop	筆記型電腦
+Umfula	河流
+Osasco	奥萨斯库
+Curitiba	庫里奇巴
+Corbin Bleu	柯賓·布魯
+Category:Imathemathiki	Category:数学
+Euro	欧元
+IDola	美元
+Celine Dion	席琳·狄翁
+IsiQongo	首都
+IsiPutukezi	葡萄牙語
+1948	1948年
+1958	1958年
+IsiJapani	日语
+Ikhasi Elikhulu	Wikipedia:首页
+ISaratov	薩拉托夫
+Ikhilikithi	板球
+Umbhoxo	橄欖球類運動
+IKapa	開普敦
+ITheku	德班
+Michelangelo	米开朗基罗
+Pablo Picasso	巴勃羅·畢卡索
+Iziqhingi iKhaneli	加那利群岛
+Ceuta	休达
+IMelilla	梅利利亚
+Category:Candidates for speedy deletion	Category:快速删除候选
+Ipiyano	钢琴
+Category:Ukufunda umkhathi	Category:天文学
+IsiKrowati	克罗地亚语
+IsiKhathalani	加泰罗尼亚语
+UBudha	佛
+Iqoqo i-Afrika	非洲联盟
+IBhange woMhlaba	世界银行
+Imvu	綿羊
+Indlovu	象
+IsiHolandi	荷蘭語
+Ukuhumusha	翻译
+IsiRashiya	俄语
+Vladimir Putin	弗拉基米尔·弗拉基米罗维奇·普京
+Yurobhu Idaladala	欧洲历史
+1884	1884年
+IsiShayina	汉语
+Imvelo	自然
+Winston Churchill	温斯顿·丘吉尔
+Nelson Mandela	纳尔逊·曼德拉
+Category:Umculo	Category:音乐
+Icilongo	小號
+Ikhofi	咖啡
+Ubisi	乳
+Intaba	山
+Miami, Florida	迈阿密
+IsiSwidishi	瑞典語
+IsiTsheki	捷克语
+IsiLatviya	拉脱维亚语
+IsiLithuwaniya	立陶宛语
+IsiGreki	希腊语
+Iphengwini	企鵝
+Ugenesis	創世記
+Isi-Indonesia	印尼语
+IsiHebheru	希伯来语
+IPod	IPod
+Martin Luther	馬丁·路德
+Gerald Ford	杰拉尔德·福特
+Richard Nixon	理查德·尼克松
+Lyndon B. Johnson	林登·约翰逊
+Michael Schumacher	迈克尔·舒马赫
+Elizabeth II	伊丽莎白二世
+John F. Kennedy	约翰·肯尼迪
+Ronald Reagan	罗纳德·里根
+IsiZulu	祖鲁语
+Fernando Alonso	费尔南多·阿隆索
+Category:Venezuela	Category:委内瑞拉
+Robert Mugabe	羅伯·穆加貝
+Ushizi	乾酪
+Izambane	马铃薯
+Imifino	蔬菜
+Category:IBrazili	Category:巴西
+Ama-elementhi	化學元素
+Isigubhu	鼓
+Ukhamba	陶器
+Silvio Berlusconi	西尔维奥·贝卢斯科尼
+Abayizithulu	聾
+Mona Lisa	蒙娜丽莎
+IsiXhosa	科萨语
+IMac	IMac
+IsiOsithani	奥克语
+IsiBhunu	南非語
+Template:Location map Zimbabwe	Template:Location map Zimbabwe
+Template:Location map South Africa	Template:Location map South Africa
+Indlulamithi	长颈鹿
+Queen	皇后乐队
+Freddie Mercury.	弗雷迪·默丘里
+ICrailsheim	克赖尔斯海姆
+Vermont	佛蒙特州
+IMayotte	马约特
+IRiyunion	留尼汪
+Umakhalekhukhwini	移动电话
+INhatrang	芽莊市
+Rafael Correa	拉斐尔·科雷亚
+Umfula Thames	泰晤士河
+Motorhead	摩托头
+UKhisimusi	圣诞节
+Lady Gaga	Lady Gaga
+IVungtau	頭頓市
+IPhasika	復活節
+ILondon Kakhulu	大倫敦
+Idolobha weLondon	倫敦市
+Die Antwoord	回答樂團
+Inyamazane	鹿科
+Iqhwa	冰
+IMoshchena	穆夏那
+Utamatisi	番茄
+George H. W. Bush	乔治·赫伯特·沃克·布什
+IPaltoga	帕托加
+Isichazamazwi	詞典
+Jimmy Carter	吉米·卡特
+Inkondlo yesizwe	国歌
+Avatar	阿凡达
+Upondo	英镑
+Felidae	猫科
+IDanang	岘港市
+Canidae	犬科
+Imvubu yolwandle	海牛目
+IMadira	馬德拉
+University Niccolò Cusano	尼可罗库萨诺大学
+IMelika Wenkaba	中美洲
+Shaka	恰卡
+Pinnipedia	鰭足類
+Avril Lavigne	艾薇兒·拉維尼
+IsiHawayi	夏威夷语
+IsiSwazi	史瓦濟語
+Impophoma	瀑布
+Justin Bieber	贾斯汀·比伯
+Ibhulonze	青铜
+IsiTswana	茨瓦纳语
+Ngolimi lwezandla	手語
+IsiSuthu	塞索托语
+Rotterdam	鹿特丹
+Mošovce	莫绍夫采
+Shakira	夏奇拉
+IGoli	约翰内斯堡
+Isonto	教会
+Imitholoji lamaGreki	希腊神话
+I-eliki	駝鹿
+Rihanna	蕾哈娜
+Umoya ongcwele	聖靈
+Internet Movie Database	互联网电影数据库
+Arara	阿拉拉
+IBloemfontein	布隆方丹
+Inyamazane yase-Athiki	驯鹿
+Radio Studio 54 Network	第54演播室電台聯播網
+Porto Alegre	阿雷格里港
+Inkalankala	螃蟹
+God Save the Queen	天佑吾王
+Iwalerosi	海象
+Demi Lovato	黛咪·洛瓦特
+Ibhayisikobho	電影院
+Castel Goffredo	卡斯泰尔戈夫雷多
+The Star-Spangled Banner	星条旗 (美国国歌)
+The Doors	門戶樂團
+John Cale	约翰·凯尔
+Nadine Gordimer	内丁·戈迪默
+Template:Commonscat	Template:Commons category
+Hans Holbein the Younger	小汉斯·霍尔拜因
+Isifo segciwane le-Ebola	埃博拉出血热
+Category:Amafilimu	Category:電影作品
+Jacob Zuma	雅各布·祖玛
+Alla Pugatshova	阿拉·普加乔娃
+KwaZulu-Natal	夸祖魯-納塔爾省
+African National Congress	非洲人国民大会
+Selena Gomez	賽琳娜·戈梅茲
+Amaqanda	蛋
+Thabo Mbeki	塔博·姆贝基
+IHolandi	荷蘭 (地區)
+2001: A Space Odyssey	2001太空漫遊 (電影)
+The Velvet Underground	地下絲絨
+Marin County	马林县 (加利福尼亚州)
+Liya Kebede	莉雅·琦比德
+Ibhayi	伊莉莎白港
+IKipi laseNtshonalanga	西開普省
+Isayiklopsi	独眼巨人
+The Last Supper	最后的晚餐 (达芬奇)
+AmaZulu	祖魯族
+KwaXhosa	東開普省
+Brighton	布赖顿
+Mpumalanga	普馬蘭加省
+IKipi laseNyakatho	北開普省
+IGauteng	豪登省
+Limpopo	林波波省
+Frederik Willem de Klerk	弗雷德里克·威廉·戴克拉克
+Kgalema Motlanthe	卡莱马·莫特兰蒂
+Joan Miró	胡安·米羅
+Henri Rousseau	亨利·盧梭
+IFleyistata	自由邦省
+T.A.T.u.	T.A.T.u.
+Nyakatho-Ntshonalanga	西北省 (南非)
+Caselle Landi	卡塞莱兰迪
+University of London	倫敦大學
+Syngman Rhee	李承晚
+David (Michelangelo)	大衛像
+Boris Johnson	鲍里斯·约翰逊
+Ostankino Tower	奧斯坦金諾電視塔
+IRandi	南非兰特
+Pietermaritzburg	彼得马里茨堡
+Chang Myon	张勉
+Lou Reed	卢·里德
+Plazas de soberanía	西属主权地
+Izifundazwe zaseNingizimu Afrika	南非行政区划
+Yun Bo-seon	尹潽善
+Umbuso waseNingizimu Afrika	南非聯邦
+Banovci (Nijemci)	巴諾夫齊
+Oscar Pistorius	奧斯卡·皮斯托利斯
+Freshlyground	清新土地
+IMito	水戶市
+SliTaz	Slitaz
+University La Sapienza	罗马大学
+Bhisho	比绍 (南非)
+Steve Biko	史蒂夫·比科
+The Vitruvian Man	维特鲁威人
+Soweto	索韦托
+Alexa Internet	Alexa Internet
+Nkosi Sikelel' iAfrika	南非國歌
+Ingelosi	天使
+Pietà (Michelangelo)	哀悼基督 (米开朗琪罗)
+OpenSolaris	OpenSolaris
+Impalampala	黑马羚
+Trevor Jones	崔佛·瓊斯
+Umongameli waseNingizimu Afrika	南非总统
+Marjorie Estiano	Marjorie Estiano
+Jan van Riebeeck	扬·范·里贝克
+Ibhola lezinyawo	足球 (消歧義)
+Maurice Sendak	莫里斯·桑達克
+Teamgeist	团队之星
+James Deen	詹姆斯·迪恩
+Cetshwayo	塞奇瓦约
+AmaZulu F.C.	阿玛祖鲁足球俱乐部
+Sara Takanashi	高梨沙羅
+Heo Jeong	许政
+Dingane	丁岡
+Paramore	帕拉莫尔
+Izinkundla	體育場
+Himno Nacional de Chile	智利國歌
+IQuakenbrück	库阿肯布吕克
+Inkandla	恩坎德拉
+Ron Jeremy	罗恩·杰里米
+Vereeniging	弗里尼欣
+University of the Witwatersrand	金山大學
+Indluzele	狷羚
+Igogo	山羚
+Isaga wesizwe	国家格言列表
+Mpande	姆潘德
+Jonava	約納瓦
+Inxala	短角羚
+Isi-Arabhu	阿拉伯语国家和地区列表
+Abantu abansundu	黑人
+Dinizulu	迪尼祖魯·卡塞奇瓦約
+Pornhub	Pornhub
+Tiburon	蒂伯龙 (加利福尼亚州)
+Gcuwa, kwaXhosa	巴特沃斯
+Ermelo, Mpumalanga	埃爾默洛 (普馬蘭加省)
+Internet Adult Film Database	IAFD
+Isifunda weLondon	倫敦郡
+University of Sussex	萨塞克斯大学
+The Sleeping Gypsy	沉睡的吉普赛人
+WP:IPA	Wikipedia:國際音標
+Agnes Monica	杨诗曼
+Category:IJalimani	Category:德国
+Category:IMelika	Category:美国
+Category:IRashiya	Category:俄罗斯
+Category:Umbuso Ohlanganeyo	Category:英国
+Category:IJapani	Category:日本
+Category:IMekisiko	Category:墨西哥
+Category:Ningizimu Afrika	Category:南非
+Category:IPolandi	Category:波蘭
+Category:IPhothugali	Category:葡萄牙
+Category:IViyetnamu	Category:越南
+Category:Umdlalo	Category:体育
+Category:ISayensi	Category:科学
+Category:Ubefa 2012	Category:2012年逝世
+Rhomani	古罗马
+Category:Ububudha	Category:佛教
+Category:Ubukrestu	Category:基督教
+IBaria	巴地市
+Usuku wenkululeko	自由日 (南非)
+Category:Stubs	Category:小作品
+Category:Amazwekazi	Category:大洲
+Portal:Umculo	Portal:音乐
+Template:Succession box	Template:Succession box
+Category:Amabhendi	Category:音樂團體
+Idutywa	杜蒂瓦
+XVideos	XVideos
+Category:Izwe	Category:国家
+Wikipedia:Administrators	Wikipedia:管理员
+Wikipedia:Requests for adminship	Wikipedia:申请成为管理人员
+Category:Internet	Category:互联网
+Wikipedia:Vital 100	Wikipedia:基礎條目/第二級
+IGibhithe	埃及
+Template:Bot	Template:Bot
+IKhanada	加拿大
+Category:ITsheki	Category:捷克
+Category:IEstoniya	Category:爱沙尼亚
+Category:ILatviya	Category:拉脫維亞
+Category:ILithuwaniya	Category:立陶宛
+Category:ISwidi	Category:瑞典
+Category:ISlovakiya	Category:斯洛伐克
+Izulu	天國
+Category:IBerlin	Category:柏林
+Category:IYurophu	Category:欧洲
+Template:Documentation	Template:Documentation
+Sung Jae-gi	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Category:Ulimi	Category:语言
+Wikipedia:Statistics	Wikipedia:统计
+Template:Navbox	Template:Navbox
+Category:Abantu baphilile	Category:在世人物
+Template:Clear	Template:Clear
+Template:Col-break	Template:Col-break
+Template:Col-begin	Template:Col-begin
+Template:Col-end	Template:Col-end
+Template:Trim	Template:Trim
+Template:Nowrap	Template:Nowrap
+Wikipedia:Vital articles	Wikipedia:基礎條目
+Category:IAfrika	Category:非洲
+Category:IGauteng	Category:豪登省
+Category:KwaZulu-Natal	Category:夸祖魯-納塔爾省
+Template:Babel	Template:Babel
+Template:Izifundazwe zaseNingizimu Afrika	Template:南非行政区划
+Template:Commons	Template:Commons
+Template:Reflist	Template:Reflist
+Template:Isixwayiso	Template:Warning
+Template:Stub	Template:Stub
+Template:See also	Template:See also
+Template:User de	Template:User de
+Template:User es	Template:User es
+Template:User en-2	Template:User en-2
+Template:User en	Template:User en
+Template:User fr-1	Template:User fr-1
+Template:User sk	Template:User sk
+Template:User fr-2	Template:User fr-2
+Category:Izilimi zaseNingizimu Afrika	Category:南非语言
+Category:IAshiya	Category:亚洲
+Category:IMelika eNingizimu	Category:南美洲
+Template:Mod	Template:Mod
+Template:SIL	Template:SIL
+Template:Infobox football club	Template:Infobox football club
+Template:Welcome	Template:Welcome
+Template:Country data BEL	Template:Country data Belgium
+Template:Football kit	Template:Football kit
+Template:Country data South Africa	Template:Country data South Africa
+Template:Category handler	Template:Category handler
+Template:Official website	Template:Official
+Category:Izinkondlo zamazwe	Category:国歌
+Template:Infobox dot-com company	Template:Infobox dot-com company
+Template:Country data Egypt	Template:Country data Egypt
+Template:S-start	Template:Start
+Template:Nom	Template:Nom
+Template:Cite journal	Template:Cite journal
+Template:Wikibooks	Template:Wikibooks
+Template:S-aft	Template:S-after
+Category:IParisi	Category:巴黎
+Category:User en	Category:En 使用者
+Category:User en-2	Category:En-2 使用者
+Template:Infobox	Template:Infobox
+Template:Documentation/start box	Template:Documentation/start box
+Template:Documentation/end box2	Template:Documentation/end box2
+Template:Documentation/start box2	Template:Documentation/start box2
+Template:Template other	Template:Template other
+Template:Legend	Template:Legend
+Template:Lang-bg	Template:Lang-bg
+Template:Cite web	Template:Cite web
+Template:Country data	Template:Country data
+Template:Won	Template:Award-won
+Template:Pp-template	Template:Pp-template
+Template:Min	Template:Min
+Template:Wiktionary	Template:Wiktionary
+Category:Abongameli yamazwe	Category:总统
+Template:Country data Algeria	Template:Country data Algeria
+Template:List of African capitals	Template:非洲首都
+Template:Infobox ethnic group	Template:Infobox Ethnic group
+Template:Country data Venezuela	Template:Country data Venezuela
+Template:Allmusic	Template:Allmusic
+Template:Country data Botswana	Template:Country data Botswana
+Template:Infobox model	Template:Infobox Model
+Category:Abafileyo 1884	Category:1884年逝世
+Template:Country data China	Template:Country data China
+Template:Country data SUI	Template:Country data Switzerland
+Template:ParmPart	Template:ParmPart
+Template:Country data Zimbabwe	Template:Country data Zimbabwe
+Template:Country data Taiwan	Template:Country data Taiwan
+Template:Increase	Template:Increase
+Template:Infobox website	Template:Infobox Website
+Template:Image label end	Template:Image label end
+Template:MedalSport	Template:MedalSport
+Template:Columns	Template:Columns
+Template:Myspace	Template:MySpace
+Template:Female adult bio	Template:AV女優
+Template:Lang-af	Template:Lang-af
+Template:NASDAQ	Template:NASDAQ
+Template:Image label small	Template:Image label small
+Template:S-ttl	Template:S-title
+Template:S-bef	Template:S-before
+Template:Oppose	Template:Oppose
+Template:Largest cities	Template:Largest cities
+Template:Lang-ru	Template:Lang-ru
+Template:URL	Template:URL
+Template:Lower	Template:Lower
+Template:Resize	Template:Resize
+Template:Lang-nl	Template:Lang-nl
+Template:Country data Israel	Template:Country data Israel
+Template:Country data South Korea	Template:Country data South Korea
+Category:Amadolobha e-Netherlands	Category:荷蘭城市
+Template:Citation/make link	Template:Citation/make link
+Category:User sk	Category:Sk 使用者
+Template:IncreaseNegative	Template:IncreaseNegative
+Category:Abafundi kwa-Eton	Category:伊頓公學校友
+Category:User sk-N	Category:Sk 母語使用者
+Category:User en-N	Category:En 母语使用者
+Template:N/a	Template:N/A
+Template:Country data United Kingdom	Template:Country data United Kingdom
+Category:Izifunda weMelika	Category:美国州份
+Wikipedia:Babel	Wikipedia:巴別
+Category:Umlando idaladala	Category:古代史
+Category:INgilandi	Category:英格蘭
+Template:Lang-it	Template:Lang-it
+Template:Country data Brazil	Template:Country data Brazil
+Template:Title without disambig	Template:Title without disambig
+Category:Izimpucuko	Category:文明
+Category:IYurobhu Empumalanga	Category:东欧
+Category:Amazwe eAfrika	Category:非洲国家
+Category:Ubezalwa ngo-1452	Category:1452年出生
+Template:Column-width	Template:Column-width
+Category:User ru	Category:Ru 使用者
+Category:User ru-3	Category:Ru-3 使用者
+Category:Abongameli yaseNingizimu Afrika	Category:南非总统
+Category:Ubefa ngo-1519	Category:1519年逝世
+Category:Ubezalwa ngo-1676	Category:1676年出生
+Template:En icon	Template:En icon
+Template:Lang	Template:Lang
+Category:Abapendi	Category:画家
+Category:Ubezalwa ngo-1483	Category:1483年出生
+Category:Ubezalwa ngo-1844	Category:1844年出生
+Category:Ubezalwa ngo-1873	Category:1873年出生
+Category:Ubezalwa 1928	Category:1928年出生
+Category:Ubezalwa ngo-1961	Category:1961年出生
+Category:Ubezalwa ngo-1972	Category:1972年出生
+Template:Afdb name	Template:Afdb name
+Template:Allow wrap	Template:Allow wrap
+Template:As of	Template:As of
+Template:Twitter	Template:Twitter
+Category:Abafileyo 1745	Category:1745年逝世
+Category:Ubefa ngo-1749	Category:1749年逝世
+Category:Abafileyo 1781	Category:1781年逝世
+Template:Main	Template:Main
+Category:New York Isifunda	Category:紐約州
+Category:Hawaii	Category:夏威夷州
+Template:IAFD name	Template:Iafd name
+Template:Event	Template:Event
+Category:Felidae	Category:貓科
+Category:IBenini	Category:貝南
+Category:Ugu Emhlophe	Category:象牙海岸
+Template:Side box	Template:Side box
+Category:Amazwe kwamazwe Ohlangeneyo	Category:联合国会员国
+Template:Citation/core	Template:Citation/core
+Category:Abafileyo 1816	Category:1816年逝世
+Category:Abafileyo 1828	Category:1828年逝世
+Category:Abafileyo 1840	Category:1840年逝世
+Category:Abafileyo 1872	Category:1872年逝世
+Category:Ubefa ngo-1905	Category:1905年逝世
+Category:Ubefa ngo-1910	Category:1910年逝世
+Category:Abafileyo 1913	Category:1913年逝世
+Category:Abafileyo 1968	Category:1968年逝世
+Category:Abafileyo 2000	Category:2000年逝世
+Category:2001	Category:2001年
+Category:2009	Category:2009年
+Category:Amazwe ukhuluma isiSpeyini	Category:西班牙語國家地區
+Category:Amazwe ukhuluma isiFulansi	Category:法語國家地區
+Category:IZimbabwe	Category:津巴布韦
+Template:DecreasePositive	Template:DecreasePositive
+Template:Unbulleted list	Template:Unbulleted list
+Category:Ababhali womculo baseFulansi	Category:法国作曲家
+Category:AbAfrika baseningizimu	Category:南非人
+Category:Izintatheli isiNgisi	Category:英国记者
+Category:Abafileyo 1933	Category:1933年逝世
+Category:IRhomani idaladala	Category:古羅馬
+AbeLungu	高加索人種
+Category:Abongameli weMelika	Category:美国总统
+Category:Amazwe Caribbean	Category:加勒比海國家
+Category:Amazwe e-Osheaniya	Category:大洋洲国家
+Category:Amazwe eMelika Enyakatho	Category:北美洲國家
+Category:Izithelo	Category:水果
+Category:Amafilimu waseNingizimu Afrika	Category:南非電影作品
+Category:Uhambo amafu	Category:航天
+Category:Izifunda we-Afrika	Category:非洲地区
+Category:ILondon	Category:倫敦
+Category:Isilwane	Category:动物
+Category:Amazwe eMelika eNingizimu	Category:南美洲國家
+Template:S-end	Template:Rail end
+Category:Amakoloni weSpeyini edlulile	Category:前西班牙殖民地
+Category:IMelika Wenkaba	Category:中美洲
+Template:MedalCompetition	Template:MedalCompetition
+Category:Amadolobha eRiphabliki yaseNingizimu Afrika	Category:南非城市
+Category:Imidwebo nga-Leonardo da Vinci	Category:列奥纳多·达·芬奇的绘画作品
+Category:Afrika Enyakatho	Category:北非
+Category:Afrika Empumalanga	Category:东非
+Category:IMelika Enyakatho	Category:北美洲
+Category:Ezingcolile ifilimu abadlali	Category:色情演員
+Template:Infobox language/ref	Template:Infobox Language/ref
+Category:I-Osheaniya	Category:大洋洲
+Category:IYurobhu Enyakatho	Category:北欧
+The Prodigy	超凡樂團
+Category:IGoli	Category:约翰内斯堡
+Category:Iziqongo eyurobhu	Category:歐洲首都
+Module:URL	模块:URL
+Category:IYurobhu Entshonalanga	Category:西欧
+Category:IYurobhu Eningizimu	Category:南欧
+Template:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Category:Izinyuvesi weNingizimu Afrika	Category:南非大学
+Category:ILondon Kakhulu	Category:大倫敦
+Template:Convert/m	Template:Convert/m
+Template:Lang-pl	Template:Lang-pl
+Category:Abongameli isekela yamazwe	Category:南非副總統
+Category:AmaZulu	Category:祖鲁人
+Category:Zulu kings	Category:祖魯國王
+Trojany	特洛疆尼
+Category:Izimeya weLondon	Category:倫敦市長
+Template:Lang-oc	Template:Lang-oc
+Template:Lang-gd	Template:Lang-gd
+Template:IPA audio link	Template:IPA audio link
+Category:Vilnius	Category:維爾紐斯
+Template:Sister	Template:Sister
+Category:Abafundi weBalliol, Oxford	Category:牛津大学贝利奥尔学院校友
+Category:Amazwe eMelika Wenkaba	Category:中美洲國家
+Category:Izifunda wezolo eMzansi	Category:南非已不存在的行政區劃
+Category:Iziqhingi we-Afrika	Category:非洲島嶼
+Category:Izinhlobo	Category:种族
+Category:IYurobhu Enkandla	Category:中欧
+Template:Image label begin	Template:Image label begin
+Category:Amadolobha	Category:城市
+Category:Izinyuvesi yombuso Ohlangeneyo	Category:英格兰大学
+Category:Ubezalwa ngo-1946	Category:1946年出生
+Category:Ubezalwa ngo-1924	Category:1924年出生
+Category:Ukuzala ngo-1964	Category:1964年出生
+Template:Wiktionarylang	Template:Wiktionarylang
+Template:Frac	Template:Frac
+Template:Start date	Template:Start date
+Template:MedalGold	Template:MedalGold
+Template:MedalBronze	Template:MedalBronze
+Template:MedalSilver	Template:MedalSilver
+Template:P1	Template:P1
+Template:Wayback	Template:Wayback
+Template:Sigfig	Template:Significant figures
+Template:MedalCountry	Template:MedalCountry
+Template:Discogs artist	Template:Discogs artist
+Template:S-ach	Template:S-ach
+Template:Longitem	Template:Longitem
+Template:Wikiquote-inline	Template:Wikiquote-inline
+Template:Significant figures/rnd	Template:Significant figures/rnd
+Template:Style/IPA	Template:Style/IPA
+Template:Style/yid	Template:Style/yid
+Template:Xpd5op3p3p3c	Template:Xpd5op3p3p3c
+Module:Yesno	模块:Yesno
+Module:Arguments	模块:Arguments
+Special:RecentChanges	Special:最近更改
+Module:List	模块:List
+Module:Math	模块:Math
+Module:InfoboxImage	模块:InfoboxImage

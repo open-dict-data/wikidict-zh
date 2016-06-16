@@ -1,0 +1,538 @@
+Afirka	非洲
+Japan	日本
+Norway	挪威
+Ireland	爱尔兰共和国
+Hungariya	匈牙利
+An Spàinn	西班牙
+Amurika	美国
+Beljik	比利时
+Luksamburg	卢森堡
+Duniya	地球
+Yan-adam	人
+Finland	芬兰
+Sweden	瑞典
+Denmark	丹麦
+Poland	波兰
+Lithuania	立陶宛
+Italiya	意大利
+Switzerland	瑞士
+Austriya	奥地利
+Greek	希腊
+Turkiyya	土耳其
+Portugal	葡萄牙
+Turai	欧洲
+Asiya	亚洲
+Amirka ta Arewa	北美洲
+Wikipedia	维基百科
+Berlin	柏林
+Airbus	空中客车
+Na'ura	電子計算機
+Yanar gizo	互联网
+Barack Obama	贝拉克·奥巴马
+Pariis	巴黎
+Kenya	肯尼亚
+Ethiopia	埃塞俄比亚
+Zaki	狮
+Faransa	法国
+Esperanto	世界语
+Kare	犬
+Birtaniya	英国
+Kyanwa	猫
+Sin	中华人民共和国
+Kifi	鱼
+Rasha	俄罗斯
+Teku	海
+São Paulo	聖保羅 (巴西)
+Jamus	德国
+Iceland	冰岛
+Istoniya	爱沙尼亚
+Jirgin sama	固定翼飛機
+Ɗaya	1
+Biyu	2
+Uku	3
+Huɗu	4
+Biyar	5
+Laitfiya	拉脫維亞
+Ukraniya	乌克兰
+Kazech	捷克
+Slofakiya	斯洛伐克
+Sloveniya	斯洛文尼亚
+MOldufiniya	摩尔多瓦
+Romainiya	羅馬尼亞
+Bulgairiya	保加利亚
+Masadoiniya	馬其頓共和國
+Albaniya	阿尔巴尼亚
+Kroatiya	克罗地亚
+Azerbaijan	阿塞拜疆
+Andorra	安道尔
+Cyprus	賽普勒斯
+Georgia (country)	格鲁吉亚
+Kazakystan	哈萨克斯坦
+Malta	马耳他
+Monaco	摩纳哥
+Montenegro	蒙特內哥羅
+Vatican	梵蒂冈
+San Marino	圣马力诺
+Indonesiya	印度尼西亚
+Afirka ta kudu	南非
+Aljeriya	阿尔及利亚
+Uzbekistan	乌兹别克斯坦
+Ruwa	水
+Chile	智利
+Isa Almasihu	耶稣
+Singafora	新加坡
+Ilmi	科学
+Liechtenstein	列支敦斯登
+Hitler	阿道夫·希特勒
+Facebook	Facebook
+Baharain	巴林
+Armeniya	亞美尼亞
+Serbiya	塞尔维亚
+Wata	月球
+Santanbul	伊斯坦堡
+Asturaliya	澳大利亚
+Koriya ta Arewa	朝鲜民主主义人民共和国
+Kambodiya	柬埔寨
+Musulunci	伊斯兰教
+Rana	太阳
+Angela Merkel	安格拉·默克爾
+Timor-Leste	东帝汶
+Duniyoyi	行星
+Cadi	乍得
+Indiya	印度
+Mangolia	蒙古国
+Dabba	动物
+Shuka	植物
+Kaza	鸡
+Jersey	澤西
+Aladu	家豬
+Iran	伊朗
+Irak	伊拉克
+Isra'ila	以色列
+Yemen	也门
+Jordan	约旦
+Kyrgystan	吉尔吉斯斯坦
+Kuwait	科威特
+Laos	老挝
+Lebanon	黎巴嫩
+Maldives	马尔代夫
+Maleziya	马来西亚
+Myanmar	缅甸
+Nepal	尼泊尔
+Oman	阿曼
+Pakistan	巴基斯坦
+Qatar	卡塔尔
+Saudiyya	沙特阿拉伯
+Sri Lanka	斯里蘭卡
+Siriya	叙利亚
+Tajikistan	塔吉克斯坦
+Thailand	泰国
+Turkmenistan	土库曼斯坦
+Taraiyar larabawa	阿拉伯联合酋长国
+Vietnam	越南
+Koriya ta Kudu	大韩民国
+Da Simpsons	辛普森一家
+Afghanistan	阿富汗
+Bangladash	孟加拉国
+Mali	马里共和国
+Angola	安哥拉
+Bhutan	不丹
+Brunei	文莱
+Filipin	菲律宾
+Togo	多哥
+Benin	贝宁
+Botswana	波札那
+Burkina faso	布吉納法索
+Burundi	蒲隆地
+Jamhuriyar dimokuradiyya Kwango	刚果民主共和国
+Gine	几内亚
+Kameru	喀麦隆
+Libya	利比亚
+Muritaniya	毛里塔尼亚
+Nijar	尼日尔
+Nijeriya	奈及利亞
+Uganda	乌干达
+Senegal	塞内加尔
+Julius Caesar	尤利烏斯·凱撒
+Sudan	苏丹共和国
+Majalisar Ɗinkin Duniya	联合国
+Kofi Annan	科菲·安南
+Montevideo	蒙得维的亚
+Biri	猴
+Augustus	奥古斯都
+Gibraltar	直布罗陀
+Mota	汽车
+Buenos Aires	布宜諾斯艾利斯
+Abarba	菠蘿
+Zinedine Yazid Zidane	齐内丁·齐达内
+Baibûl	聖經
+Gaskiyan Cocin Isa	真耶稣教会
+Concepción, Chile	康塞普西翁 (智利)
+Końskowola	孔斯科沃拉
+Maciji	蛇
+Kimiya	化學
+Lima	利馬
+Santiago de Chile	圣地亚哥-德智利
+Osasco	奥萨斯库
+Dong Hoi Filin	同海機場
+Curitiba	庫里奇巴
+Confucius	孔子
+Kiristancìì	基督教
+Nahiya	洲
+Tsuntsu	鸟
+Main Page	Wikipedia:首页
+Saratov	薩拉托夫
+Bus	公共汽車
+Åland	奥兰 (芬兰)
+Makkah	麥加
+Canary Islands	加那利群岛
+Category:Candidates for speedy deletion	Category:快速删除候选
+Sahara	撒哈拉沙漠
+Kyautar Nobel	诺贝尔奖
+Sauro	蚊
+Raƙumi	骆驼
+Giwa	象
+Ƙudan zuma	蜂族
+Margaret Thatcher	玛格丽特·撒切尔
+Nelson Mandela	纳尔逊·曼德拉
+Category:Fàransà	Category:法国
+Hakkokin Yan-adam	人权
+Hong Kong	香港
+Rio de Janeiro	里约热内卢
+Addini	宗教
+Muhammad	穆罕默德
+Isle of Man	曼島
+Ronald Reagan	罗纳德·里根
+Fernando Alonso	费尔南多·阿隆索
+Bishiya	树
+APACHE	Apache HTTP Server
+Lissafi	数
+Masara	玉米
+Ƙasashen Duniya	世界政區索引
+Dabbar beya	熊科
+Sankara	癌症
+Kurãme	聾
+Polio	脊髓灰質炎
+Makaman nukiliya	核武器
+Macau	澳門
+Raƙumin dawa	长颈鹿
+Template:Link FA	Template:Link FA
+Wikipedia:Community Portal	Wikipedia:互助客栈
+Jimina	鸵鸟
+Tara	9
+Jaki	驴
+Tuje	鸨
+Jamhuriyar Sin	臺灣
+Bakwai	7
+Takwas	8
+Dabbar rendiya	鹿科
+Tafarnuwa	蒜
+Shida	6
+Moshchena	穆夏那
+Paltoga	帕托加
+Selena	莎麗娜
+Goma	10
+Guernsey	根西
+Kahuhu	戴胜
+Kyankyaso	蟑螂
+Galantoyi	白鹳
+Kada	鳄目
+Kurciya	斑鸠属
+Zaƙami	曼陀罗花
+Hausawa	豪薩人
+Mošovce	莫绍夫采
+Benazir Bhutto	贝娜齐尔·布托
+Mahmoud Ahmadinejad	马哈茂德·艾哈迈迪内贾德
+Dokokin nan goma	十誡
+Damisa	豹
+Ido	伊多語
+Larabawa	阿拉伯人
+Madinah	麦地那
+Gyaɗa	花生
+Ɗari	100
+Hawainiya	變色龍
+Firinji	冰箱
+Khomeini	鲁霍拉·穆萨维·霍梅尼
+Ɗaɗɗoya	羅勒
+Zirin Gaza	加沙地带
+Radio Studio 54 Network	第54演播室電台聯播網
+Ashirin	20
+Arbaʼin	40
+Palestin autonomija	巴勒斯坦民族权力机构
+Talatin	30
+Dubu	1000
+Desmond Tutu	德斯蒙德·图图
+Villeneuve-d'Ascq	阿斯克新城
+Tsibirin Bermuda	百慕達三角
+Dabgi	土豚
+Kotun Shari'ar Miyagun Laifuka	国际刑事法院
+Template:Commonscat	Template:Commons category
+Afirnawan Amirka	非裔美国人
+Ƙwayoyin cuta na Ebola	埃博拉出血热
+Hausa	豪萨语
+Ali Khamenei	阿里·哈梅內伊
+Sao Vang Filin	壽春機場
+Sittin	60
+Tsamiya	酸豆
+Kuɓewa	秋葵
+Rogo	木薯
+Karkandan	黑犀
+Cutar murar aladu	2009年H1N1流感大流行
+Umaru Musa Yar'Adua	奥马鲁·亚拉杜瓦
+Abbott (bakin dutse)	艾博特环形山
+Abbe (bakin dutse)	阿贝环形山
+Tattalin arzikin duniya	金融危机
+Dila	亞洲胡狼
+Balbela	牛背鹭
+Rimi	吉贝
+Zamfara	扎姆法拉州
+Zariya	扎里亚
+Zirman	蓖麻
+Kuka	猴面包树
+Ɓauna	非洲水牛
+Alkama	普通小麦
+Kwari	家蠅
+Gweba	番石榴
+Zabo	珠雞
+Dage	蜜獾
+Herzegovina	赫塞哥維納
+CFA franc ( sefar yammaci Afirka)	非洲法郎
+Kaduna	卡杜納
+Gwaggon biri	東非狒狒
+Boko Haram	博科圣地
+Jaffna	賈夫納
+Maiduguri	邁杜古里
+Afifiya	龜
+Gwaza	芋
+Soso	丝瓜属
+Zogale	辣木
+Casaʼin	90
+Jibda	非洲靈貓
+Dumya	距翅雁
+Batsiya	侏羚
+Benik Afobe	本尼克·阿弗比
+43 (adadan)	43
+Zawo	裸臀魚科
+Barewa	赤額瞪羚
+Shamuwa	白腹鸛
+Baba	槐蓝属
+Dadis Mousa Camara	穆萨·达迪斯·卡马拉
+Mayen kifi	斑鱼狗
+Agadez	阿加德茲
+Mazo	薮羚
+Gauraka	黑冕鶴
+Matiyu	馬太福音
+Kwara	夸拉州
+Gwamki	马羚
+Tan Son Nhat Filin	新山一國際機場
+Gaiwa	原鳍鱼
+Babba da jaka	禿鸛
+Labarin kasa na Nijeriya	尼日利亞地理
+Waaken Santanbul	木豆
+Jihar Katsina	卡齐纳州
+Kano	卡诺州
+Ybe	约贝州
+Tamanin	80
+Sabaʼin	70
+Hamsin	50
+Wushi-wushi	草黃樹鴨
+Ƙirinjijiya	白臉樹鴨
+Gada	灰小羚羊
+Da Nang Filin	峴港國際機場
+Yankan Allah	环喉雀
+VietJet Air	越捷航空
+51 (adadan)	51
+Ca Mau Filin	金甌機場
+Help:Contents	Help:目录
+Katsina	卡齐纳
+Hankaka	非洲白颈鸦
+Sisita	红颊蓝饰雀
+Shaun Barker	肖恩·巴克
+Jetstar Pacific Airlines	捷星太平洋航空
+Aya	油莎草
+Category:Turkiyya	Category:土耳其
+Category:Afirka ta kudu	Category:南非
+Category:Nijeriya	Category:奈及利亞
+Category:Vietnam	Category:越南
+Category:Tsuntsu	Category:鸟类
+Category:Shuka	Category:植物
+Category:Addini	Category:宗教
+Category:Duniya	Category:地球
+LGBT hakkin a Afrika	非洲LGBT權益
+Shaho	鵰
+Tarwaɗa	鰻鬍鯰
+Tsada	海檀木
+Garafuni	胶苦瓜
+Riɗi	芝麻
+Category:Stubs	Category:小作品
+Rukuɓu	皱果苋
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Adebayo Akinfenwa	阿德巴约·阿金芬瓦
+Category:Ƙasā̀shē	Category:国家
+Wikipedia:Administrators	Wikipedia:管理员
+Wikipedia:Vital 100	Wikipedia:基礎條目/第二級
+Misra	埃及
+Yawan Jama'a, Yana da Muhimmanci	人口問題
+Template:Bot	Template:Bot
+Kanada	加拿大
+Category:Slovakia	Category:斯洛伐克
+Category:Tūrai	Category:欧洲
+Template:Documentation	Template:Documentation
+Wikipedia:Community portal	Wikipedia:社群首页
+Category:User languages	Category:用户语言
+Sung Jae-ki	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Category:Wikipedia	Category:维基百科
+Wikipedia:General disclaimer	Wikipedia:免责声明
+Wikipedia:Statistics	Wikipedia:统计
+Template:Navbox	Template:Navbox
+Template:=	Template:=
+Template:Navbar	Template:Navbar
+Template:Unicode	Template:Unicode
+Template:Col-break	Template:Col-break
+Template:Col-begin	Template:Col-begin
+Template:Col-end	Template:Col-end
+Wikipedia:Vital articles	Wikipedia:基礎條目
+Category:Afirka	Category:非洲
+Category:Adadan	Category:数
+Template:Babel	Template:Babel
+Template:Reflist	Template:Reflist
+Template:Stub	Template:Stub
+Template:User af-1	Template:User af-1
+Template:User ar-1	Template:User ar-1
+Template:User ast-1	Template:User ast-1
+Template:User az	Template:User az
+Template:User bar-1	Template:User bar-1
+Template:See also	Template:See also
+Template:User da-2	Template:User da-2
+Template:User da	Template:User da
+Template:User ca-1	Template:User ca-1
+Template:User ca-4	Template:User ca-4
+Template:User be-2	Template:User be-2
+Template:User da-1	Template:User da-1
+Template:User cs-1	Template:User cs-1
+Template:User bg-1	Template:User bg-1
+Template:User de	Template:User de
+Template:User de-1	Template:User de-1
+Template:User el	Template:User el
+Template:User de-3	Template:User de-3
+Template:User en-3	Template:User en-3
+Template:User el-1	Template:User el-1
+Template:User en-1	Template:User en-1
+Template:User en-2	Template:User en-2
+Template:User en-4	Template:User en-4
+Template:User en	Template:User en
+Template:User de-2	Template:User de-2
+Template:User tr-2	Template:User tr-2
+Template:User tr	Template:User tr
+Category:Asiya	Category:亚洲
+Category:User uk	Category:Uk 使用者
+Category:User uk-N	Category:Uk 母語使用者
+Template:Mod	Template:Mod
+Template:SIL	Template:SIL
+Template:User uk	Template:User uk
+Template:ITA	Template:ITA
+Template:Wikivar	Template:Wikivar
+Template:Country showdata	Template:Country showdata
+Template:Image label	Template:Image label
+Template:Infobox dot-com company	Template:Infobox dot-com company
+Template:Ambox	Template:Ambox
+Template:Infobox Country	Template:國家基礎資訊
+Template:Documentation/docname	Template:Documentation/docname
+Template:Tmbox	Template:Tmbox
+Template:Cite journal	Template:Cite journal
+Category:User en-4	Category:En-4 使用者
+Category:User en	Category:En 使用者
+Category:User en-2	Category:En-2 使用者
+Template:Infobox	Template:Infobox
+Template:Cite web	Template:Cite web
+Template:Ombox	Template:Ombox
+Template:Country data	Template:Country data
+Template:Pp-template	Template:Pp-template
+Template:Mbox templates	Template:Mbox templates
+Template:IPA	Template:IPA
+Category:Amurika	Category:美洲
+Template:MONTHNAME	Template:MONTHNAME
+Template:Namespace detect	Template:Namespace detect
+Template:Country data Nigeria	Template:Country data Nigeria
+Template:Image label end	Template:Image label end
+Wikipedia:Nospam	Wikipedia:被保护的标题
+Template:Tlx	Template:Tlx
+Template:Purge	Template:Purge
+Template:Sportivo	Template:Infobox sportsperson
+Template:Country flag2	Template:Flag/core
+Kungiyar Agaji Ta Red Cross Ta Duniya	红十字国际委员会
+Template:Image label small	Template:Image label small
+Template:Pp-meta	Template:Pp-meta
+Template:Mbox	Template:Mbox
+Template:Disambig	Template:Disambig
+Template:Divbox	Template:Divbox
+Template:Dated maintenance category	Template:Dated maintenance category
+Category:User az	Category:Az 使用者
+Category:User be	Category:Be 使用者
+Category:User cs-1	Category:Cs-1 使用者
+Category:User da-1	Category:Da-1 使用者
+Category:User ar-1	Category:Ar-1 使用者
+Category:User be-2	Category:Be-2 使用者
+Category:User da-2	Category:Da-2 使用者
+Category:User tr-2	Category:Tr-2 使用者
+Category:User af	Category:Af 使用者
+Category:User af-1	Category:Af-1 使用者
+Category:User als	Category:Als 使用者
+Category:User ar	Category:Ar 使用者
+Category:User ast	Category:Ast 使用者
+Category:User ast-1	Category:Ast-1 使用者
+Category:User az-N	Category:Az 母語使用者
+Category:User bar	Category:Bar 使用者
+Category:User bar-1	Category:Bar-1 使用者
+Category:User bg	Category:Bg 使用者
+Category:User bg-1	Category:Bg-1 使用者
+Category:User ca	Category:Ca 使用者
+Category:User ca-1	Category:Ca-1 使用者
+Category:User ca-4	Category:Ca-4 使用者
+Category:User cs	Category:Cs 使用者
+Category:User da	Category:Da 使用者
+Category:User de	Category:De 使用者
+Category:User de-2	Category:De-2 使用者
+Category:User de-3	Category:De-3 使用者
+Category:User el	Category:El 使用者
+Category:User el-1	Category:El-1 使用者
+Category:User el-N	Category:El 母語使用者
+Category:User en-3	Category:En-3 使用者
+Category:User en-N	Category:En 母语使用者
+Template:Nastaliq	Template:Script/Nastaliq
+Category:User tr	Category:Tr 使用者
+Category:User tr-N	Category:Tr 母語使用者
+Category:Bishiya	Category:树
+Template:As of	Template:As of
+Category:Kudi	Category:通貨
+Template:DecreasePositive	Template:DecreasePositive
+Category:Ingila kwallon kafa players	Category:英格蘭足球運動員
+Category:Kifi	Category:鱼类
+Category:Amfani	Category:水果
+Category:Dabba	Category:动物
+Kabewa	北瓜
+Iska	空气
+Template:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Template:Flag	Template:Flag
+Template:DMCA	Template:DMCA
+Trojany	特洛疆尼
+Template:Image label begin	Template:Image label begin
+Template:Ns has subpages	Template:Ns has subpages
+Template:Ombox/core	Template:Ombox/core
+Category:User en-1	Category:En-1 使用者
+Category:User de-1	Category:De-1 使用者
+Category:User da-N	Category:Da 母語使用者
+Template:Start date	Template:Start date
+Module:Citation/CS1/Whitelist	模块:Citation/CS1/Whitelist
+Malan boɗe ido	蝴蝶
+Module:Convert	模块:Convert
+Template:Ambox/core	Template:Ambox/core
+Special:RecentChanges	Special:最近更改
+Module:Citation/CS1	模块:Citation/CS1
+Module:Citation/CS1/Configuration	模块:Citation/CS1/Configuration
+Module:InfoboxImage	模块:InfoboxImage
+Module:Infobox	模块:Infobox
+Module:Citation/CS1/Date validation	模块:Citation/CS1/Date validation

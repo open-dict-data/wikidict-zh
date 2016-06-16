@@ -1,0 +1,1490 @@
+Afrig	非洲
+Sapoŋ	日本
+Bëj-saalumu Aamerig	南美洲
+Noorwees	挪威
+Irlaand	爱尔兰共和国
+Ongiri	匈牙利
+Ispaañ	西班牙
+Diiwaan yu Bennoo	美国
+Belsik	比利时
+Luksambuur	卢森堡
+Suuf	地球
+Finlaand	芬兰
+Suweed	瑞典
+Danmaark	丹麦
+Poloñ	波兰
+Lituwaani	立陶宛
+Itaali	意大利
+Suwis	瑞士
+Otris	奥地利
+Girees	希腊
+Tirki	土耳其
+Portugaal	葡萄牙
+Tugal	欧洲
+Asi	亚洲
+Bëj-gànnaaru Aamerig	北美洲
+Goxub Dottub Bëj-saalum	南极洲
+Wikipedia	维基百科
+Olaand	荷兰
+PHP	PHP
+Berlin	柏林
+Nosukaay	電子計算機
+Bern	伯尔尼
+Zurich	苏黎世
+Internet	互联网
+Uruguwaay	乌拉圭
+Londar	伦敦
+Xayra	开罗
+Alegsàndiri	亚历山大港
+Pari	巴黎
+Meksik	墨西哥
+Mbàmbulaanug Atlas	大西洋
+Mbàmbulaan Gu-Dal	太平洋
+Altine	星期一
+Samwie	1月
+Fewirie	2月
+Maars (weer)	3月
+Maas	火星
+Keeñaa	肯尼亚
+Ecoopi	埃塞俄比亚
+Gana	加纳
+Awril	4月
+Mee	5月
+Suwe	6月
+Sulet	7月
+Waxset	8月
+Satumbar	9月
+Oktoobar	10月
+Nowembar	11月
+Disambar	12月
+Talaata	星期二
+Àllarba	星期三
+Alxames	星期四
+Àjjuma	星期五
+Gaawu	星期六
+Dibéer	星期日
+Gaynde	狮
+Faraas	法国
+Esperanto	世界语
+Xaj	犬
+Nguur-Yu-Bennoo	英国
+Muus	猫
+Réewum Popileer bu Siin	中华人民共和国
+Wu-faraas	法语
+Wikbaatukaay	维基词典
+Breesil	巴西
+Riisi	俄罗斯
+Géej	海
+São Paulo	聖保羅 (巴西)
+Almaañ	德国
+Belaarus	白俄罗斯
+Islaand	冰岛
+Yàlla	神 (一神教)
+Estooni	爱沙尼亚
+Benn	1
+Ñaar	2
+Ñatt	3
+Ñent	4
+Juroom	5
+Tus	0
+Letóoni	拉脫維亞
+Ukreen	乌克兰
+Réewum Cek	捷克
+Eslowaaki	斯洛伐克
+Esloweeni	斯洛文尼亚
+Wilniyus	维尔纽斯
+Moldaawi	摩尔多瓦
+Romaani	羅馬尼亞
+Bulgaari	保加利亚
+Rom	罗马
+Réewum Maseduwaan	馬其頓共和國
+Albaani	阿尔巴尼亚
+Groenlaand	格陵兰
+Korwaasi	克罗地亚
+Bosni	波斯尼亚和黑塞哥维那
+Aserbayjaan	阿塞拜疆
+Andoor	安道尔
+Ciipër	賽普勒斯
+Jeoorji	格鲁吉亚
+Kasakistaan	哈萨克斯坦
+Malt	马耳他
+Monaako	摩纳哥
+Montenegro	蒙特內哥羅
+Watikaa	梵蒂冈
+San Marino	圣马力诺
+Burusel	布鲁塞尔
+Kubaa	古巴
+Beliis	伯利兹
+Barbados	巴巴多斯
+Endoneesi	印度尼西亚
+Afrig gu Bëj-saalum	南非
+Alseeri	阿尔及利亚
+Usbekistaan	乌兹别克斯坦
+Warsaw	华沙
+Ndox	水
+Sili	智利
+Yéesu-kristaa	耶稣
+Merkuur	水星
+Taariix	历史
+Weenus	金星
+Kàllaama	語言
+Yupiter	木星
+Uraanus	天王星
+Neptuun	海王星
+Saytubiddiw	天文學
+Singapoor	新加坡
+Xam-xam	科学
+Pluton	冥王星
+Liechtenstein	列支敦斯登
+Xareb Àdduna bu Njëkk	第一次世界大战
+Ñaareelu Xareb Àdduna	第二次世界大战
+Skopje	斯科普里
+Linux	Linux
+Xayma	数学
+Bahrayni	巴林
+Armeeni	亞美尼亞
+Seerbi	塞尔维亚
+Óstraali	澳大利亚
+Jëmm	物理学
+Arsantin	阿根廷
+Peru	秘鲁
+Kore gu Bëj-gànnaar	朝鲜民主主义人民共和国
+Kamboodi	柬埔寨
+Alxuraan	古兰经
+Lislaam	伊斯兰教
+Jubaljana	卢布尔雅那
+Jimbulang bu waa-Brëtaañ	大英百科全书
+World Wide Web	万维网
+Jigéen	女性
+Sofiya	索菲亞
+Jant	太阳
+Asamaan	天空
+Oseyaani	大洋洲
+Nosteg jant	太阳系
+Bés	日
+Timoor gu Penku	东帝汶
+Guddi	晚上
+At	年
+Oslo	奥斯陆
+Lisbon	里斯本
+Way	音乐
+Mosku	莫斯科
+Cadd	乍得
+Seland-Gu-Bees	新西兰
+End	印度
+Tuvalu	圖瓦盧
+Tonga	東加
+Samowaa	萨摩亚
+Duni Solomon	所罗门群岛
+Wanuatu	瓦努阿图
+Papuwaasi-Gine-Gu-Bees	巴布亚新几内亚
+Palau	帛琉
+Nauru	諾魯
+Réew yu Bennoo yu Mikronesi	密克罗尼西亚联邦
+Duni Marshall	馬紹爾群島
+Kiribati	基里巴斯
+Mongoli	蒙古国
+Fiiji	斐濟
+Benesuwela	委內瑞拉
+Amsterdam	阿姆斯特丹
+Rab	动物
+Surinaam	蘇利南
+Paraguwaay	巴拉圭
+Guyaana	圭亚那
+Fànn	艺术
+Ekwadoor	厄瓜多尔
+Koloombi	哥伦比亚
+Boliibi	玻利維亞
+Tirinidaad ak Tobaago	千里達及托巴哥
+Gàncax	植物
+Saint Vincent and the Grenadines	圣文森特和格林纳丁斯
+Saint Lucia	圣卢西亚
+Saint Kitts and Nevis	聖克里斯多福與尼維斯
+Jamayka	牙买加
+Grenada	格林纳达
+Guwaatemala	危地马拉
+Bahamas	巴哈马
+Ganaar	鸡
+Antigua ak Barbuda	安提瓜和巴布达
+Onduras	洪都拉斯
+Dominika	多米尼克
+Réewum Dominik	多明尼加
+Mbaam	家豬
+Mbàmbulaan gu Bëj-gànnaar	北冰洋
+Ayiti	海地
+Salbadoor	萨尔瓦多
+Iraan	伊朗
+Iraak	伊拉克
+Kosta Riika	哥斯达黎加
+Israayil	以色列
+Panamaa	巴拿马
+Yaman	也门
+Jordaani	约旦
+Nikaraaguwa	尼加拉瓜
+Kirgistaan	吉尔吉斯斯坦
+Kowet	科威特
+Réewum Lawos	老挝
+Libaa	黎巴嫩
+Maldiif	马尔代夫
+Aamerig	美洲
+Maleesi	马来西亚
+Miyanmaar	缅甸
+Nepaal	尼泊尔
+Omaan	阿曼
+Pakistaan	巴基斯坦
+Kataar	卡塔尔
+Araabi Sawdit	沙特阿拉伯
+Siri Laanka	斯里蘭卡
+Siri	叙利亚
+Tajikistaan	塔吉克斯坦
+Taaywaan	中華民國
+Taaylaand	泰国
+Ceññeer-mbej	无线电
+Turkumenistaan	土库曼斯坦
+Imaaraat yu Araab yu Bennoo yi	阿拉伯联合酋长国
+Wiyetnaam	越南
+Kore gu Bëj-saalum	大韩民国
+Afganistaan	阿富汗
+Banglaades	孟加拉国
+Mali	马里共和国
+Angolaa	安哥拉
+Butaan	不丹
+Tansani	坦桑尼亚
+Filipiin	菲律宾
+Réewum Diggu Afrig	中非共和國
+Dottub Bëj-saalum	南极
+Dottub Bëj-gànnaar	北极点
+Albert Einstein	阿尔伯特·爱因斯坦
+Mboq	黄色
+Togóo	多哥
+Tiniisi	突尼西亞
+Saambi	赞比亚
+Simbaawee	辛巴威
+Bene	贝宁
+Botswana	波札那
+Burkinaa Faaso	布吉納法索
+Buruundi	蒲隆地
+Komoor	葛摩
+Kongóo-Brasaawiil	刚果共和国
+Kongóo-Kinshasa	刚果民主共和国
+Jibuti	吉布提
+Gineg yamoo	赤道几内亚
+Eritere	厄立特里亚
+Tibilisi	第比利斯
+Gaboŋ	加蓬
+Gàmbi	冈比亚
+Gine	几内亚
+Gine Bisaawóo	幾內亞比索
+Kodiwaar	科特迪瓦
+Kamerun	喀麦隆
+Kap Weert	佛得角
+Lesoto	莱索托
+Libeeria	利比里亚
+Libi	利比亚
+Madagaskaar	马达加斯加
+Malawi	马拉维
+Gànnaar	毛里塔尼亚
+Móoris	毛里求斯
+Marok	摩洛哥
+Mosambik	莫桑比克
+Namibi	纳米比亚
+Niseer	尼日尔
+Charles Darwin	查尔斯·达尔文
+Ugandaa	乌干达
+Ruwandaa	卢旺达
+Saw Tome ak Preesip	圣多美和普林西比
+Senegaal	塞内加尔
+Seysel	塞舌尔
+Siraa Leyoon	塞拉利昂
+Somali	索马里
+Julius Caesar	尤利烏斯·凱撒
+Sudaan	苏丹共和国
+Suwaasilaand	斯威士兰
+Kureelu Mbootayu Xeet yi	联合国
+Melosuuf	地理学
+Melo	颜色
+Prag	布拉格
+Baxa	藍色
+Yanu mbëj	電荷
+Poortorikoo	波多黎各
+Mbàmbulaanug End	印度洋
+Wàll:Xët wu njëkk	Category:頁面分類
+Golo	猴
+Koppar	貨幣
+Gunóor	昆虫
+Niccolò Machiavelli	尼可罗·马基亚维利
+Uetersen	于特森
+Jibraltaar	直布罗陀
+Sagreb	萨格勒布
+Astana	阿斯塔納
+Aten	雅典
+Bagdad	巴格达
+Caracas	卡拉卡斯
+Wiyen	維也納
+Kopenagen	哥本哈根
+Stokolm	斯德哥尔摩
+Elsinki	赫尔辛基
+Dublin	都柏林
+Reykjawik	雷克雅維克
+Talin	塔林
+Riga	里加
+Baratislawa	布拉迪斯拉发
+Budapest	布达佩斯
+Luksambuur (péy)	盧森堡市
+Wadus	瓦都茲
+Biibël	聖經
+San Marino (péy)	聖馬力諾 (城市)
+Ho Chi Minh City	胡志明市
+Jàngu Yéesu bu Dëggu bi	真耶稣教会
+Wu-angalteer	英语
+Andorra la Vella	安道尔城
+Đồng Hới	同海市
+Concepción (Ciili)	康塞普西翁 (智利)
+Kiyew	基輔
+Końskowola	孔斯科沃拉
+Xartum	喀土穆
+Sharles Degóol	夏爾·戴高樂
+Mbëjfepp	电子
+Minsk	明斯克
+Feppsaal	質子
+Kurów	库鲁夫
+Feppmaandu	中子
+Mogadisu	摩加迪休
+Football	足球
+Madrid	马德里
+Wert	綠色
+Xonq	红色
+Safara	火
+Lourdes	盧爾德
+Niiruw jant	太陽星雲
+Rabat	拉巴特
+Alse	阿爾及爾
+Dexub Senegaal	塞内加尔河
+Tunis	突尼斯市
+Tripoli (Libi)	的黎波里
+Jibuti (dëkk)	吉布地市
+Addis-Abeba	亚的斯亚贝巴
+Ankara	安卡拉
+Asmara	阿斯馬拉
+Njamena	恩賈梅納
+Nouakchott	努瓦克肖特
+Belgrad	贝尔格莱德
+Ndakaaru	達喀爾
+Banjul	班竹
+Wàll:Royuwaay	Category:維基百科模板
+Praia	培亞
+Guyaana gu Faraas	法屬圭亞那
+Amman	安曼
+Yaunde	雅温得
+Malabo	馬拉博
+Libarwil	利伯维尔
+Bangi	班基
+Kinshasa	金夏沙
+Brasawil	布拉柴维尔
+Bujumbura	布琼布拉
+Kigali	吉佳利
+Dodoma	多多马
+Nairobi	奈洛比
+Lilongwe	利隆圭
+Lusaka	路沙卡
+Maputo	马普托
+Kampala	坎帕拉
+Luanda	罗安达
+Moroni	莫洛尼
+Antananariwo	塔那那利佛
+Arare	哈拉雷
+Wiktoria (Seysel)	维多利亚 (塞舌尔)
+Kër	住宅
+Lonkoyoon	地图
+Dex	河流
+Osasco	奥萨斯库
+Curitiba	庫里奇巴
+Sowwu Afrig	西部非洲
+Confucius	孔子
+Corbin Bleu	柯賓·布魯
+Wàll:Xayma	Category:数学
+Duni Faarow	法罗群岛
+Géej gu Diggu	地中海
+Gox	洲
+Monzón	蒙宗
+Weer	月
+Mustafa Kemal Atatürk	穆斯塔法·凯末尔·阿塔蒂尔克
+Almazán	艾爾瑪善鎮
+Jimbulang	百科全书
+Xët wu njëkk	Wikipedia:首页
+Dëgërlukaay	電阻器
+Fattalukaay(mbëj)	电容器
+Xiirtalukaay	电感元件
+Tugalasi	歐亞大陸
+Babilon	巴比伦
+Dunu Aland	奥兰 (芬兰)
+Betleyem	伯利恆
+Duni Kanaari	加那利群岛
+Xeltu	哲学
+Rap	饒舌
+Hebe Camargo	赫柏·卡马戈
+Sahara gu Sowwu	西撒哈拉
+Atali	安塔利亚
+Wàll:Saytubiddiw	Category:天文学
+Saara	撒哈拉沙漠
+Niels Bohr	尼尔斯·玻尔
+Politig	政治
+Qin Shi Huang	秦始皇
+Penku gu Diggu	中东
+Réew	國 (政治)
+Mbàmbulaan gu Bëj-saalum	南冰洋
+Bët	眼
+Ñay	象
+Melentaan	蚂蚁
+Simili	分 (时间单位)
+Taariixu Itaali	義大利歷史
+Mburu	麵包
+Kiswahili	斯瓦希里语
+Dereet	血液
+Toulouse	圖盧茲
+Xam-xamu suuf si ak jawwu ji	地球科学
+Doj	岩石
+Jawwu ji	大气层
+Koom-koom	经济学
+Yewwute gu ndefar	产业
+Wàll:Bulgaari	Category:保加利亚
+Njàngat	文學
+Wàll:Faraas	Category:法国
+Wàll:Woy	Category:音乐
+Wàll:Njàngat	Category:文学
+.ac	.ac
+Xay	文明
+Gόor	男性
+Tangor	山
+Yay	荒漠
+Ooŋ Koŋ	香港
+HTML	HTML
+Xarefulwoon	原子
+Nosteg doxiin	操作系统
+Baku	巴库
+Mbàmbulaan	洋
+Budda	释迦牟尼
+Premier League	英格兰足球超级联赛
+Mohammed	穆罕默德
+Dunu Falkland	福克兰群岛
+Ronald Reagan	罗纳德·里根
+Gordon Brown	戈登·布朗
+Wàll:Benesuwela	Category:委内瑞拉
+Pitax	鸠鸽科
+Garab	树
+Wuutuloxo	机械
+Xibaar	信息
+Paj	医学
+Saarayego	塞拉耶佛
+Wàll:Breesil	Category:巴西
+Wàll:Romaani	Category:罗马尼亚
+Xeet	化學元素
+Kàttan	能量
+Hip-hop	嘻哈音樂
+Mbëjbijjaakon	电磁学
+Toolu bijjaakon	磁場
+Dooley ñoddi	引力
+Bijjaan	磁鐵
+Yolaakon	液体
+Féex	真空
+Yaatuwaay	面积
+Saa	秒
+Cuub	绘画
+Nataal	摄影
+Yatt	雕塑
+Mbëjfeppal	电子学
+Dawaanu mbëj	电流
+Baraay	頻率
+Soppalikaay	变压器
+Xaralay xibaar ak jokkoo	信息技术
+Duni Virgin (us)	美屬維爾京群島
+Bëj-saalum-penku Asi	东南亚
+Limu réewi àdduna bi	世界政區索引
+Njëkk-taariix	史前時代
+Réewum ñaari dex yi	美索不达米亚
+Las Palmasu Kanaari gu Mag	拉斯帕尔马斯
+Arminaat	历法
+Xarey jóoñe	十字軍東征
+Mbëj	電
+Montserrat	蒙塞拉特島
+Ndajem Berlin	柏林西非會議
+Adiratig	亚得里亚海
+Ngiste	光学
+Makaaw	澳門
+Soviet Yi Benno	苏联
+Queen	皇后乐队
+Royuwaay:Lien AdQ	Template:Link FA
+Àdduna	世界
+Wikipedia:Pénc mi	Wikipedia:互助客栈
+Guam	關島
+Samoa gu Aamerig	美屬薩摩亞
+Northern Mariana Islands	北马里亚纳群岛
+United States Minor Outlying Islands	美国本土外小岛屿
+Guwaadalup	瓜德罗普
+Martinik	馬提尼克
+Mayoot	马约特
+Reiñõo	留尼汪
+Turks and Caicos Islands	特克斯和凯科斯群岛
+Manchester United	曼徹斯特聯足球俱樂部
+Juróom ñent	9
+Bien Hoa	边和市
+Nha Trang	芽莊市
+Rafael Correa	拉斐尔·科雷亚
+Bukarest	布加勒斯特
+Louvre	卢浮宫
+Kureelu tembte bu Poortorikoo	波多黎各獨立黨
+Tirana	地拉那
+Nowel	圣诞节
+Breinigerberg	贝瑞宁格堡
+Ségg	虎
+Kisinawu	基希讷乌
+Xam-xamu nosukaay	计算机科学
+Şalom	Şalom報
+Aruba	阿魯巴
+Juróom ñaar	7
+Juróom ñett	8
+Ayubés	星期
+Ngéej	湖泊
+Jeexiituwaay bu Orsay	奥赛博物馆
+Dunu Buwet	布韦岛
+Dun	島嶼
+Juróom benn	6
+Moshchena	穆夏那
+Paltoga	帕托加
+Yamoo	赤道
+Mérida, Benesuwela	梅里達市
+Podgorika	波德戈里察
+Baatukaay	詞典
+Bermuda	百慕大
+Palestiin	巴勒斯坦
+Waleta	瓦莱塔
+Fukk	10
+Tene	猎豹
+Looy	貓頭鷹
+Angila	安圭拉
+Waxtu	小时
+Pichilemu	披市勒亩
+Duni Virgin (angalteer)	英屬維爾京群島
+Phan Thiet	藩切市
+Goxub Dottub Bëj-gànnaar	北极地区
+Ngóora (jëmm)	功率
+Ndëgërlu gu mbëj	电阻
+Dendu mbëj	電壓
+Niccolò Cusano University	尼可罗库萨诺大学
+Mbëjtekkaaral	靜電學
+Anet	蒔蘿
+Dunu Kook	库克群岛
+Penku Asi	东亚
+Diggu Asi	中亚
+Bëj-gànnaaru Afrig	北部非洲
+Bëj-saalumu Afrig	南部非洲
+Penku Afrig	东部非洲
+Diggu Afrig	中部非洲
+Bëj-saalumu Tugal	南欧
+Penku Tugal	东欧
+Bëj-gànnaaru Tugal	北歐
+Sowwu Tugal	西欧
+Afritugalasi	歐亞非大陸
+Diggu Aamerig	中美洲
+Maghreb	馬格里布
+Weeri wolof	伊斯兰历
+Ecser	埃切尔
+Akas	亞哈斯
+Polineesi gu Faraas	法屬玻里尼西亞
+Dunu Norfolk	诺福克岛
+Dunu Christmas	圣诞岛
+Arabi	阿拉伯半岛
+Paaka	小刀
+Pullaar	富拉語
+Kaledooni-Gu-Bees	新喀里多尼亞
+Way-dëkk	人口
+Niwe	紐埃
+Tus-wu-gaar	纬度
+Wolof (làkk)	沃洛夫語
+Gëstubiddiw	占星学
+Seent Eleen	圣赫勒拿岛
+Saint Pierre ak Miquelon	圣皮埃尔和密克隆
+Njëkk-xaymà	国际电话区号列表
+Tequixquiac	特基斯基阿克
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	南乔治亚和南桑威奇群岛
+Dalub web	網站
+Araab	阿拉伯人
+Wallis ak Futuna	瓦利斯和富圖納
+Pitkeern	皮特凯恩群岛
+Ne-ne	物质
+Al Bayda	贝达
+Gaal	艇
+Polineesi	玻里尼西亞
+Dunu Kokos	科科斯（基林）群島
+Thanh Hoa	清化市
+Siligo	西利戈
+Tus-wu-taxaw	经度
+Dàngin	大猩猩
+Ben Tre	檳椥市
+Xëtu web	網頁
+Tokelau	托克劳
+Tembte	独立
+Melaneesi	美拉尼西亚
+Téeméer	100
+Campora San Giovanni	肯波拉圣吉奥瓦尼
+Besançon	贝桑松
+Jinax	小鼠属
+Suraas	橙色
+Artemis	阿耳忒弥斯
+Esaas	汽油
+Radio Studio 54 Network	第54演播室電台聯播網
+Tëriinuw nosukaay	计算机程序
+Jëf ya	使徒行传
+Bejjenu Afrig	非洲之角
+Fatt-jawwu	对流层
+Al Pacino	艾尔·帕西诺
+Doolerandu	力学
+Sinemaa	電影院
+Jum	火箭
+Daawuda	大衛
+Seere	清真言
+Liggéey (jëmm)	功
+Penku gu Sori	遠東
+Gëwéel	热带
+Junni	1000
+Xaralaymbëj	電機工程學
+Waañ	廚房
+Andare	安得烈
+Bartelemi	巴多罗买
+Melosuufug Alseeri	阿尔及利亚地理
+Alex Ferguson	亚历克斯·弗格森
+The Doors	門戶樂團
+Toolu mbëj	電場
+Kàttanug imbiku	动能
+Mbootaayu Réewi Jullit yi	伊斯兰合作组织
+Penku gu Jege	近東
+Almasi bi	彌賽亞
+Bànni Israyil	以色列人
+Aaroona	亞倫
+Jàngoroy Ebola	埃博拉出血热
+Locri	洛克里
+Monaako (péy)	摩纳哥城
+Wàll:Filmi	Category:電影作品
+Aset	碟
+Truong Tan Sang	张晋创
+Duran Duran	杜蘭杜蘭
+Safaanukaay	交流發電機
+Ron-goxu End	印度次大陸
+Diiwaani dott	極地
+Sahel	萨赫勒
+Aadama	亞當
+Doxalukaay bu mbëj	电动机
+Ametist	紫水晶
+Coronel Fabriciano	法布里西亚诺上校城
+Junj	符号
+1 Korent	哥林多前書
+Furset	餐叉
+Kuddu	匙
+Royan	鲁瓦扬
+Lepton	輕子
+Bundesliga	德国足球甲级联赛
+Dencukaay	電腦檔案
+Cosaan	传统
+Jéeri ji	岩石圈
+Lëkkalekaay	超連結
+Nukleon	核子
+Beril	綠柱石
+Xarey àdduna	世界大戰
+Abdulaay Wàdd	阿卜杜拉耶·瓦德
+Dëgërluwiin	电阻率
+Yolom-jawwu	平流层
+Melosuufug Tugal	欧洲地理
+Dawaan bu safaanu	交流電
+Disc jockey	唱片騎師
+2 Piyeer	彼得後書
+Heard Island and McDonald Islands	赫德島和麥克唐納群島
+Jurukaayu mbëj	发电机
+Ndombo gu mbëj	电路
+Mamudsu	马穆楚
+Afrig gu bëj-saalumu-Sahara	撒哈拉以南非洲
+Sawara	燃烧
+Raaya wu Senegaal	塞内加尔国旗
+Albaatar	雪花石膏
+Leopool Sedaar Sengoor	利奥波德·塞达尔·桑戈尔
+Dóox	公國
+Bennoo gu Almaañ	德意志统一
+Dawaan bu wéy	直流電
+Digg bu mbëj	發電廠
+Kom-kom	经济
+Pachuca de Soto	帕丘卡
+Iyon-jawwu	电离层
+Break dancing	地板舞
+Biti-jawwu	散逸层
+Asot	阿什杜德
+Amiin	阿們
+Amos	阿摩司書
+Bunt: taariix	Portal:历史
+Ponki Lislaam	五功
+Toolu mbëjbijjaakon	电磁场
+Xiirtalu	电感
+Mbëjbijjaan	電磁鐵
+ASP.NET	ASP.NET
+Diiwaanu Ndar	聖路易區
+Ayóoba	约伯
+Aakimoo jawwu ji	太空探索
+Dalu Archimède	阿基米德浮體原理
+Imbraatóor gu Mali	马里帝国
+Barnabas	巴拿巴
+Tabaski	都爾黑哲月
+Armagedon	哈米吉多頓
+Njël	日出
+Ancos ci Siri	安条克
+Bere	韦里亚
+Areyopas	亚略巴古
+Beelsebul	巴力西卜
+Pël	富拉尼人
+Imbraatóor gu Songaay	桑海帝国
+Vesoul	沃苏勒
+Akayi	亚该亚 (罗马行省)
+Alisa	以利沙
+Imbraatóor gu Gana	迦納帝國
+Kàttanug mbëj	电能
+Piipa	真海豚
+Doxalukaay bu demandoodi	异步电动机
+Duusub sin	正弦曲線
+Sudaan (diiwaan)	苏丹草原
+Njeexitu joule	焦耳定律
+Bowas	波阿斯
+Ajara	夏甲
+Wolof (askan)	沃洛夫人
+Turu Way-Dëkk	区域居民称谓词
+Baraxlu	舍爾邦月
+Ngaté bu digen	項帶重牙鯛
+Sao Tome (dun)	圣多美岛
+Haj	朝觐 (伊斯兰教)
+Beer	格雷岛
+Ndar	圣路易 (塞内加尔)
+Rakki-gàmmu	赖比尔·阿色尼月
+Abadon	亞巴頓
+Luga	盧加 (塞內加爾)
+Wommat wu mbëj	电导
+Jasaan	櫛齒鋸鰩
+Asaf	亞撒
+Barabas	巴拉巴
+Abel	亞伯
+Amon	亞們
+Ousmane Sembène	乌斯曼·塞姆班
+Abiyatar	亚比亚他
+Aristobul	阿里斯托布魯斯一世
+Agabus	亞迦布
+Bëer	大西洋白姑魚
+Aloos	沉香木
+Bitini	比提尼亞
+Toq	弯嘴犀鸟属
+Yolet	雪青色
+Fatik	法蒂克
+Arpagsàdd	亚法撒
+Ben-yamin	便雅悯
+Gàmmu	赖比尔·敖外鲁月
+Diggi-gàmmu	色法尔月
+Betsayda	伯赛大
+Bisub Tabaski	古尔邦节
+Dalmasi	達爾馬提亞
+Max	白蟻
+Balaam	巴蘭 (聖經人物)
+Wure	西非播棋
+Koom-koomu Afrig	非洲經濟
+Diiwaanu Séeju	塞久區
+Baal	巴力
+Cees	捷斯
+Tuubaa	圖巴 (塞內加爾)
+Kori	閃瓦魯月
+Taariixu Aamerig	美洲历史
+Diiwaanu Luga	盧加區
+Diiwaanu Koldaa	科爾達區
+Isipt gu yàgg ga	古埃及历史
+Beliyar	彼列
+Diiwaanu Siggcoor	济金绍尔区
+Awa	夏娃
+Betani	伯大尼
+Betesda	毕士大池
+Kaasamaas	卡薩芒斯
+Swalbard ak Jan Mayen	斯瓦巴和扬马延
+Limub njiiti Senegaal yil	塞内加尔总统
+Doxalukaay bu demandoo	同步馬達
+Diiwaani Senegaal	塞内加尔行政区划
+Diiwaanu Kawlax	考拉克区
+Kawlak	考拉克
+Diiwaanu Cees	捷斯區
+Diiwaanu Tambaakundaa	坦巴昆達區
+Diiwaanu Njaaréem	久尔贝勒区
+Diiwaanu Ndakaaru	达喀尔区
+Diiwaanu Maatam	馬塔姆區
+Diiwaanu Fatik	法蒂克区
+Jurbel	久爾貝勒
+Wuutuloxo bu mbëj	电机
+Elimas	以呂馬
+Xiirtalug mbëjbijjaakon	电磁感应
+Tëngéej	呂菲斯克
+Mbuur	姆布爾
+Diiwaanu Kéedugu	凱杜古區
+Diiwaanu Kafrin	卡夫林區
+Catir	推雅推喇
+Wersun	黑椎鯛
+Melosuufug Angolaa	安哥拉地理
+Taariixu Senegaal	塞内加尔历史
+Maatam	馬塔姆
+Màkkaanum mbëjfeppal	EAI
+Wàll:Gόor	Category:男性
+Wàll:Almaañ	Category:德国
+Wàll:Itaali	Category:意大利
+Wàll:Riisi	Category:俄罗斯
+Wàll:Kanadaa	Category:加拿大
+Wàll:Nguur-Yu-Bennoo	Category:英国
+Wàll:Ispaañ	Category:西班牙
+Wàll:Sapoŋ	Category:日本
+Wàll:Óstraali	Category:澳大利亚
+Wàll:Meksik	Category:墨西哥
+Wàll:End	Category:印度
+Wàll:Araabi Sawdit	Category:沙烏地阿拉伯
+Wàll:Israayil	Category:以色列
+Wàll:Watikaa	Category:梵蒂冈
+Wàll:Tirki	Category:土耳其
+Wàll:Afrig gu Bëj-saalum	Category:南非
+Wàll:Isipt	Category:埃及
+Wàll:Iraan	Category:伊朗
+Wàll:Arsantin	Category:阿根廷
+Abba	阿爸 (阿蘭語)
+Wàll:Afganistaan	Category:阿富汗
+Wàll:Alseeri	Category:阿爾及利亞
+Wàll:Banglaades	Category:孟加拉国
+Wàll:Kubaa	Category:古巴
+Wàll:Ecoopi	Category:衣索比亞
+Wàll:Endoneesi	Category:印尼
+Wàll:Iraak	Category:伊拉克
+Wàll:Niseeria	Category:奈及利亞
+Wàll:Poloñ	Category:波蘭
+Wàll:Portugaal	Category:葡萄牙
+Wàll:Kore gu Bëj-saalum	Category:大韓民國
+Wàll:Sudaan	Category:苏丹
+Wàll:Suwis	Category:瑞士
+Wàll:Tansani	Category:坦尚尼亞
+Wàll:Ukreen	Category:烏克蘭
+Wàll:Wiyetnaam	Category:越南
+Wàll:Picc	Category:鸟类
+Wàll:Gàncax	Category:植物
+Wàll:Jëmm	Category:物理学
+Wàll:Taariix	Category:历史
+Wàll:Melosuuf	Category:地理
+Wàll:Diine	Category:宗教
+Wàll:Sport	Category:体育
+Wàll:Xam-xam	Category:科学
+Wàll:Sinemaa	Category:电影
+Wàll:Suuf	Category:地球
+Wàll:Xibaar	Category:資訊
+Alfe	亞勒腓
+Melosuufug Afrig gu Bëj-saalum	南非地理
+Aana	女先知亚拿
+Aser	亚设
+Tamxarit	穆哈兰姆月
+Wàll:Xeltu	Category:哲学
+Wàll:Lislaam	Category:伊斯兰教
+Melosuufug Bene	贝宁地理
+Aminadab	亚米拿达
+Melosuufug Senegaal	塞內加爾地理
+Ba Ria	巴地市
+Djabar	非洲紅笛鯛
+Melosuufug Kamerun	喀麥隆地理
+Fötö	長體似牙䱛
+Wàll:Junj	Category:小作品
+Wàll:Gox yi	Category:大洲
+Bunt:Melosuuf	Portal:地理学
+Balastus	柏拉木属
+Mikroneesi	密克罗尼西亚群岛
+Royuwaay:M	Template:Tl
+Royuwaay:Yeneenlàkk	Template:Wikipedialang
+Wàll:Réew	Category:国家
+Wàll:Koom-koom	Category:经济学
+Wikipedia:Yorkat	Wikipedia:管理员
+Wàll:Kasakistaan	Category:哈萨克斯坦
+Wikipedia:Bureaucrats	Wikipedia:行政员
+Wikipedia:Bot	Wikipedia:机器人
+Wàll:Paj	Category:医学
+Wàll:Politig	Category:政治
+Wàll:Fànn	Category:艺术
+Isipt	埃及
+Royuwaay:Bot	Template:Bot
+Kanadaa	加拿大
+Wàll:Beljik	Category:比利時
+Wàll:Ciipër	Category:賽普勒斯
+Wàll:Réewum Cek	Category:捷克
+Wàll:Danmaark	Category:丹麥
+Wàll:Estooni	Category:爱沙尼亚
+Wàll:Finlaand	Category:芬蘭
+Wàll:Girees	Category:希腊
+Wàll:Letóoni	Category:拉脫維亞
+Wàll:Islaand	Category:冰島
+Wàll:Luksambuur	Category:卢森堡
+Wàll:Lituwaani	Category:立陶宛
+Wàll:Malt	Category:馬爾他
+Wàll:Suweed	Category:瑞典
+Wàll:Eslowaaki	Category:斯洛伐克
+Wàll:Esloweeni	Category:斯洛維尼亞
+Bunt: Xarala	Portal:科學
+Wàll:Tugal	Category:欧洲
+Wommatiinu mbëj	電導率
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Category:用户语言
+Sung Jae-gi	成在基
+Royuwaay:Softredirect	Template:軟重定向
+Royuwaay:Far	Template:Delete
+Wàll:Xarala	Category:技术
+Wàll:Làkk	Category:语言
+Wàll:Arminaat	Category:曆法
+Wàll:Wikipedia	Category:维基百科
+Wàll:Barab bu tolluwaay bu njëkk	Category:頂級域
+Wàll:Afrig	Category:非洲
+Wàll:Sulet	Category:7月
+Wàll:Suwe	Category:6月
+Wàll:Mbëjfeppal	Category:電子學
+Wàll:Leeral Biibël	Category:圣经
+Wàll:Weeri at mi	Category:月份
+Royuwaay:Babel	Template:Babel
+Royuwaay:Commons	Template:Commons
+Royuwaay:Lien BA	Template:Link GA
+Wàll:Xaralaymbëj	Category:電機工程
+Royuwaay:ANG	Template:AGO
+Royuwaay:Junj	Template:Stub
+Royuwaay:Jëfandikukat af-1	Template:User af-1
+Royuwaay:Jëfandikukat ar-1	Template:User ar-1
+Royuwaay:Jëfandikukat eo-1	Template:User eo-1
+Royuwaay:Jëfandikukat da	Template:User da
+Royuwaay:Jëfandikukat ca-4	Template:User ca-4
+Royuwaay:Jëfandikukat da-1	Template:User da-1
+Royuwaay:Jëfandikukat eo-3	Template:User eo-3
+Royuwaay:Jëfandikukat eu	Template:User eu
+Royuwaay:Jëfandikukat et-1	Template:User et-1
+Royuwaay:Jëfandikukat es	Template:User es
+Royuwaay:Jëfandikukat en-3	Template:User en-3
+Royuwaay:Jëfandikukat el-1	Template:User el-1
+Royuwaay:Jëfandikukat en-1	Template:User en-1
+Royuwaay:Jëfandikukat en-2	Template:User en-2
+Royuwaay:Jëfandikukat eo-2	Template:User eo-2
+Royuwaay:Jëfandikukat en-4	Template:User en-4
+Royuwaay:Jëfandikukat fi	Template:User fi
+Royuwaay:Jëfandikukat en-0	Template:User en-0
+Royuwaay:Jëfandikukat es-4	Template:User es-4
+Royuwaay:Jëfandikukat en	Template:User en
+Royuwaay:Jëfandikukat es-1	Template:User es-1
+Royuwaay:Jëfandikukat fr-1	Template:User fr-1
+Wàll:Dundat yi	Category:生命
+Royuwaay:Jëfandikukat ia-2	Template:User ia-2
+Royuwaay:Jëfandikukat hi-1	Template:User hi-1
+Royuwaay:Jëfandikukat hu	Template:User hu
+Royuwaay:Jëfandikukat id-3	Template:User id-3
+Royuwaay:Jëfandikukat io-3	Template:User io-3
+Royuwaay:Jëfandikukat it-3	Template:User it-3
+Royuwaay:Jëfandikukat ja-4	Template:User ja-4
+Royuwaay:Jëfandikukat sk	Template:User sk
+Royuwaay:Jëfandikukat tr	Template:User tr
+Royuwaay:Jëfandikukat ja	Template:User ja
+Royuwaay:Jëfandikukat ja-1	Template:User ja-1
+Royuwaay:Jëfandikukat it-1	Template:User it-1
+Royuwaay:Jëfandikukat fr	Template:User fr
+Wàll:Fewirie	Category:2月
+Wàll:Gunóor	Category:昆蟲綱
+Wàll:Moldaawi	Category:摩爾多瓦
+Royuwaay:HRV	Template:HRV
+Wàll:Aserbayjaan	Category:亞塞拜然
+Wàll:Asi	Category:亚洲
+Wàll:Ciili	Category:智利
+Wàll:Lesoto	Category:莱索托
+Wàll:Jëfandikukat uk	Category:Uk 使用者
+Wàll:Jëfandikukat uk-N	Category:Uk 母語使用者
+Wàll:Maleesi	Category:马来西亚
+Wàll:Football	Category:足球
+Royuwaay:Mod	Template:Mod
+Royuwaay:Jëfandikukat sv	Template:User sv
+Royuwaay:Jëfandikukat it	Template:User it
+Royuwaay:Jëfandikukat uk	Template:User uk
+Royuwaay:Jëfandikukat es-2	Template:User es-2
+Wàll:Jimbulang	Category:百科全书
+Royuwaay:Bataaxalu dalal-jàmm	Template:Welcome
+Royuwaay:USA	Template:USA
+Royuwaay:ITA	Template:ITA
+Royuwaay:GEO	Template:GEO
+Royuwaay:BOL	Template:BOL
+Royuwaay:MEX	Template:MEX
+Wàll:Jëfandikukat fr-1	Category:Fr-1 使用者
+Royuwaay:MAR	Template:MAR
+Royuwaay:MDK	Template:MDG
+Royuwaay:ISBN	Template:ISBN
+Royuwaay:SVK	Template:SVK
+Royuwaay:EGY	Template:EGY
+Royuwaay:KGZ	Template:KGZ
+Royuwaay:Infobox Réew	Template:國家基礎資訊
+Royuwaay:Max	Template:Max
+Royuwaay:STP	Template:STP
+Royuwaay:VEN	Template:VEN
+Royuwaay:UKR	Template:UKR
+Royuwaay:ROU	Template:ROU
+Royuwaay:TUR	Template:TUR
+Royuwaay:JBT	Template:DJI
+Royuwaay:Jëfandikukat es-0	Template:User es-0
+Wàll:Gana	Category:加纳
+Wàll:Jëfandikukat en-4	Category:En-4 使用者
+Wàll:Togóo	Category:多哥
+Wàll:Jëfandikukat en	Category:En 使用者
+Wàll:Jëfandikukat zh	Category:Zh 使用者
+Wàll:Korwaasi	Category:克罗地亚
+Wàll:Jëfandikukat zh-N	Category:Zh 母语使用者
+Wàll:Jëfandikukat en-2	Category:En-2 使用者
+Royuwaay:Jëfandikukat zh	Template:User zh
+Royuwaay:Jëfandikukat ru-4	Template:User ru-4
+Royuwaay:Coord/URL	Template:MapsServer
+Royuwaay:Jëfandikukat nl-1	Template:User nl-1
+Royuwaay:Jëfandikukat nl-2	Template:User nl-2
+Wàll:Jëfandikukat hi	Category:Hi 使用者
+Royuwaay:Jëfandikukat ru	Template:User ru
+Wàll:Aamerig	Category:美洲
+Royuwaay:Boyutu Babel N	Template:User language-N
+Royuwaay:Boyutu Babel 1	Template:User language-1
+Royuwaay:KPW	Template:CPV
+Royuwaay:Jëfandikukat pt-1	Template:User pt-1
+Wàll:Samwie	Category:1月
+Royuwaay:Jëfandikukat pl	Template:User pl
+Royuwaay:Jëfandikukat nl	Template:User nl
+Royuwaay:TJK	Template:TJK
+Royuwaay:Jëfandikukat no-2	Template:User no-2
+Wikipedia:Nospam	Wikipedia:被保护的标题
+Royuwaay:GAN	Template:GHA
+Royuwaay:GAM	Template:GMB
+Royuwaay:IDN	Template:IDN
+Royuwaay:AFB	Template:ZAF
+Royuwaay:CcTLD	Template:CcTLD
+Royuwaay:POL	Template:POL
+Royuwaay:BOA	Template:BWA
+Royuwaay:URY	Template:URY
+Royuwaay:CUB	Template:CUB
+Royuwaay:KMR	Template:CMR
+Royuwaay:KOS	Template:COD
+Royuwaay:BIH	Template:BIH
+Royuwaay:GIN	Template:GIN
+Royuwaay:FIN	Template:FIN
+Wàll:Cuub	Category:繪畫
+Royuwaay:CAN	Template:CAN
+Royuwaay:DNK	Template:DNK
+Royuwaay:Jëfandikukat	Template:Userpage
+Royuwaay:DEU	Template:DEU
+Royuwaay:BEN	Template:BEN
+Royuwaay:SWE	Template:SWE
+Royuwaay:Boyutu Babel 4	Template:User language-4
+Royuwaay:Jëfandikukat pl-1	Template:User pl-1
+Royuwaay:Boyutu Babel 0	Template:User language-0
+Royuwaay:Jëfandikukat fr-3	Template:User fr-3
+Wàll:Tiniisi	Category:突尼西亞
+Royuwaay:JPN	Template:JPN
+Royuwaay:SOM	Template:SOM
+Royuwaay:VAT	Template:VAT
+Royuwaay:SWL	Template:SWZ
+Wàll:Suti	Category:设备
+Royuwaay:ISL	Template:ISL
+Royuwaay:Coord/link	Template:Coord/link
+Royuwaay:MOR	Template:MUS
+Royuwaay:COL	Template:COL
+Royuwaay:GIB	Template:GNB
+Royuwaay:ERT	Template:ERI
+Royuwaay:GAR	Template:MRT
+Royuwaay:GAB	Template:GAB
+Royuwaay:IRN	Template:IRN
+Royuwaay:MAL	Template:MLI
+Royuwaay:SUD	Template:SDN
+Royuwaay:NAM	Template:NAM
+Royuwaay:RDA	Template:CAF
+Royuwaay:MKD	Template:MKD
+Royuwaay:GNY	Template:GNQ
+Royuwaay:KOM	Template:COM
+Royuwaay:SAM	Template:ZMB
+Royuwaay:MLW	Template:MWI
+Royuwaay:TAN	Template:TZA
+Royuwaay:KAZ	Template:KAZ
+Royuwaay:NIS	Template:NER
+Royuwaay:KON	Template:COG
+Royuwaay:SMR	Template:SMR
+Royuwaay:PER	Template:PER
+Royuwaay:MOS	Template:MOZ
+Royuwaay:GUY	Template:GUY
+Royuwaay:ECP	Template:ETH
+Royuwaay:NIA	Template:NGA
+Royuwaay:SRB	Template:SRB
+Royuwaay:NIC	Template:NIC
+Royuwaay:LIA	Template:LBR
+Royuwaay:TKM	Template:TKM
+Royuwaay:LIB	Template:LBY
+Royuwaay:LES	Template:LSO
+Royuwaay:BUK	Template:BFA
+Royuwaay:CAD	Template:TCD
+Royuwaay:PRY	Template:PRY
+Royuwaay:ECU	Template:ECU
+Royuwaay:SEY	Template:SYC
+Royuwaay:SIR	Template:SLE
+Royuwaay:LTU	Template:LTU
+Royuwaay:IND	Template:IND
+Royuwaay:Jëfandikukat is-1	Template:User is-1
+Royuwaay:Jëfandikukat en-5	Template:User en-5
+Wàll:Poortorikoo	Category:波多黎各
+Wàll:Jëfandikukat ja-N	Category:Ja 母语使用者
+Wàll:Royuwaay jëfëndikookat	Category:用戶頁模板
+Royuwaay:CHE	Template:CHE
+Wàll:Suwaasilaand	Category:斯威士蘭
+Wàll:Infobox	Category:信息框模板
+Royuwaay:Jëfandikukat yi-2	Template:User yi-2
+Royuwaay:ATG	Template:ATG
+Royuwaay:GRC	Template:GRC
+Royuwaay:PRT	Template:PRT
+Royuwaay:SIM	Template:ZWE
+Royuwaay:Jëfandikukat ksh	Template:User ksh
+Royuwaay:CZE	Template:CZE
+Royuwaay:LVA	Template:LVA
+Royuwaay:AZE	Template:AZE
+Royuwaay:Xam-xam	Template:Science
+Royuwaay:MNE	Template:MNE
+Royuwaay:NLD	Template:NLD
+Royuwaay:GBR	Template:GBR
+Royuwaay:LIE	Template:LIE
+Royuwaay:MDA	Template:MDA
+Royuwaay:Boyutu Babel 3	Template:User language-3
+Royuwaay:KOR	Template:KOR
+Royuwaay:Jëfandikukat it-2	Template:User it-2
+Royuwaay:SVN	Template:SVN
+Royuwaay:LBN	Template:LBN
+Royuwaay:FRA	Template:FRA
+Wàll:Mongoli	Category:蒙古國
+Royuwaay:Gox	Template:洲
+Royuwaay:Jëfandikukat pt-3	Template:User pt-3
+Royuwaay:Jëfandikukat pt-2	Template:User pt-2
+Royuwaay:Jëfandikukat lb-1	Template:User lb-1
+Royuwaay:Jëfandikukat fr-4	Template:User fr-4
+Royuwaay:Jëfandikukat lv	Template:User lv
+Royuwaay:Jëfandikukat la-1	Template:User la-1
+Wàll:Réewum Maseduwaan	Category:馬其頓共和國
+Wàll:Jëfandikukat sk	Category:Sk 使用者
+Wàll:Jëfandikukat eo	Category:Eo 使用者
+Wàll:Jëfandikukat et	Category:Et 使用者
+Wàll:Jëfandikukat fr	Category:Fr 使用者
+Wàll:Jëfandikukat hu-N	Category:Hu 母語使用者
+Wàll:Jëfandikukat id	Category:Id 使用者
+Wàll:Jëfandikukat ia	Category:Ia 使用者
+Wàll:Jëfandikukat ja	Category:Ja 使用者
+Wàll:Jëfandikukat la	Category:La 使用者
+Wàll:Jëfandikukat li	Category:Li 使用者
+Wàll:Jëfandikukat pt	Category:Pt 使用者
+Wàll:Jëfandikukat ro	Category:Ro 使用者
+Wàll:Jëfandikukat sv	Category:Sv 使用者
+Wàll:Jëfandikukat sw	Category:Sw 使用者
+Wàll:Jëfandikukat vo	Category:Vo 使用者
+Wàll:Jëfandikukat fr-3	Category:Fr-3 使用者
+Wàll:Jëfandikukat it-3	Category:It-3 使用者
+Wàll:Jëfandikukat da-1	Category:Da-1 使用者
+Wàll:Jëfandikukat et-1	Category:Et-1 使用者
+Wàll:Jëfandikukat hi-1	Category:Hi-1 使用者
+Wàll:Jëfandikukat li-1	Category:Li-1 使用者
+Wàll:Jëfandikukat nl-1	Category:Nl-1 使用者
+Wàll:Jëfandikukat pl-1	Category:Pl-1 使用者
+Wàll:Jëfandikukat vo-1	Category:Vo-1 使用者
+Wàll:Jëfandikukat ar-1	Category:Ar-1 使用者
+Wàll:Jëfandikukat fr-4	Category:Fr-4 使用者
+Wàll:Jëfandikukat it-4	Category:It-4 使用者
+Wàll:Jëfandikukat ar-4	Category:Ar-4 使用者
+Wàll:Jëfandikukat fr-2	Category:Fr-2 使用者
+Wàll:Jëfandikukat ia-2	Category:Ia-2 使用者
+Wàll:Jëfandikukat it-2	Category:It-2 使用者
+Wàll:Jëfandikukat la-2	Category:La-2 使用者
+Wàll:Jëfandikukat nl-2	Category:Nl-2 使用者
+Wàll:Jëfandikukat cs-N	Category:Cs 母語使用者
+Wàll:Jëfandikukat fr-N	Category:Fr 母語使用者
+Wàll:Jëfandikukat it-N	Category:It 母語使用者
+Wàll:Jëfandikukat lv-N	Category:Lv 母語使用者
+Wàll:Jëfandikukat li-N	Category:Li 母語使用者
+Wàll:Jëfandikukat nl-N	Category:Nl 母語使用者
+Wàll:Jëfandikukat ru-N	Category:Ru 母語使用者
+Wàll:Jëfandikukat sw-N	Category:Sw 母語使用者
+Wàll:Jëfandikukat eu-N	Category:Eu 母語使用者
+Wàll:Jëfandikukat af	Category:Af 使用者
+Wàll:Jëfandikukat af-1	Category:Af-1 使用者
+Wàll:Jëfandikukat ar	Category:Ar 使用者
+Wàll:Jëfandikukat bm	Category:Bm 使用者
+Wàll:Jëfandikukat ca	Category:Ca 使用者
+Wàll:Jëfandikukat ca-4	Category:Ca-4 使用者
+Wàll:Jëfandikukat cs	Category:Cs 使用者
+Wàll:Jëfandikukat da	Category:Da 使用者
+Wàll:Jëfandikukat sk-N	Category:Sk 母語使用者
+Wàll:Jëfandikukat de	Category:De 使用者
+Wàll:Jëfandikukat de-0	Category:De-0 使用者
+Wàll:Jëfandikukat de-2	Category:De-2 使用者
+Wàll:Jëfandikukat de-3	Category:De-3 使用者
+Wàll:Jëfandikukat de-4	Category:De-4 使用者
+Wàll:Jëfandikukat de-N	Category:De 母語使用者
+Wàll:Jëfandikukat el	Category:El 使用者
+Wàll:Jëfandikukat el-1	Category:El-1 使用者
+Wàll:Jëfandikukat en-0	Category:En-0 使用者
+Wàll:Jëfandikukat en-3	Category:En-3 使用者
+Wàll:Jëfandikukat en-5	Category:En-5 使用者
+Wàll:Jëfandikukat en-N	Category:En 母语使用者
+Wàll:Jëfandikukat eo-1	Category:Eo-1 使用者
+Wàll:Jëfandikukat eo-2	Category:Eo-2 使用者
+Wàll:Jëfandikukat eo-3	Category:Eo-3 使用者
+Wàll:Jëfandikukat es	Category:Es 使用者
+Wàll:Jëfandikukat es-1	Category:Es-1 使用者
+Wàll:Jëfandikukat es-2	Category:Es-2 使用者
+Wàll:Jëfandikukat es-3	Category:Es-3 使用者
+Wàll:Jëfandikukat es-4	Category:Es-4 使用者
+Wàll:Jëfandikukat es-N	Category:Es 母语使用者
+Wàll:Jëfandikukat eu	Category:Eu 使用者
+Wàll:Jëfandikukat fi	Category:Fi 使用者
+Wàll:Jëfandikukat fi-N	Category:Fi 母語使用者
+Wàll:Jëfandikukat fr-0	Category:Fr-0 使用者
+Wàll:Jëfandikukat hu	Category:Hu 使用者
+Wàll:Jëfandikukat id-3	Category:Id-3 使用者
+Wàll:Jëfandikukat io	Category:Io 使用者
+Wàll:Jëfandikukat io-1	Category:Io-1 使用者
+Wàll:Jëfandikukat io-3	Category:Io-3 使用者
+Wàll:Jëfandikukat is	Category:Is 使用者
+Wàll:Jëfandikukat is-1	Category:Is-1 使用者
+Royuwaay:Jëfandikukat la-3	Template:User la-3
+Wàll:Jëfandikukat pt-3	Category:Pt-3 使用者
+Wàll:Yonenti Lislaam	Category:伊斯蘭教先知
+Wàll:Jëfandikukat pl-N	Category:Pl 母語使用者
+Wàll:Jëfandikukat pt-1	Category:Pt-1 使用者
+Wàll:Jëfandikukat ka-1	Category:Ka-1 使用者
+Wàll:Jëfandikukat it	Category:It 使用者
+Wàll:Jëfandikukat it-1	Category:It-1 使用者
+Wàll:Jëfandikukat ja-1	Category:Ja-1 使用者
+Wàll:Jëfandikukat ka	Category:Ka 使用者
+Wàll:Jëfandikukat ko	Category:Ko 使用者
+Wàll:Jëfandikukat ko-3	Category:Ko-3 使用者
+Wàll:Jëfandikukat ksh	Category:Ksh 使用者
+Wàll:Jëfandikukat ksh-N	Category:Ksh 母語使用者
+Wàll:Jëfandikukat la-1	Category:La-1 使用者
+Wàll:Jëfandikukat la-3	Category:La-3 使用者
+Wàll:Jëfandikukat lb	Category:Lb 使用者
+Wàll:Jëfandikukat lb-1	Category:Lb-1 使用者
+Royuwaay:NOR	Template:NOR
+Royuwaay:BRA	Template:BRA
+Wàll:Nowembar	Category:11月
+Wàll:Jëfandikukat ru-1	Category:Ru-1 使用者
+Royuwaay:Jëfandikukat sv-1	Template:User sv-1
+Wàll:Maars	Category:3月
+Wàll:Sattumbar	Category:9月
+Wàll:Jëfandikukat lv	Category:Lv 使用者
+Royuwaay:TNI	Template:TUN
+Wàll:Oktoobar	Category:10月
+Royuwaay:Boyutu Babel 2	Template:User language-2
+Wàll:Xam-xamu nosukaay	Category:信息学
+Wàll:Géej	Category:海洋
+Wàll:Disambar	Category:12月
+Wàll:Ut	Category:8月
+Wàll:Mee	Category:5月
+Wàll:Awril	Category:4月
+Royuwaay:Boyutu Babel 5	Template:User language-5
+Wàll:Angila	Category:安圭拉
+Royuwaay:LUX	Template:LUX
+Royuwaay:Coord/dms2dec	Template:Coord/dms2dec
+Wàll:Endustri	Category:工业
+Wàll:Ndox	Category:水
+Wàll:Taariixu Aamerig	Category:美洲歷史
+Bunt:Diine	Portal:宗教
+Wàll:Xay	Category:文明
+Wàll:Belaarus	Category:白俄羅斯
+Royuwaay:MCO	Template:MCO
+Royuwaay:Jëfandikukat pt-4	Template:User pt-4
+Royuwaay:Jëfandikukat cs	Template:User cs
+Royuwaay:Jëfandikukat ru-2	Template:User ru-2
+Royuwaay:Jëfandikukat es-3	Template:User es-3
+Royuwaay:Jëfandikukat ko-3	Template:User ko-3
+Wàll:Jëfandikukat pt-0	Category:Pt-0 使用者
+Wàll:Jëfandikukat pt-2	Category:Pt-2 使用者
+Wàll:Jëfandikukat pt-4	Category:Pt-4 使用者
+Wàll:Jëfandikukat pt-N	Category:Pt 母語使用者
+Wàll:Jëfandikukat ro-2	Category:Ro-2 使用者
+Wàll:Jëfandikukat ru	Category:Ru 使用者
+Wàll:Jëfandikukat ru-2	Category:Ru-2 使用者
+Wàll:Jëfandikukat ru-4	Category:Ru-4 使用者
+Wàll:Jëfandikukat sk-1	Category:Sk-1 使用者
+Wàll:Jëfandikukat sv-1	Category:Sv-1 使用者
+Wàll:Jëfandikukat sv-N	Category:Sv 母語使用者
+Wàll:Jëfandikukat tr	Category:Tr 使用者
+Wàll:Jëfandikukat tr-N	Category:Tr 母語使用者
+Wàll:Jëfandikukat yi	Category:Yi 使用者
+Wàll:Jëfandikukat yi-2	Category:Yi-2 使用者
+Royuwaay:IRL	Template:IRL
+Royuwaay:ALB	Template:ALB
+Royuwaay:AND	Template:AND
+Royuwaay:ARG	Template:ARG
+Royuwaay:ARM	Template:ARM
+Royuwaay:Jëfandikukat ca	Template:User ca
+Royuwaay:BUR	Template:BDI
+Royuwaay:BGR	Template:BGR
+Royuwaay:BHS	Template:BHS
+Royuwaay:BLR	Template:BLR
+Royuwaay:KOD	Template:CIV
+Royuwaay:CYP	Template:CYP
+Wàll:Melosuufug Tugal	Category:欧洲地理
+Royuwaay:Xóotal	Template:Main
+Royuwaay:Coord/dec2dms/dm	Template:Coord/dec2dms/dm
+Royuwaay:EST	Template:EST
+Royuwaay:RUS	Template:RUS
+Royuwaay:TOG	Template:TGO
+Royuwaay:AUT	Template:AUT
+Royuwaay:CHL	Template:CHL
+Royuwaay:PD-self	Template:PD-self
+Royuwaay:CHN	Template:CHN
+Wàll:Angolaa	Category:安哥拉
+Wàll:Bene	Category:貝南
+Wàll:Botswana	Category:波札那
+Wàll:Burkinaa Faaso	Category:布吉納法索
+Wàll:Buruundi	Category:布隆迪
+Wàll:Jibuti	Category:吉布地
+Wàll:Gineg yamoo	Category:赤道几内亚
+Wàll:Eritere	Category:厄利垂亞
+Wàll:Gaboŋ	Category:加蓬
+Wàll:Gàmbi	Category:冈比亚
+Wàll:Kamerun	Category:喀麥隆
+Wàll:Keeñaa	Category:肯亞
+Wàll:Komoor	Category:葛摩
+Wàll:Libi	Category:利比亞
+Wàll:Madagaskaar	Category:馬達加斯加
+Wàll:Malawi	Category:马拉维
+Wàll:Marok	Category:摩洛哥
+Wàll:Gànnaar	Category:毛里塔尼亚
+Wàll:Mosambik	Category:莫桑比克
+Wàll:Namibi	Category:纳米比亚
+Wàll:Ruwandaa	Category:盧安達
+Royuwaay:IRQ	Template:IRQ
+Wàll:Taariixu senegaal	Category:塞内加尔历史
+Wàll:Melosuufug Afrig gu Bëj-saalum	Category:南非地理
+Royuwaay:Jëfandikukat ar-4	Template:User ar-4
+Wàll:Melosuufug Alseeri	Category:阿尔及利亚地理
+Royuwaay:Jëfandikukat la-2	Template:User la-2
+Royuwaay:Jëfandikukat li-1	Template:User li-1
+Royuwaay:Jëfandikukat pt	Template:User pt
+Royuwaay:Jëfandikukat ro-2	Template:User ro-2
+Royuwaay:Jëfandikukat ru-1	Template:User ru-1
+Royuwaay:Jëfandikukat sk-1	Template:User sk-1
+Royuwaay:Jëfandikukat zh-1	Template:User zh-1
+Royuwaay:Jëfandikukat zh-2	Template:User zh-2
+Royuwaay:Jëfandikukat zh-4	Template:User zh-4
+Wàll:Saambi	Category:赞比亚
+Wàll:Senegaal	Category:塞內加爾
+Wàll:Seysel	Category:塞舌尔
+Wàll:Simbaawee	Category:津巴布韦
+Wàll:Melosuufug Kamerun	Category:喀麦隆地理
+Wàll:Somali	Category:索马里
+Wàll:Cadd	Category:乍得
+Wàll:Ugandaa	Category:烏干達
+Wàll:Réewum Diggu Afrig	Category:中非共和國
+Wàll:Filipiin	Category:菲律宾
+Wàll:Jëfandikukat nl	Category:Nl 使用者
+Wàll:Jëfandikukat no-2	Category:No-2 使用者
+Wàll:Jëfandikukat no	Category:No 使用者
+Wàll:Jëfandikukat zh-1	Category:Zh-1 使用者
+Wàll:Jëfandikukat zh-4	Category:Zh-4 使用者
+Wàll:Jëfandikukat zh-2	Category:Zh-2 使用者
+Wàll:Doolerandu	Category:力學
+Wàll:Armeeni	Category:亞美尼亞
+Wàll:Bahrayni	Category:巴林
+Wàll:Siri	Category:敘利亞
+Wàll:Melosuufug Senegaal	Category:塞内加尔地理
+Wàll:Jeoorji	Category:喬治亞
+Wàll:Jamayka	Category:牙買加
+Wàll:Kataar	Category:卡塔尔
+Wàll:Maldiif	Category:馬爾地夫
+Wàll:Nepaal	Category:尼泊爾
+Wàll:Omaan	Category:阿曼
+Wàll:Usbekistaan	Category:烏茲別克
+Wàll:Taariixu Tugal	Category:欧洲历史
+Wàll:San Marino	Category:聖馬力諾
+Wàll:Jordaani	Category:约旦
+Wàll:Nikaraaguwa	Category:尼加拉瓜
+Wàll:Bosni	Category:波斯尼亚和黑塞哥维那
+Wàll:Noorwees	Category:挪威
+Wàll:Paraguwaay	Category:巴拉圭
+Wàll:Liechtenstein	Category:列支敦斯登
+Wàll:Onduras	Category:宏都拉斯
+Wàll:Uruguwaay	Category:乌拉圭
+Wàll:Andoor	Category:安道爾
+Wàll:Seerbi	Category:塞尔维亚
+Wàll:Salbadoor	Category:萨尔瓦多
+Wàll:Ayiti	Category:海地
+Wàll:Ekwadoor	Category:厄瓜多
+Wàll:Yaman	Category:也门
+Wàll:Peru	Category:秘鲁
+Wàll:Boliibi	Category:玻利维亚
+Wàll:Albaani	Category:阿爾巴尼亞
+Wàll:Monaako	Category:摩纳哥
+Wàll:Cosaan	Category:傳統
+Wàll:Jén	Category:鱼类
+Wàll:Làkki Afrig	Category:非洲语言
+Wàll:Dëkki Benesuwela	Category:委内瑞拉城市
+Royuwaay:ESP	Template:ESP
+Wàll:Rab	Category:动物
+Wàll:Nauru	Category:瑙鲁
+Wàll:Antigua ak Barbuda	Category:安提瓜和巴布达
+Wàll:Guyaana	Category:圭亚那
+Wàll:Koloombi	Category:哥倫比亞
+Wàll:Hip Hop	Category:嘻哈
+Wàll:Alxuraan	Category:古蘭經
+Wàll:Mbëjtekkaaral	Category:静电学
+Wàll:Mbëj	Category:電學
+Wàll:Jëfandikukat pl	Category:Pl 使用者
+Wàll:Weeri wolof	Category:伊斯兰教历
+Wàll:Oseyaani	Category:大洋洲
+Wàll:Montenegro	Category:黑山
+Wàll:Moto	Category:交通工具
+Wàll:Dëkki Senegaal	Category:塞内加尔城市
+Wàll:Adduna	Category:世界
+Ngelaw	空气
+Wàll:Koom-koomu Afrig	Category:非洲经济
+Royuwaay:UGA	Template:UGA
+Royuwaay:UZB	Template:UZB
+Royuwaay:Coord/dec2dms	Template:Coord/dec2dms
+Royuwaay:Coord/display/inline,title	Template:Coord/display/inline,title
+Trojany	特洛疆尼
+Wàll:Njiiti Senegaal	Category:塞内加尔总统
+Royuwaay:Jëfandikukat sw	Template:User sw
+Royuwaay:Jëfandikukat it-4	Template:User it-4
+Royuwaay:Jëfandikukat io-1	Template:User io-1
+Royuwaay:RUW	Template:RWA
+Royuwaay:MLT	Template:MLT
+Royuwaay:Kña	Template:KEN
+Royuwaay:JAM	Template:JAM
+Wàll:Wallis ak Futuna	Category:瓦利斯和富图纳
+Wàll:Aakimoo jawwu ji	Category:太空探索
+Wàll:Jëfandikukat it-0	Category:It-0 使用者
+Wàll:Mbëjbijjaakon	Category:电磁学
+Wàll:Kàttan	Category:能量
+Royuwaay:Precision1	Template:Precision1
+Wàll:Kër	Category:住宅
+Wàll:Waañ	Category:廚房
+Royuwaay:MNG	Template:MNG
+Royuwaay:BEL	Template:BEL
+Wàll:Melo	Category:颜色
+Koor	賴買丹月
+Wàll:Jamono	Category:时间单位
+Wàll:Nit ñi ci Téere Linjiil	Category:新约圣经中的人
+Wàll:Làkki Niseer-Cóngoo	Category:尼日-剛果語系
+Wàll:Bereb yi ci Téere Linjiil	Category:新约圣经中的地名
+Wàll:Njëkk-taariix	Category:史前史
+Wàll:Saari alxuraan	Category:蘇拉
+Wàll:Jëfandikukat nl-0	Category:Nl-0 使用者
+Royuwaay:HUN	Template:HUN
+Wàll:Jëfandikukat ru-0	Category:Ru-0 使用者
+Wàll:Jëfandikukat es-0	Category:Es-0 使用者
+Nguri	黄蜂
+Royuwaay:Coord/display/title	Template:Coord/display/title
+Royuwaay:Coord/input/ERROR	Template:Coord/error
+Wàll:Jëfandikukat en-1	Category:En-1 使用者
+Wàll:Jëfandikukat de-1	Category:De-1 使用者
+Wàll:Jëfandikukat da-N	Category:Da 母語使用者
+Wàll:Taariixu Afrig	Category:非洲歷史
+Royuwaay:Jëfandikukat li	Template:User li
+Fajar	拂晓
+Royuwaay:Style/IPA	Template:Style/IPA
+Royuwaay:Style/yid	Template:Style/yid
+Coreca	科雷卡
+Jagleel:Coppite yu mujj	Special:最近更改
+Wàll:Jëfandikukat ja-4	Category:Ja-4 使用者

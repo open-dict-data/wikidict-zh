@@ -1,0 +1,558 @@
+Saot Amerika	南美洲
+Norway	挪威
+Ireland	爱尔兰共和国
+Hungary	匈牙利
+Spain	西班牙
+Yunaeted Stet blong Amerika	美国
+Belgium	比利时
+Luxembourg	卢森堡
+Finland	芬兰
+Sweden	瑞典
+Denmark	丹麦
+Poland	波兰
+Litwania	立陶宛
+Itali	意大利
+Switzerland	瑞士
+Austria	奥地利
+Greece	希腊
+Turkey	土耳其
+Portugal	葡萄牙
+Yurop	欧洲
+Esia	亚洲
+Wikipedia	维基百科
+Netherlands	荷兰
+Berlin	柏林
+Barak Obama	贝拉克·奥巴马
+Uruguay	乌拉圭
+London	伦敦
+Paris	巴黎
+Mexico	墨西哥
+Pasifik	太平洋
+Kalifornia	加利福尼亚州
+Boston, Massachusetts	波士顿
+Franis	法国
+Unaeted Kingdom	英国
+China	中华人民共和国
+Brazil	巴西
+Rusia	俄罗斯
+Alabama	亚拉巴马州
+Germany	德国
+Belarus	白俄罗斯
+Iceland	冰岛
+Estonia	爱沙尼亚
+David Cameron	戴维·卡梅伦
+Wan	1
+Tu	2
+Tri	3
+Fo	4
+Faef	5
+Latvia	拉脫維亞
+Ukraine	乌克兰
+Czechia	捷克
+Slovakia	斯洛伐克
+Slovenia	斯洛文尼亚
+Vilnius	维尔纽斯
+Moldova	摩尔多瓦
+Romania	羅馬尼亞
+Bulgaria	保加利亚
+Rome	罗马
+Macedonia	馬其頓共和國
+Albania	阿尔巴尼亚
+Croatia	克罗地亚
+Bosnia and Herzegovina	波斯尼亚和黑塞哥维那
+Azerbaijan	阿塞拜疆
+Andorra	安道尔
+Cyprus	賽普勒斯
+Georgian Republic	格鲁吉亚
+Kazakhstan	哈萨克斯坦
+Malta	马耳他
+Monaco	摩纳哥
+Montenegro	蒙特內哥羅
+Vatican Siti	梵蒂冈
+San Marino	圣马力诺
+Indonesia	印度尼西亚
+Warsaw	华沙
+Wota	水
+Chile	智利
+Jisas Kraes	耶稣
+Nicolas Sarkozy	尼古拉·萨科齐
+Singapore	新加坡
+Saens	科学
+Liechtenstein	列支敦斯登
+Spot	体育运动
+Wol Wo Tu	第二次世界大战
+Armenia	亞美尼亞
+Serbia	塞尔维亚
+Ostrelia	澳大利亚
+Argentina	阿根廷
+Peru	秘鲁
+Baeoloji	生物学
+Islam	伊斯兰教
+Boteni	植物学
+Flaoa	花
+Wikimidia Commons	维基共享资源
+Moskow	莫斯科
+San-Peterburg	圣彼得堡
+Niu Zilan	新西兰
+India	印度
+Aean	铁
+Ripablik blong Vanuatu	瓦努阿图
+Papua New Guinea	巴布亚新几内亚
+Venezuela	委內瑞拉
+Maine	缅因州
+Animol	动物
+Paraguay	巴拉圭
+Colombia	哥伦比亚
+Budisim	佛教
+Bolivia	玻利維亞
+Niu Hampshire	新罕布什尔州
+Massachusetts	麻薩諸塞州
+Connecticut	康乃狄克州
+Hawaii	夏威夷州
+Alaska	阿拉斯加州
+Florida	佛罗里达州
+Arizona	亞利桑那州
+Laos	老挝
+Oregon	俄勒冈州
+Yuta	犹他州
+Burma	缅甸
+Vietnam	越南
+Saot Koria	大韩民国
+Bangladesh	孟加拉国
+Bhutan	不丹
+Twitter	Twitter
+Julius Caesar	尤利烏斯·凱撒
+Yunaeted Nesen	联合国
+Jiografi	地理学
+Bren	脑
+Prague	布拉格
+Michigan	密歇根州
+Illinois	伊利诺伊州
+Not Dakota	北达科他州
+Saut Dakota	南达科他州
+Montana	蒙大拿州
+Wyoming	怀俄明州
+Giorgio Napolitano	乔治·纳波利塔诺
+Idaho	爱达荷州
+Washington (Bundesstaat)	华盛顿州
+Nevada	内华达州
+Colorado	科羅拉多州
+Delhi	德里
+Virginia	弗吉尼亚州
+West Virginia	西維吉尼亞州
+Niu York (Bundesstaat)	纽约州
+Rhode Island	羅德島州
+Maryland	马里兰州
+Delaware	特拉华州
+Ohio	俄亥俄州
+Pennsylvania	宾夕法尼亚州
+Uetersen	于特森
+Augustus	奥古斯都
+Niu Yersey	新泽西州
+Indiana	印第安纳州
+Georgia	喬治亞州
+Texas	德克萨斯州
+Not Carolina	北卡罗来纳州
+Saut Carolina	南卡罗来纳州
+Barcelona	巴塞罗那
+Mississippi	密西西比州
+Tennessee	田纳西州
+Niu Mexico	新墨西哥州
+Minnesota	明尼蘇達州
+Caracas	卡拉卡斯
+Wisconsin	威斯康辛州
+Iowa	艾奥瓦州
+Nebraska	內布拉斯加州
+Kansas	堪薩斯州
+Hindi	印地语
+Missouri	密蘇里州
+Louisiana	路易斯安那州
+Kentucky	肯塔基州
+Arkansas	阿肯色州
+Oklahoma	奧克拉荷馬州
+Vienna	維也納
+Stockholm	斯德哥尔摩
+Wrocław	弗罗茨瓦夫
+Baebol	聖經
+Ho Chi Minh City	胡志明市
+Tru Jisas Jioj	真耶稣教会
+Andorra la Vella	安道尔城
+Dong Hoi	同海市
+Concepción	康塞普西翁 (智利)
+Końskowola	孔斯科沃拉
+Kurów	库鲁夫
+Kemistri	化學
+Madrid	马德里
+Sydney	悉尼
+Delmenhorst	代尔门霍斯特
+Osasco	奥萨斯库
+Curitiba	庫里奇巴
+Confucius	孔子
+Category:Matematikis	Category:数学
+Faroe aelan	法罗群岛
+Kristaniti	基督教
+Céline Dion	席琳·狄翁
+Kontinen	洲
+Kapitol	首都
+Monzón	蒙宗
+Almazán	艾爾瑪善鎮
+Huang Xianfan	黄现璠
+Nambawan Pej	Wikipedia:首页
+Template:Gud atikel	Template:Good article
+Category:Candidates for speedy deletion	Category:快速删除候选
+Kaontri	国家
+Indianapolis, Indiana	印第安納波利斯
+Elmshorn	埃尔姆斯霍恩
+Qin Shi Huang	秦始皇
+Ae	眼
+Kamel	骆驼
+Obesin	茄
+Dakdak	鸭科
+Toktok Rusia	俄语
+Nelson Mandela	纳尔逊·曼德拉
+Volkeno	火山
+Bigwin	熱帶氣旋
+Category:Franis	Category:法国
+Kofi	咖啡
+Seoul	首爾
+Toktok Ukraine	乌克兰语
+Dipsi	洋
+Buddha	释迦牟尼
+Muhammed	穆罕默德
+Martin Luther	馬丁·路德
+Michael Schumacher	迈克尔·舒马赫
+Elisabet II	伊丽莎白二世
+Ronald Reagan	罗纳德·里根
+Fernando Alonso	费尔南多·阿隆索
+Gordon Brown	戈登·布朗
+Category:Venezuela	Category:委内瑞拉
+Lugo	卢戈 (西班牙)
+Category:Brazil	Category:巴西
+Oktri	栎属
+Kanal	运河
+Leji	荔枝
+Kokonas	椰
+Santiago de Compostela	聖地亞哥-德孔波斯特拉
+Oviedo	奥维耶多
+Mérida	梅里達 (西班牙)
+Template:Link FA	Template:Link FA
+Busan	釜山廣域市
+Vermont	佛蒙特州
+Denver, Colorado	丹佛
+Phoenix, Arizona	鳳凰城 (亞利桑那州)
+Austin, Texas	奧斯汀
+Columbus, Ohio	哥伦布 (俄亥俄州)
+Flaeg blong Rusia	俄羅斯聯邦國旗
+Sacramento, Kalifornia	沙加緬度
+Honolulu, Hawaii	檀香山
+Providence, Rhode Island	普罗维登斯 (罗德岛州)
+Naen	9
+Bien Hoa	边和市
+Nha Trang	芽莊市
+Rafael Correa	拉斐尔·科雷亚
+Wikipedia:Gud atikel	Wikipedia:優良條目
+Breinigerberg	贝瑞宁格堡
+Moai	摩艾石像
+Seoul Stesen	首爾站
+Yongsan Stesen	龙山站 (首尔)
+Cheongnyangni Stesen	清凉里站
+Daejeon Stesen	大田站 (韩国)
+Daejeon	大田广域市
+Sejong	世宗特別自治市
+Incheon	仁川廣域市
+Nashville, Tennessee	纳什维尔
+Sol Lek Siti	盐湖城
+Seven	7
+Eit	8
+Lord's Prayer	主禱文
+Galik	蒜
+Kukamba	黄瓜
+Sikis	6
+Moshchena	穆夏那
+Paltoga	帕托加
+Santiago de los Caballeros de Mérida	梅里達市
+Atlanta, Georgia	亚特兰大
+Ten	10
+Albany, Niu York	奥尔巴尼
+Ca Mau	金瓯市
+Harrisburg, Pennsylvania	哈里斯堡
+Da Lat	大叻市
+Phan Thiet	藩切市
+Hoknaet	仓鸮
+Antoni Gaudí	安东尼·高迪
+Trenton, Niu Yersey	特伦顿 (新泽西州)
+Thai Nguyen	太原市 (越南)
+Jefferson City, Missouri	杰斐逊城 (密苏里州)
+Jackson, Mississippi	杰克逊 (密西西比州)
+Augusta, Maine	奥古斯塔 (缅因州)
+Baton Rouge, Louisiana	巴吞鲁日 (路易斯安那州)
+Lansing, Michigan	兰辛 (密歇根州)
+Concord, New Hampshire	康科德 (新罕布什尔州)
+Lincoln, Nebraska	林肯 (内布拉斯加州)
+Annapolis, Maryland	安那波利斯
+Springfield, Illinois	斯普林菲尔德 (伊利诺伊州)
+Frankfort, Kentucky	法兰克福 (肯塔基州)
+Saint Paul, Minnesota	圣保罗 (明尼苏达州)
+Montgomery, Alabama	蒙哥马利 (亚拉巴马州)
+Juneau, Alaska	朱諾 (阿拉斯加州)
+Zhengzhou	郑州市
+Avril Lavigne	艾薇兒·拉維尼
+Little Rock, Arkansas	小岩城 (阿肯色州)
+Buon Ma Thuot	邦美蜀市
+Hartford, Connecticut	哈特福
+Dover, Delaware	多佛 (特拉华州)
+Tok Pisin	巴布亚皮钦语
+Anastacia	安娜塔西亚
+Yufreres	幼发拉底河
+Vinh Long	永隆市
+Tequixquiac	特基斯基阿克
+Oklahoma City, Oklahoma	奧克拉荷馬市
+Bislama	比斯拉马语
+Boise, Idaho	博伊西
+Al Bayda	贝达
+Bambu	竹
+Thanh Hoa	清化市
+Port Moresby	莫尔兹比港
+Ben Tre	檳椥市
+Arancón	阿兰孔
+Twelef	12
+Tallahassee, Florida	塔拉赫西
+Bismarck, Not Dakota	俾斯麥 (北達科塔州)
+Leven	11
+Avoka	鳄梨
+Cleveland, Ohio	克里夫蘭 (俄亥俄州)
+John Calvin	约翰·加尔文
+Sint-Truiden	圣特雷登
+Port Vila	维拉港
+Auckland Grammar School	奧克蘭文法學校
+Angers	昂热
+Columbia, Saut Carolina	哥伦比亚 (南卡罗来纳州)
+Santa Fe, Niu Mexico	圣菲 (新墨西哥州)
+Helena, Montana	赫勒拿 (蒙大拿州)
+Des Moines, Iowa	德梅因
+Ágreda	阿格雷达
+Nawita	章鱼
+Pierre, Saut Dakota	皮尔 (南达科他州)
+Carson City, Nevada	卡森城 (內華達州)
+Topeka, Kansas	托皮卡
+Raleigh, Not Carolina	罗利 (北卡罗来纳州)
+Ulsan	蔚山广域市
+Gwangju	光州廣域市
+Grepfrut	葡萄柚
+Julia Gillard	朱莉亞·吉拉德
+Hamlet	哈姆雷特
+Sebastian Vettel	賽巴斯蒂安·維泰爾
+Kevin Rudd	陆克文
+Montehermoso	蒙特埃尔莫索
+Salem, Oregon	塞勒姆 (俄勒冈州)
+Josef Smit	約瑟·斯密
+Busan Stesen	釜山站
+Oganaesesen blong ol Leba Raonwol	國際勞工組織
+Dongdaegu Stesen	東大邱站
+Daegu Stesen	大邱站
+Seodaejeon Stesen	西大田站
+Iolu Abil	约卢·阿比尔
+Noryangjin Stesen	鷺梁津站
+Namba	數詞
+Coronel Fabriciano	法布里西亚诺上校城
+Alla Pugacheva	阿拉·普加乔娃
+Flaeg blong Azerbaijan	阿塞拜疆国旗
+Sompiniong	蕈類
+Polanbol	波兰球
+Gdov	格多夫
+Namyoung Stesen	南營站
+Daebang Stesen	大方站
+Singil Stesen	新吉站 (首尔)
+Blumak	縱帶刺尾魚
+François Arago	弗朗索瓦·阿拉戈
+Memba Kaontri blong Unaeted Neisen	聯合國會員國列表
+Natanggura	琉球苏铁
+St Peter's College (Auckland)	奥克兰圣彼得中学
+Alan García	阿兰·加西亚·佩雷斯
+John Wycliffe	約翰·威克里夫
+Caltojar	卡尔托哈尔
+God	神
+Napoleong	曲紋唇魚
+Flaeg blong Vanuatu	萬那杜國旗
+Chang Myon	张勉
+Daejeon Swijyad Stesen	大田操车场
+Lou Reed	卢·里德
+Yun Chi-ho	尹致昊
+Robert Gates	罗伯特·盖茨
+William Tyndale	威廉·廷代尔
+Nagorno-Karabakh Republic	纳戈尔诺-卡拉巴赫共和国
+Efate	埃法特岛
+Yumi, Yumi, Yumi	我們，我們，我們
+Michael Somare	迈克尔·索马雷
+Bry-sur-Marne	马恩河畔布里
+Almaluez	阿尔马卢埃斯
+Edward Natapei	爱德华·纳塔佩
+Ambae Aelan	奧巴島
+Buk Blong Momon	摩爾門經
+Banian	榕亞屬
+Sato Kilman	萨托·基尔曼
+Ham Lini	汉姆·利尼
+Gupo Stesen	龟浦站 (韩国铁道公社)
+Coritiba Foot Ball Club	科里蒂巴足球俱乐部
+Aliud	阿柳德
+Baraona	巴劳纳
+Blufis	鸚哥魚科
+Tornesch	托尔内施
+Markdorf	马克多夫
+Tafea	塔菲亚省
+Shefa	谢法省
+Sanma	桑马省
+Malampa	马朗巴省
+Yonawa	約納瓦
+Sigal	澳洲紅嘴鷗
+Torba	托尔巴省
+Almarza	阿尔马萨
+Aldealices	阿尔德亚利塞斯
+Aldealafuente	阿尔德亚拉丰特
+Alentisque	阿伦蒂斯克
+Adradas	阿德拉达斯
+Alconaba	阿尔科纳瓦
+Abejar	阿韋哈爾
+Almajano	阿尔马哈诺
+Arenillas	阿雷尼利亚斯
+Aldealpozo	阿尔德亚尔波索
+Alcubilla de las Peñas	阿尔库维利亚德拉斯佩尼亚斯
+Aldealseñor	阿尔德亚尔塞尼奥尔
+Alcubilla de Avellaneda	阿尔库维利亚德亚韦利亚内达
+Casarejos	卡萨雷霍斯
+Almazul	阿尔马苏尔
+Alpanseque	阿尔潘塞克
+Arcos de Jalón	阿尔科斯德哈隆
+Aldehuela de Periáñez	阿尔德韦拉德佩里亚涅斯
+Almenar de Soria	阿尔梅纳尔德索里亚
+Ausejo de la Sierra	奥塞霍德拉谢拉
+Arévalo de la Sierra	阿雷瓦洛德拉谢拉
+Las Aldehuelas	拉萨尔德韦拉斯
+Bliecos	布列科斯
+Blacos	布拉科斯
+Penama	彭纳马省
+Barca	巴尔卡
+List blong provens blong Vanuatu	瓦努阿图行政区划
+Luganville	卢甘维尔
+Solan Stesen	率安站
+Praem Minista blong Vanuatu	瓦努阿图总理
+Kakao	可可粉
+Isangel	伊桑埃爾
+Oganaesesen blong Givhan long Ikonomi mo Sosaeti blong ol Kantri blong Esia mo Pasifik	联合国亚洲及太平洋经济社会委员会
+Pijin blong hariken	曳尾鹱
+Category:Germany	Category:德国
+Category:Itali	Category:意大利
+Category:Yunaeted Stet blong Amerika	Category:美国
+Category:Rusia	Category:俄罗斯
+Category:Kanada	Category:加拿大
+Category:United Kingdom	Category:英国
+Category:Spain	Category:西班牙
+Category:China	Category:中国
+Category:India	Category:印度
+Category:Niu Zilan	Category:新西兰
+Category:Bangladesh	Category:孟加拉国
+Category:Poland	Category:波蘭
+Category:Saot Koria	Category:大韓民國
+Category:Ukraine	Category:烏克蘭
+Category:Vietnam	Category:越南
+Category:Pijin	Category:鸟类
+Category:Baeoloji	Category:生物学
+Category:Histri	Category:历史
+Category:Jiografi	Category:地理
+Category:Sosaeti	Category:社会
+Category:Rilijin	Category:宗教
+Category:Saens	Category:科学
+Category:Yunaeted Nesen	Category:联合国
+Category:Budisim	Category:佛教
+Category:Kristaniti	Category:基督教
+Category:Islam	Category:伊斯兰教
+Ba Ria	巴地市
+Category:Wikipedia Manejmen	Category:維基百科管理
+Category:Kultur	Category:文化
+Category:Kontinen	Category:大洲
+Category:Pipol blong Yunaeted Stet blong Amerika	Category:美国人
+Sergio Mattarella	塞尔焦·马塔雷拉
+Category:Kaontri	Category:国家
+Category:Pipol	Category:人物
+Category:Intanet	Category:互联网
+Template:Bot	Template:Bot
+Kanada	加拿大
+Category:Hungary	Category:匈牙利
+Category:Czechia	Category:捷克
+Category:Litwania	Category:立陶宛
+Category:Slovakia	Category:斯洛伐克
+Category:Yurop	Category:欧洲
+Template:Documentation	Template:Documentation
+Category:Wikipedians by language	Category:用户语言
+Sung Jae-ki	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Category:Toktok	Category:语言
+Category:Wikipedia	Category:维基百科
+Category:Pages with broken file links	Category:缺少文件的页面
+Wikipedia:Statistics	Wikipedia:统计
+Category:Buk	Category:書籍
+Template:Babel	Template:Babel
+Template:Commons	Template:Commons
+Template:Link GA	Template:Link GA
+Template:User eo-1	Template:User eo-1
+Template:User en-2	Template:User en-2
+Template:User es-1	Template:User es-1
+Template:User sk	Template:User sk
+Template:User fr-2	Template:User fr-2
+Category:Azerbaijan	Category:亞塞拜然
+Category:Esia	Category:亚洲
+Template:Mod	Template:Mod
+Template:User it	Template:User it
+Template:States blog United States	Template:美国行政区划
+Template:Quotation	Template:Quotation
+Category:User en	Category:En 使用者
+Category:Croatia	Category:克罗地亚
+Category:User en-2	Category:En-2 使用者
+Template:Documentation/start box	Template:Documentation/start box
+Template:Documentation/end box2	Template:Documentation/end box2
+Template:Documentation/start box2	Template:Documentation/start box2
+Template:Template other	Template:Template other
+Template:Pp-template	Template:Pp-template
+Category:Hed blong Stet	Category:国家领导人
+Template:Purge	Template:Purge
+Template:Interwiki	Template:InterWiki
+Category:User sk	Category:Sk 使用者
+Category:User eo	Category:Eo 使用者
+Category:User fr	Category:Fr 使用者
+Category:User fr-2	Category:Fr-2 使用者
+Category:User it-N	Category:It 母語使用者
+Category:User sk-N	Category:Sk 母語使用者
+Category:User de	Category:De 使用者
+Category:User eo-1	Category:Eo-1 使用者
+Category:User es	Category:Es 使用者
+Category:User es-1	Category:Es-1 使用者
+Category:User it	Category:It 使用者
+Category:Praem Minista	Category:总理
+Category:Saens blong Pipol	Category:社会科学
+Category:1969 births	Category:1969年出生
+Category:Not Dakota	Category:北达科他州
+Category:Louisiana	Category:路易斯安那州
+Category:Arizona	Category:亚利桑那州
+Category:Kentucky	Category:肯塔基州
+Category:Armenia	Category:亞美尼亞
+Category:Vanuatu	Category:瓦努阿图
+Category:Hed blong Stet blong Yunaeted Stet blong Amerika	Category:美国总统
+Category:Paraguay	Category:巴拉圭
+Category:Papua Nui Guini	Category:巴布亚新几内亚
+Category:Andorra	Category:安道爾
+Category:Peru	Category:秘鲁
+Category:Albania	Category:阿爾巴尼亞
+Category:Fis	Category:鱼类
+Category:Dipsi	Category:远洋
+Category:Animol	Category:动物
+Category:Asturias	Category:阿斯圖里亞斯
+Category:Jos blong Jisas Kraes blong ol Lata-dei Sent	Category:耶穌基督後期聖徒教會
+Category:Wol	Category:世界
+Category:Catalonia	Category:加泰罗尼亚
+Trojany	特洛疆尼
+Category:Stesen blong Saot Koria	Category:韓國鐵路車站
+Wikipedia:Deletion log	Wikipedia:删除纪录/存档
+Template:Gyeongbu laen blong Saot Koria	Template:京釜线
+Yun Hyon-seok	六友堂
+Special:RecentChanges	Special:最近更改

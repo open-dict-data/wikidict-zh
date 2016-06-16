@@ -1,0 +1,909 @@
+Afelika	非洲
+Japan	日本
+Norge	挪威
+Hongrie	匈牙利
+Espania	西班牙
+Belezi	比利时
+Luxembourg	卢森堡
+Ntoto	地球
+Muntu	人
+Finlandi	芬兰
+Suedi	瑞典
+Danemark	丹麦
+Pologne	波兰
+Lietuva	立陶宛
+Italia	意大利
+Suisi	瑞士
+Autriche	奥地利
+Gelesi	希腊
+Turki	土耳其
+Mputulukesi	葡萄牙
+Mputu	欧洲
+Azia	亚洲
+Pays-Bas	荷兰
+Berlin	柏林
+Ludinatelo	電子計算機
+Paris	巴黎
+Kenya	肯尼亚
+Itiopia	埃塞俄比亚
+Gana	加纳
+Nkosi	狮
+Fwalansa	法国
+Royaume-Uni	英国
+Nyawu	猫
+Sina	中华人民共和国
+Kifalanse	法语
+Brazil	巴西
+François Hollande	弗朗索瓦·奥朗德
+Rusia	俄罗斯
+Kalunga	海
+Alemanyi	德国
+Belarusia	白俄罗斯
+Kidoitce	德语
+Islande	冰岛
+Estonia	爱沙尼亚
+Ndèke	固定翼飛機
+Vita	战争
+4 (ntalu)	4
+Latvia	拉脫維亞
+Uklenyi	乌克兰
+République tchèque	捷克
+Slovakia	斯洛伐克
+Slovenia	斯洛文尼亚
+Vilnius	维尔纽斯
+Moldova	摩尔多瓦
+Romania	羅馬尼亞
+Balgaria	保加利亚
+Roma	罗马
+Makedonia	馬其頓共和國
+Albania	阿尔巴尼亚
+Kroatia	克罗地亚
+Bosna	波斯尼亚和黑塞哥维那
+Azerbaidjan	阿塞拜疆
+Andora	安道尔
+Kipros	賽普勒斯
+Kazakhstan	哈萨克斯坦
+Malta	马耳他
+Monako	摩纳哥
+Monte Negro	蒙特內哥羅
+Vatican	梵蒂冈
+Saint-Marin	圣马力诺
+Repubilika ya Afelika ya Sudi	南非
+Algeria	阿尔及利亚
+Uzbekistan	乌兹别克斯坦
+Maza	水
+Chile	智利
+Yesu	耶稣
+Ndinga	語言
+Kizabu	科学
+Liechtenstein	列支敦斯登
+Ubuntu	Ubuntu
+Skopje	斯科普里
+Kilatini	拉丁语
+Bahrain	巴林
+Armenia	亞美尼亞
+Serbie	塞尔维亚
+Australia	澳大利亚
+Fizika	物理学
+Kisilamu	伊斯兰教
+Dinu	牙齒
+Mweta	行星
+Moskva	莫斯科
+Saint Petersburg	圣彼得堡
+Tasadi	乍得
+Nôde	北
+India	印度
+Kibende	铁
+Kibulu	动物
+Mutako	铜
+Ayiti	海地
+Iran	伊朗
+Israel	以色列
+Jordan	约旦
+Kuwait	科威特
+Amelika	美洲
+Oman	阿曼
+Qatar	卡塔尔
+Lukalu	鐵路列車
+Vietnam	越南
+Wolo	金
+Mali	马里共和国
+Ngola	安哥拉
+Tanzania	坦桑尼亚
+Repubilika ya Afelika ya Kati	中非共和國
+Togo	多哥
+Tunisia	突尼西亞
+Zambia	赞比亚
+Zimbabwe	辛巴威
+Beijing (kizunga)	北京市
+Sudan ya Sudi	南蘇丹
+Benin	贝宁
+Botswana	波札那
+Burkina Faso	布吉納法索
+Burundi	蒲隆地
+Komoro	葛摩
+Repubilika ya Kôngo	刚果共和国
+Repubilika ya Kôngo ya Dimokalasi	刚果民主共和国
+Djibuti	吉布提
+Bavaria	巴伐利亚
+Ginea ya Ekwatelo	赤道几内亚
+Baden-Württemberg	巴登-符腾堡
+Eritrea	厄立特里亚
+Ngabu	加蓬
+Gambia	冈比亚
+Ginea	几内亚
+Ginea-Bisau	幾內亞比索
+Côte d'Ivoire	科特迪瓦
+Kamerun	喀麦隆
+Kap Verde	佛得角
+Lesotho	莱索托
+Liberia	利比里亚
+Libia	利比亚
+Malagasi	马达加斯加
+Malawi	马拉维
+Stuttgart	斯图加特
+Moritania	毛里塔尼亚
+Mauritius	毛里求斯
+Maroko	摩洛哥
+Musambiki	莫桑比克
+Namibia	纳米比亚
+Nijer	尼日尔
+Nizeria	奈及利亞
+Uganda	乌干达
+Rwanda	卢旺达
+Santu Tome na Prinsipe	圣多美和普林西比
+Senangale	塞内加尔
+Seychell	塞舌尔
+Sierra Leone	塞拉利昂
+Sômâlia	索马里
+Sudan	苏丹共和国
+Swati	斯威士兰
+Hamburg	汉堡
+Langi	颜色
+Prague	布拉格
+Bule	藍色
+Schleswig-Holstein	石勒苏益格-荷尔斯泰因
+Mecklenburg-Vorpommern	梅克倫堡-西波美拉尼亞
+Niedersachsen	下萨克森
+Nordrhein-Westfalen	北莱茵-威斯特法伦
+Hessen	黑森
+Rheinland-Pfalz	莱茵兰-普法尔茨
+Saarland	薩爾蘭
+Sachsen	萨克森自由州
+Thüringen	图林根
+Sachsen-Anhalt	萨克森-安哈尔特
+Brandenburg	勃兰登堡
+Bremen (kizunga)	不來梅州
+Kalasi:Categories	Category:頁面分類
+Kispanya	西班牙语
+Mbuma	果实
+Uetersen	于特森
+Tomabîlu	汽车
+Bordo	波尔多
+Barcelona	巴塞罗那
+Nanasi	菠蘿
+Kihindi	印地语
+Potsdam	波茨坦
+Munich	慕尼黑
+Stockholm	斯德哥尔摩
+Vaduz	瓦都茲
+Biblia	聖經
+Ho Chi Minh City	胡志明市
+Dibundu ya Kieleka ya Yesu	真耶稣教会
+Kingelezi	英语
+Đồng Hới	同海市
+Concepción	康塞普西翁 (智利)
+Końskowola	孔斯科沃拉
+1917	1917年
+Kurów	库鲁夫
+1971	1971年
+1969	1969年
+Santiago de Chile	圣地亚哥-德智利
+Loire-Atlantique	大西洋卢瓦尔省
+Ain (kizunga)	安省 (法國)
+Aisne (kizunga)	埃纳省
+Vosges (kizunga)	孚日省
+Allier (kizunga)	阿列省
+Jura (kizunga)	汝拉省
+Hautes-Alpes	上阿尔卑斯省
+Alpes-de-Haute-Provence	上普罗旺斯阿尔卑斯省
+Alpes-Maritimes	滨海阿尔卑斯省
+Ardèche (kizunga)	阿尔代什省
+Ardennes (kizunga)	阿登省
+Ariège (kizunga)	阿列日省
+Aube (kizunga)	奥布省
+Aude (kizunga)	奥德省
+Aveyron (kizunga)	阿韦龙省
+Bouches-du-Rhône	罗讷河口省
+Calvados (kizunga)	卡爾瓦多斯省
+Cantal (kizunga)	康塔爾省
+Charente (kizunga)	夏朗德省
+Charente-Maritime	滨海夏朗德省
+Cher (kizunga)	谢尔省
+Corrèze (kizunga)	科雷兹省
+Haute-Corse	上科西嘉
+Corse-du-Sud	南科西嘉
+Côte-d'Or	科多尔省
+Côtes-d'Armor	阿摩尔滨海省
+Creuse (kizunga)	克勒兹省
+Dordogne (kizunga)	多爾多涅省
+Doubs (kizunga)	杜省
+Drôme (kizunga)	德龙省
+Essonne (kizunga)	埃松省
+Eure (kizunga)	厄尔省
+Eure-et-Loir	厄尔-卢瓦尔省
+Finistère	非尼斯泰尔省
+Nilo	尼罗河
+Nzâdi Kôngo	刚果河
+Adis Abeba	亚的斯亚贝巴
+Ndjamena	恩賈梅納
+Bamako	巴馬科
+Chiguayante	奇瓜揚特
+Guyane	法屬圭亞那
+Chillán	奇廉
+Abuja	阿布贾
+Tübingen	蒂宾根
+Libreville	利伯维尔
+Kinsasa	金夏沙
+Balazavile	布拉柴维尔
+Dodoma	多多马
+Lwanda	罗安达
+Windhoek	温得和克
+Mubu	河流
+Osasko	奥萨斯库
+Kuritiba	庫里奇巴
+Afelika ya Lumonso	西部非洲
+Georgia (country)	喬治亞 (消歧義)
+Kiyesu	基督教
+Kontina	洲
+Mbanza ya kimfumu	首都
+Monzón	蒙宗
+Kimputulukesi	葡萄牙語
+Ngonda (manaka)	月
+Almazán	艾爾瑪善鎮
+Mukânda ya ngudi	Wikipedia:首页
+Saratov	薩拉托夫
+Troyes	特鲁瓦
+Kalasi:Candidates for speedy deletion	Category:快速删除候选
+Montpellier	蒙彼利埃
+Carcassonne	卡尔卡松
+Poitiers	普瓦捷
+Agen	阿让
+Kimvuka ya Afelika	非洲联盟
+Dimokalasi	民主
+Bayuda	犹太人
+Nyama ya mabele	哺乳动物
+Nzau	象
+Kiswahili	斯瓦希里语
+Kitsunkwo	汉语
+Kalasi:Falanse	Category:法国
+Kalasi:Musique	Category:音乐
+Bumpika	奴隶制度
+Shanghai (kizunga)	上海市
+Málaga	马拉加
+Lukwikilu	宗教
+Kibang'la	孟加拉语
+Ronald Reagan	罗纳德·里根
+Kizulu	祖鲁语
+Sasa	扎扎其語
+Kutanga	算术
+Dikâlu (velo)	自行車
+Chongqing (kizunga)	重庆市
+Tianjin (kizunga)	天津市
+Yinsi	世界政區索引
+Mukaba ya ntangu	时区
+Sida	艾滋病
+Gard	加尔省
+Gers (kizunga)	热尔省
+Gironde (kizunga)	吉倫特省
+Haute-Garonne	上加龙省
+Hauts-de-Seine	上塞纳省
+Hérault (kizunga)	埃罗省
+Ille-et-Vilaine	伊勒-维莱讷省
+Indre (kizunga)	安德尔省
+Indre-et-Loire	安德尔-卢瓦尔省
+Isère (kizunga)	伊泽尔省
+Landes (kizunga)	朗德省
+Loir-et-Cher	卢瓦尔-谢尔省
+Loire (kizunga)	卢瓦尔省
+Haute-Loire	上盧瓦爾省
+Loiret (kizunga)	卢瓦雷省
+Lot (kizunga)	洛特省
+Lot-et-Garonne	洛特-加龍省
+Lozère (kizunga)	洛泽尔省
+Maine-et-Loire	曼恩-卢瓦尔省
+Manche (kizunga)	芒什省
+Marne (kizunga)	马恩省
+Haute-Marne	上马恩省
+Mayenne (kizunga)	马耶讷省
+Meurthe-et-Moselle	默尔特-摩泽尔省
+Meuse (kizunga)	默兹省
+Morbihan	莫尔比昂省
+Moselle (kizunga)	摩泽尔省
+Nièvre (kizunga)	涅夫勒省
+Nord (kizunga)	诺尔省
+Oise (kizunga)	瓦兹省
+Orne (kizunga)	奧恩省
+Pas-de-Calais	加来海峡省
+Puy-de-Dôme	多姆山省
+Hautes-Pyrénées	上比利牛斯省
+Pyrénées-Atlantiques	比利牛斯-大西洋省
+Pyrénées-Orientales	东比利牛斯省
+Bas-Rhin	下莱茵省
+Haut-Rhin	上莱茵省
+Haute-Saône	上索恩省
+Saône-et-Loire	索恩-卢瓦尔省
+Sarthe (kizunga)	萨尔特省
+Savoie (kizunga)	萨瓦省
+Haute-Savoie	上萨瓦省
+Seine-et-Marne	塞纳-马恩省
+Seine-Maritime	滨海塞纳省
+Seine-Saint-Denis	塞纳-圣但尼省
+Deux-Sèvres	德塞夫勒省
+Somme (kizunga)	索姆省
+Tarn (kizunga)	塔恩省
+Tarn-et-Garonne	塔恩-加龙省
+Territoire de Belfort	贝尔福地区
+Val-d'Oise	瓦茲河谷省
+Val-de-Marne	马恩河谷省
+Var (kizunga)	瓦尔省
+Vaucluse (kizunga)	沃克吕兹省
+Vendée (kizunga)	旺代省
+Vienne (kizunga)	维埃纳省
+Haute-Vienne	上维埃纳省
+Yonne (kizunga)	约讷省
+Yvelines	伊夫林省
+Nerja	内尔哈
+Torrox	托罗斯
+Moclinejo	莫克利内霍
+Ronda	龙达 (西班牙)
+Alcaucín	阿尔考辛
+Cañete la Real	卡涅特拉雷亚尔
+Kixhosa	科萨语
+Kilabu	阿拉伯语
+Kapoti	避孕套
+Kiunsita	奥克语
+Lebu	萊布 (智利)
+Guangdong	广东省
+Guangxi Zhuang	广西壮族自治区
+Template:Link FA	Template:Link FA
+Los Ángeles (Chile)	洛桑赫萊斯 (比奧比奧省)
+Jiangsu	江苏省
+Zhejiang	浙江省
+Guadeloupe	瓜德罗普
+Madinina	馬提尼克
+Mayota	马约特
+La Réunion	留尼汪
+Xizang	西藏自治区
+Heilongjiang	黑龙江省
+San Pedro de la Paz	聖佩德羅德拉帕斯
+Nha Trang	芽莊市
+Rafael Correa	拉斐尔·科雷亚
+Motorhead	摩托头
+Mbuluku	驴
+Sichuan	四川省
+Juan Carlos I	胡安·卡洛斯一世
+Vung Tau	頭頓市
+API	國際音標
+Hebei	河北省
+Kibaha	巴哈伊信仰
+Irlande	爱尔兰岛
+Mposo	星期
+Lordi	妖怪樂團
+Marseille	马赛
+Moshchena	穆夏那
+Paltoga	帕托加
+Entrena	恩特雷纳
+Podgorica	波德戈里察
+Ntu	头
+Muyimbu ya nsi	国歌
+Nzila ya busula	方位
+Rammstein	德国战车
+Ca Mau	金瓯市
+Da Lat	大叻市
+Da Nang	岘港市
+Racibórz	拉齐布日
+Phan Thiet	藩切市
+Université Niccolò Cusano	尼可罗库萨诺大学
+Afelika ya Node	北部非洲
+Afelika ya Sudi	南部非洲
+Afelika ya Lunene	东部非洲
+Modern Talking	Modern Talking
+Afelika ya Kati	中部非洲
+Magribia	馬格里布
+Nyosi	西方蜜蜂
+Mbele	小刀
+Bandinga ya kibantu	班图语支
+Patua	方言
+Kisikôngo	刚果语
+Nice	尼斯
+Nsangu ya mbote	福音书
+Yingo	豹
+Kifalu	犀牛
+Busula	指南针
+Bambangi ya Yehowa	耶和華見證人
+Kinobenia	奥弗涅方言
+Kigasuku	加斯科方言
+Kikôngo	吉土巴语
+Kimbundu	金邦杜语
+Kongo	刚果
+Dingala	林加拉语
+Kibubu	大猩猩
+Arancón	阿兰孔
+Nkuku	甘蔗
+Zandu	市场
+Tosa Inu	土佐鬥犬
+Soka	斧
+Radio Studio 54 Network	第54演播室電台聯播網
+Ágreda	阿格雷达
+.cg	.cg
+Sizo	剪刀
+Anhui	安徽省
+Nei Mongol	内蒙古自治区
+Świnoujście	希維諾烏伊希切
+Fujian	福建省
+Talcahuano	塔爾卡瓦諾
+Clermont-Ferrand	克莱蒙费朗
+Hainan	海南省
+Gansu	甘肃省
+Dikûmbi	载具
+Mafuta	油
+Yunnan	云南省
+Shandong	山东省
+Henan	河南省
+Liaoning	辽宁省
+Dikongo	槍
+Jilin	吉林省
+Hunan	湖南省
+Qinghai	青海省
+Rhône (kizunga)	羅納省
+Hubei	湖北省
+Shanxi	山西省
+Guizhou	贵州省
+Charleville-Mézières	沙勒维尔-梅济耶尔
+Shaanxi	陕西省
+Template:Commonscat	Template:Commons category
+Jiangxi	江西省
+Joseph Kabila	约瑟夫·卡比拉
+Deni Sasu Ngeso	德尼·萨苏-恩格索
+Ningxia Hui	宁夏回族自治区
+Kimpenzi	黑猩猩屬
+Nzeniele	工程师
+La Rochelle	拉罗歇尔
+Mandioko	木薯
+Dalapo ya Ngabu	加蓬国旗
+Kuvete ya Wesete	西盆地省 (剛果共和國)
+Maniema	马涅马省
+Kôngo ya Kati	下刚果省
+Kivu ya Node	北基伍省
+Nkwezo	橡膠
+Bourges	布尔日
+Albi	阿尔比
+Bourg-en-Bresse	布雷斯地区布尔格
+Angoulême	昂古莱姆
+Bansi ya balabu	阿拉伯世界
+Tulle	蒂勒
+Nzila ya lukalu	鐵路軌道
+Dalapo ya Repubilika ya Kôngo	刚果共和国国旗
+Dalapo ya Repubilika ya Kongo Demokratiki	刚果民主共和国国旗
+Laon	拉昂
+Kabinda (kizunga)	喀丙達省
+Bambenga	俾格米人
+Babantu	班圖人
+Châteauroux	沙托鲁
+Villa Alemana	阿萊馬納鎮
+Gap	加普
+Caltojar	卡尔托哈尔
+Vodu	伏都教
+Berlanga de Duero	贝尔兰加德杜埃罗
+Digne	迪涅萊班
+Saint-Lô	圣洛
+Foix	富瓦
+Moulins	穆蘭
+Kenge	根蓋
+Mont-de-Marsan	蒙德马桑
+Guéret	盖雷
+Berat (kizunga)	培拉特州
+La Roche-sur-Yon	永河畔拉罗什
+Bengo	本哥省
+Mende	芒德 (洛澤爾省)
+Vlorë (kizunga)	夫羅勒州
+Durrës (kizunga)	杜勒斯州
+Dibër	第巴爾州
+Privas	普里瓦
+Lezhë (kizunga)	列澤州
+Shkodër (kizunga)	士科德州
+Gjirokastër (kizunga)	吉羅卡斯特州
+Korçë (kizunga)	科赤州
+Elbasan (kizunga)	艾巴申州
+Łobez	沃貝茲
+Kizûnga Nzâdi	薩伊省
+Goma	戈马
+Joseph Kasa Vubu	约瑟夫·卡萨武布
+Bandinga ya Afrika	非洲语言
+Bidimbu ya Repubilika ya Kongo Demokratiki	刚果民主共和国国徽
+Mbandaka	姆班达卡
+Matadi	马塔迪
+Kizûnga Wizi	威熱省
+Telama besi Kongo	起来，刚果人
+Lubitu	洛比托
+Mboma	博馬 (剛果民主共和國)
+Ndindi	黑角
+Angola Avante	安哥拉前进
+Tirana (kizunga)	地拉那州
+Muamba	棕櫚油
+Kukës (kizunga)	庫克斯州
+Fier (kizunga)	非夏爾州
+Wanzio	天使
+Mobilisa	動員
+Dolizi	多利西
+Álora	阿洛拉
+Kasâyi (kizûnga)	开赛省
+Kikwit	基奎特
+Antoine Gizenga	安托万·基赞加
+La Congolaise	刚果人 (国歌)
+Bizunga ya Ngola	安哥拉行政區劃
+Adolphe Muzito	阿道尔夫·穆基杜
+Almaluez	阿尔马卢埃斯
+Faraján	法拉汉
+Pascal Lisuba	帕斯卡尔·利苏巴
+Cútar	库塔尔
+Lualaba	卢阿拉巴
+Tshuapa	楚阿帕省
+Marien Nguabi	马里安·恩古瓦比
+Mbizi	安布里什
+Tsiowa	卡宾达 (城市)
+Masuku	弗朗斯维尔
+Kaudai	高台教
+Paramore	帕拉莫尔
+Aliud	阿柳德
+Baraona	巴劳纳
+Medinaceli	梅迪纳塞利
+Marbella	马贝拉
+Láchar	拉查尔
+Burgo de Osma-Ciudad de Osma	布尔戈德奥斯马-休达德奥斯马
+Kivu ya Sudi	南基伍省
+Benalmádena	贝纳尔马德纳
+Comares	科马雷斯
+Fuengirola	丰希罗拉
+Torremolinos	托雷莫利诺斯
+Vélez-Málaga	贝莱斯-马拉加
+Mijas	米哈斯
+Estepona	埃斯特波纳
+Mbânza Kôngo	姆班扎剛果
+Navaleno (Soria)	纳瓦莱诺
+Atajate	阿塔哈特
+Fulbert Yulu	富尔贝·尤卢
+Kwilu (Kikwit)	奎卢省
+Antequera	安特克拉
+Kamina	卡米納
+Dévanos	德瓦诺斯
+Bakôngo	刚果人
+Arenas	格乔阿雷纳斯俱乐部
+Villanueva del Rosario	罗萨里奥新镇
+Magaña	马加尼亚
+Karibe	加勒比地区
+Centenera de Andaluz	森特内拉德亚恩达卢斯
+Periana	佩里亚纳
+Bandundu	班顿杜
+Joachim Yhombi-Opango	若阿基姆·雍比－奥庞戈
+Tolox	托洛斯
+Dizanga Malebo	馬萊博湖
+Kizunga Kwango	宽果省
+Kuvete	盆地省 (剛果共和國)
+Kôngo ya Ntotila	刚果王国
+Banana	巴纳纳
+Kisinto	神道
+Benahavís	贝纳阿维斯
+Benalauría	贝纳劳里亚
+Benaoján	贝瑙汉
+Benarrabá	贝纳拉瓦
+Buenza	布恩扎省
+Almarza	阿尔马萨
+Aldealices	阿尔德亚利塞斯
+Aldealafuente	阿尔德亚拉丰特
+Alentisque	阿伦蒂斯克
+Adradas	阿德拉达斯
+Alconaba	阿尔科纳瓦
+Abejar	阿韋哈爾
+Almajano	阿尔马哈诺
+Arenillas	阿雷尼利亚斯
+Aldealpozo	阿尔德亚尔波索
+Alcubilla de las Peñas	阿尔库维利亚德拉斯佩尼亚斯
+Aldealseñor	阿尔德亚尔塞尼奥尔
+Alcubilla de Avellaneda	阿尔库维利亚德亚韦利亚内达
+Covaleda	科瓦莱达
+Casarejos	卡萨雷霍斯
+Cerbón	塞尔翁
+Calatañazor	卡拉塔尼亚索尔
+Almazul	阿尔马苏尔
+Cidones	西多内斯
+Alpanseque	阿尔潘塞克
+Arcos de Jalón	阿尔科斯德哈隆
+Aldehuela de Periáñez	阿尔德韦拉德佩里亚涅斯
+Beratón	贝拉通
+Almenar de Soria	阿尔梅纳尔德索里亚
+Maján	马汉 (索里亚省)
+Coscurita	科斯库里塔
+Barcones	巴尔科内斯
+Castilfrío de la Sierra	卡斯蒂尔夫里奥德拉谢拉
+Castilruiz	卡斯蒂尔鲁伊斯
+Miño de Medinaceli	米尼奥德梅迪纳塞利
+Cigudosa	西古多萨
+Candilichera	坎迪利切拉
+Ausejo de la Sierra	奥塞霍德拉谢拉
+Arévalo de la Sierra	阿雷瓦洛德拉谢拉
+Pozalmuro	波萨尔穆罗
+Cabrejas del Pinar	卡夫雷哈斯德尔皮纳尔
+Cubilla	库维利亚
+Castillejo de Robledo	卡斯蒂列霍德罗夫莱多
+Escobosa de Almazán	埃斯科沃萨德亚尔马桑
+Estepa de San Juan	埃斯特帕德圣胡安
+Carrascosa de la Sierra	卡拉斯科萨德拉谢拉
+Las Aldehuelas	拉萨尔德韦拉斯
+Bayubas de Arriba	上巴尤瓦斯
+Bliecos	布列科斯
+Muriel Viejo	穆列尔维耶霍
+Fuentecambrón	丰特坎夫龙
+Cabrejas del Campo	卡夫雷哈斯德尔坎波
+Frechilla de Almazán	弗雷奇利亚德亚尔马桑
+Ciria	西里亚
+Fuentes de Magaña	丰特斯德马加尼亚
+Duruelo de la Sierra	杜鲁埃洛德拉谢拉
+Bayubas de Abajo	下巴尤瓦斯
+Fuentearmegil	丰特亚尔梅希尔
+Fuentelmonge	丰特尔蒙赫
+Momblona	蒙夫洛纳
+Fresno de Caracena	弗雷斯诺德卡拉塞纳
+Fuentecantos	丰特坎托斯
+Pinilla del Campo	皮尼利亚德尔坎波
+Blacos	布拉科斯
+Narros (Soria)	纳罗斯
+Fuentelsaz de Soria	丰特尔萨斯德索里亚
+Muriel de la Fuente (Soria)	穆列尔德拉丰特
+Espejón	埃斯佩洪
+Liceras	利塞拉斯
+Matalebreras	马塔莱夫雷拉斯
+Quintana Redonda	金塔纳雷东达
+Nafría de Ucero	纳夫里亚德乌塞罗
+Langa de Duero (Soria)	兰加德杜埃罗
+Quiñonería	基尼奥内里亚
+Portillo de Soria	波尔蒂略德索里亚
+Gormaz	戈尔马斯
+Cueva de Ágreda	库埃瓦德亚格雷达
+Cirujales del Río	西鲁哈莱斯德尔里奥
+Cubo de la Solana	库沃德拉索拉纳
+Miño de San Esteban	米尼奥德圣埃斯特万
+Fuentestrún	丰特斯特伦
+Espeja de San Marcelino	埃斯佩哈德圣马尔塞利诺
+Matamala de Almazán	马塔马拉德亚尔马桑
+La Póveda de Soria	拉波韦达德索里亚
+Los Rábanos	洛斯拉瓦诺斯
+Quintanas de Gormaz	金塔纳斯德戈尔马斯
+Renieblas	雷涅夫拉斯
+Morón de Almazán (Soria)	莫龙德亚尔马桑
+Herrera de Soria	埃雷拉德索里亚
+Deza	德萨
+Monteagudo de las Vicarías (Soria)	蒙特亚古多德拉斯维卡里亚斯
+Montejo de Tiermes (Soria)	蒙特霍德铁尔梅斯
+La Losilla	拉洛西利亚
+Fuentepinilla	丰特皮尼利亚
+Golmayo	戈尔迈奥
+Gómara	戈马拉
+Montejaque	蒙特哈克
+Alhaurín el Grande	阿尔奥里内尔格兰德
+Ilebo	伊萊博
+Kuilu (Repubilika ya Kongo)	奎盧省 (剛果共和國)
+Mbanza-Ngungu	姆班扎恩古恩古
+Pool	普爾省
+Wiji	威熱
+Júzcar	胡斯卡尔
+Casares	卡萨雷斯
+Manilva	马尼尔瓦
+Archidona	阿尔奇多纳
+Fuente de Piedra	丰特-德彼德拉
+Algarrobo	阿尔加罗沃 (西班牙)
+Cártama	卡尔塔马
+Campillos	坎皮略斯
+Gaucín	高辛
+Frigiliana	夫里希利亚纳
+Ojén	奥亨
+Villanueva de Tapia	塔皮亚新镇
+Niari	尼阿里省
+Benamargosa	贝纳马尔戈萨
+Totalán	托塔兰
+Alhaurín de la Torre	阿尔奥林德拉托雷
+Molinos de Duero	莫利诺斯德杜埃罗
+Hinojosa del Campo	伊诺霍萨德尔坎波
+Mbuku-Nzau	布科藻
+Muanda (Ngabu)	莫安達
+Mbanza Soyo	索約
+Colmenar	科尔梅纳尔
+Muanda (RKD)	姆安达
+Coín	科因
+Jimera de Líbar	希梅拉德利瓦尔
+Kizunga Luwalaba	卢阿拉巴省
+Kizunga Mayi-Ndombe	马伊恩东贝省
+Owando	奥旺多
+Rincón de la Victoria	林孔德拉维克托里亚
+Kalasi:Alemanyi	Category:德国
+Kalasi:Italia	Category:意大利
+Kalasi:Rusia	Category:俄罗斯
+Kalasi:Espania	Category:西班牙
+Kalasi:Sina	Category:中国
+Kalasi:Australia	Category:澳大利亚
+Cortes de la Frontera	科尔特斯德拉夫龙特拉
+Kalasi:Repubilika ya Kongo ya Dimokalasi	Category:剛果民主共和國
+Kalasi:Republika ya Itiopia	Category:衣索比亞
+Kalasi:Repubilika ya Tanzania	Category:坦尚尼亞
+Kalasi:Vietnam	Category:越南
+Kalasi:Lukwikilu	Category:宗教
+Kalasi:Bizabu	Category:科学
+Kalasi:Ntoto	Category:地球
+Alameda	阿拉梅达
+Alfarnatejo	阿尔法尔纳特霍
+El Burgo	埃尔武尔戈 (马拉加省)
+Cómpeta	孔佩塔
+Ardales	阿尔达莱斯
+Alfarnate	阿尔法尔纳特
+Monda	蒙达
+Villanueva del Trabuco	特拉武科新镇
+Pujerra	普赫拉
+Benamocarra	贝纳莫卡拉
+Arriate	阿里亚特
+Alpandeire	阿尔潘德雷
+Igualeja	伊瓜莱哈
+Sayalonga	赛阿隆加
+Benadalid	贝纳达利德
+Sedella	塞德利亚
+Cartajima	卡尔塔希马
+Parauta	帕劳塔
+El Borge	埃尔沃尔赫
+Alozaina	阿洛赛纳
+Teba	特瓦 (马拉加省)
+Cuevas Bajas	库埃瓦斯巴哈斯
+Genalguacil	赫纳尔瓜西尔
+Riogordo	里奥戈尔多
+Humilladero	乌米利亚德罗
+Almargen	阿尔马尔亨
+Casarabonela	卡萨拉沃内拉
+Mollina	莫利纳
+Jubrique	胡夫里克
+Casabermeja	卡萨韦尔梅哈
+Istán	伊斯坦
+Iznate	伊斯纳特
+Algatocín	阿尔加托辛
+Macharaviaya	马查拉维亚亚
+Canillas de Aceituno	卡尼利亚斯德亚塞图诺
+Villanueva de Algaidas	阿尔盖达斯新镇
+Almáchar	阿尔马查尔
+Valle de Abdalajís	巴列德亚夫达拉希斯
+Cuevas del Becerro	库埃瓦斯德尔韦塞罗
+Viñuela	比纽埃拉
+Salares	萨拉雷斯
+Cuevas de San Marcos	库埃瓦斯德圣马尔科斯
+Canillas de Albaida	卡尼利亚斯德亚尔瓦伊达
+Sierra de Yeguas	谢拉德埃瓜斯
+Yunquera	伊温克拉
+Guaro	瓜罗
+Carratraca	卡拉特拉卡
+Pizarra	皮萨拉
+Árchez	阿尔切斯
+Almogía	阿尔莫希亚
+Madingu	馬丁古
+Kalasi:Kikristo	Category:基督教
+Nkayi	恩卡伊
+Nzeto	恩澤托
+Repubilika ya Kabinda	卡宾达共和国
+Vivi	維維
+Lukula	盧庫拉
+Mayi-Ndombe	马伊恩东贝
+Dioso	迪奧索
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Wikipedia:Administrators	Wikipedia:管理员
+Wikipedia:Vital 100	Wikipedia:基礎條目/第二級
+Misiri	埃及
+Template:Bot	Template:Bot
+Kalasi:Hongrie	Category:匈牙利
+Kalasi:Bansi ya Mputu	Category:欧洲国家
+Kalasi:Mputu	Category:欧洲
+Template:Documentation	Template:Documentation
+Wikipedia:Community Portal	Wikipedia:社群首页
+Kalasi:Users by language	Category:用户语言
+Sung Jae-ki	成在基
+Template:Softredirect	Template:軟重定向
+Template:Delete	Template:Delete
+Kalasi:Ndinga	Category:语言
+Kalasi:Wikipedia	Category:维基百科
+Template:!-	Template:!-
+Template:E	Template:Exp10
+Template:Clear	Template:Clear
+Wikipedia:Vital articles	Wikipedia:基礎條目
+Kalasi:Afelika	Category:非洲
+Kalasi:Bantalu	Category:数
+Template:Babel	Template:Babel
+Template:Babel de	Template:User de
+Template:Babel en-2	Template:User en-2
+Template:Babel en-4	Template:User en-4
+Template:Babel en-0	Template:User en-0
+Template:Babel fr-1	Template:User fr-1
+Template:Babel it-3	Template:User it-3
+Template:User sk	Template:User sk
+Template:Babel tr	Template:User tr
+Kalasi:Azia	Category:亚洲
+Template:Mod	Template:Mod
+Template:Afrika	Template:Africa
+Template:Music	Template:Infobox musical artist
+Kalasi:User en-4	Category:En-4 使用者
+Kalasi:User en	Category:En 使用者
+Kalasi:User en-2	Category:En-2 使用者
+Category:Babantu	Category:班圖人
+Template:Documentation/start box	Template:Documentation/start box
+Template:Documentation/end box2	Template:Documentation/end box2
+Template:Documentation/start box2	Template:Documentation/start box2
+Template:Template other	Template:Template other
+Template:Pp-template	Template:Pp-template
+Template:·	Template:·
+Kalasi:Amelika	Category:美洲
+Template:Kanda	Template:Infobox Ethnic group
+Template:Fmbox	Template:Fmbox
+Template:Babel oc-4	Template:User oc-4
+Wikipedia:Nospam	Wikipedia:被保护的标题
+Template:Pp-meta	Template:Pp-meta
+Template:Bisongidila	Template:Disambig
+Kalasi:Bizunga ya Ngola	Category:安哥拉省份
+Template:Mputu	Template:Europe
+Kalasi:Bapolitiki ya Repubilika ya Kongo ya Dimokalasi	Category:刚果民主共和国政治人物
+Kalasi:User sk	Category:Sk 使用者
+Kalasi:User fr	Category:Fr 使用者
+Kalasi:User la	Category:La 使用者
+Kalasi:User oc	Category:Oc 使用者
+Kalasi:User sh	Category:Sh 使用者
+Kalasi:User cs-3	Category:Cs-3 使用者
+Kalasi:User it-3	Category:It-3 使用者
+Kalasi:User oc-4	Category:Oc-4 使用者
+Kalasi:User sk-2	Category:Sk-2 使用者
+Kalasi:User sh-2	Category:Sh-2 使用者
+Kalasi:User fr-N	Category:Fr 母語使用者
+Kalasi:User ca	Category:Ca 使用者
+Kalasi:User ca-3	Category:Ca-3 使用者
+Kalasi:User cs	Category:Cs 使用者
+Kalasi:User sk-N	Category:Sk 母語使用者
+Kalasi:User de	Category:De 使用者
+Kalasi:User en-0	Category:En-0 使用者
+Kalasi:User es	Category:Es 使用者
+Kalasi:User es-3	Category:Es-3 使用者
+Template:Babel la-3	Template:User la-3
+Kalasi:User it	Category:It 使用者
+Kalasi:User kg	Category:Kg 使用者
+Kalasi:User la-3	Category:La-3 使用者
+Kalasi:Babwala ya Falansa	Category:法國城市
+Kalasi:Bansi ya Afelika	Category:非洲国家
+Template:Babel es-3	Template:User es-3
+Kalasi:User tr	Category:Tr 使用者
+Kalasi:User tr-N	Category:Tr 母語使用者
+Kalasi:Kizunga ya Alemanyi	Category:德國行政區劃
+Kalasi:Repubilika ya Ngola	Category:安哥拉
+Kalasi:Ngabu	Category:加蓬
+Kalasi:Namibia	Category:纳米比亚
+Kalasi:Repubilika ya Kongo	Category:剛果共和國
+Template:Babel ca-3	Template:User ca-3
+Template:Babel cs-3	Template:User cs-3
+Kalasi:Bapolitiki ya Espania	Category:西班牙政治人物
+Kalasi:Bapolitiki ya Repubilika ya Kongo	Category:刚果共和国政治人物
+Kalasi:Bapolitiki ya Fwalansa	Category:法國政治人物
+Kalasi:Albania	Category:阿爾巴尼亞
+Kalasi:Université en Italia	Category:義大利大學
+Kalasi:Dalapo	Category:旗帜
+Kalasi:Babwala ya Ngabu	Category:加蓬城市
+The Prodigy	超凡樂團
+Kalasi:Babwala ya Namibia	Category:納米比亞城市
+Kalasi:Babwala ya Repubilika ya Kongo	Category:刚果共和国城市
+Mwela	空气
+Trojany	特洛疆尼
+Kalasi:Bizunga ya Repubilika ya Kongo ya Dimokalasi	Category:刚果民主共和国省份
+Kalasi:Kizunga ya Sina	Category:中国省份
+Kalasi:Babantu	Category:城市
+Kipele-pele	蝴蝶
+Special:RecentChanges	Special:最近更改
